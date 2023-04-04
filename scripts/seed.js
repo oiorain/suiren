@@ -10,7 +10,8 @@ async function seed() {
     for(const item of json){
       try {
         const entry = await strapi.entityService.findMany('api::word.word', {
-          filters: {kanji: item.kanji}
+          filters: {kanji: item.kanji},
+          limit: 1
         });
 
         if (entry.length == 0){
