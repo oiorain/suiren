@@ -11,6 +11,6 @@ module.exports = ({ env }) => ({
     },
   },
   auditLogs: {
-    enabled: false.
+    enabled: false,
   },
 });
