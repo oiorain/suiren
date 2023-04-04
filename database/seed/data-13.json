@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 5981,
+    "kanji": "お替わり",
+    "hiragana": "おかわり",
+    "english": "second helping, another cup, seconds, command to have dog place its second paw in one's hand",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5982,
+    "kanji": "お代り",
+    "hiragana": "おかわり",
+    "english": "second helping, another cup, seconds, command to have dog place its second paw in one's hand",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5983,
+    "kanji": "勿体ない",
+    "hiragana": "もったいない",
+    "english": "impious, profane, sacrilegious, too good, more than one deserves, unworthy of, wasteful",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5984,
+    "kanji": "勿体無い",
+    "hiragana": "もったいない",
+    "english": "impious, profane, sacrilegious, too good, more than one deserves, unworthy of, wasteful",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5985,
+    "kanji": "物体ない",
+    "hiragana": "もったいない",
+    "english": "impious, profane, sacrilegious, too good, more than one deserves, unworthy of, wasteful",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5986,
+    "kanji": "物体無い",
+    "hiragana": "もったいない",
+    "english": "impious, profane, sacrilegious, too good, more than one deserves, unworthy of, wasteful",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5987,
+    "kanji": "痒い",
+    "hiragana": "かゆい",
+    "english": "itchy",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5988,
+    "kanji": "呑気",
+    "hiragana": "のんき",
+    "english": "carefree, optimistic, careless, reckless, heedless, happy-go-lucky, easygoing, thoughtless",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5989,
+    "kanji": "暢気",
+    "hiragana": "のんき",
+    "english": "carefree, optimistic, careless, reckless, heedless, happy-go-lucky, easygoing, thoughtless",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5990,
+    "kanji": "暖気",
+    "hiragana": "のんき",
+    "english": "carefree, optimistic, careless, reckless, heedless, happy-go-lucky, easygoing, thoughtless",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5991,
+    "kanji": "のん気",
+    "hiragana": "のんき",
+    "english": "carefree, optimistic, careless, reckless, heedless, happy-go-lucky, easygoing, thoughtless",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5992,
+    "kanji": "湿る",
+    "hiragana": "しめる",
+    "english": "to be wet, to become wet, to be damp, to be moist, to be in low spirits, to feel depressed",
+    "jlpt": 2,
+    "wanikani": 45,
+    "is_common": true
+  },
+  {
+    "id": 5993,
+    "kanji": "裂く",
+    "hiragana": "さく",
+    "english": "to tear, to rip up, to cut up, to cleave, to cut open (esp. the abdomen), to forcibly separate (e.g. two lovers), to spare (time, money, etc.), to use part of something, to have a tattoo in the corner of one's eye",
+    "jlpt": 2,
+    "wanikani": 43,
+    "is_common": true
+  },
+  {
+    "id": 5994,
+    "kanji": "割く",
+    "hiragana": "さく",
+    "english": "to tear, to rip up, to cut up, to cleave, to cut open (esp. the abdomen), to forcibly separate (e.g. two lovers), to spare (time, money, etc.), to use part of something, to have a tattoo in the corner of one's eye",
+    "jlpt": 2,
+    "wanikani": 43,
+    "is_common": true
+  },
+  {
+    "id": 5995,
+    "kanji": "重なる",
+    "hiragana": "かさなる",
+    "english": "to be piled up, to lie on top of one another, to come one after another, to happen over and over, to pile up (e.g. stress), to accumulate, to overlap (each other), to occur at the same time, to happen simultaneously",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12656,
+    "kanji": "侍従",
+    "hiragana": "じじゅう",
+    "english": "chamberlain, Chamberlain of Japan",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5997,
+    "kanji": "姪",
+    "hiragana": "めい",
+    "english": "niece",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5998,
+    "kanji": "照る",
+    "hiragana": "てる",
+    "english": "to shine, to look slightly upward (of a noh mask; indicating joy, etc.)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 5999,
+    "kanji": "畳む",
+    "hiragana": "たたむ",
+    "english": "to fold (clothes, umbrella), to close (a shop, business), to vacate",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6000,
+    "kanji": "恐縮",
+    "hiragana": "きょうしゅく",
+    "english": "feeling obliged, being grateful, being thankful, being sorry, being ashamed, shrinking back in fear",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6001,
+    "kanji": "落第",
+    "hiragana": "らくだい",
+    "english": "failure, dropping out of a class",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6002,
+    "kanji": "教わる",
+    "hiragana": "おそわる",
+    "english": "to be taught (by), to learn from",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6005,
+    "kanji": "先ほど",
+    "hiragana": "さきほど",
+    "english": "some time ago, not long ago, just now",
+    "jlpt": 2,
+    "wanikani": 30,
+    "is_common": true
+  },
+  {
+    "id": 6006,
+    "kanji": "先程",
+    "hiragana": "さきほど",
+    "english": "some time ago, not long ago, just now",
+    "jlpt": 2,
+    "wanikani": 30,
+    "is_common": true
+  },
+  {
+    "id": 6007,
+    "kanji": "宛名",
+    "hiragana": "あてな",
+    "english": "(addressee's) name, (recipient's) name and address",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6008,
+    "kanji": "宛て名",
+    "hiragana": "あてな",
+    "english": "(addressee's) name, (recipient's) name and address",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6009,
+    "kanji": "あて名",
+    "hiragana": "あてな",
+    "english": "(addressee's) name, (recipient's) name and address",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6010,
+    "kanji": "揃う",
+    "hiragana": "そろう",
+    "english": "to become complete, to be all present, to be a full set, to have everything at one's disposal, to be equal, to be uniform, to gather, to assemble",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6011,
+    "kanji": "儲かる",
+    "hiragana": "もうかる",
+    "english": "to be profitable, to yield a profit",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6012,
+    "kanji": "但し",
+    "hiragana": "ただし",
+    "english": "but, however, provided that",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6013,
+    "kanji": "跳ねる",
+    "hiragana": "はねる",
+    "english": "to jump, to leap, to prance, to spring up, to bound, to hop, to break up, to close, to come to an end, to hit (e.g. to have a car hit something or someone)",
+    "jlpt": 2,
+    "wanikani": 39,
+    "is_common": true
+  },
+  {
+    "id": 12659,
+    "kanji": "供述",
+    "hiragana": "きょうじゅつ",
+    "english": "affidavit, deposition, testimony",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12660,
+    "kanji": "供与",
+    "hiragana": "きょうよ",
+    "english": "giving, provision, furnishing",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12661,
+    "kanji": "供える",
+    "hiragana": "そなえる",
+    "english": "to offer, to sacrifice, to dedicate",
+    "jlpt": null,
+    "wanikani": 24,
+    "is_common": true
+  },
+  {
+    "id": 12662,
+    "kanji": "供養",
+    "hiragana": "くよう",
+    "english": "memorial service for the dead, holding a service, Puja (Hinduism)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12664,
+    "kanji": "委嘱",
+    "hiragana": "いしょく",
+    "english": "entrusting (with)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12667,
+    "kanji": "価値観",
+    "hiragana": "かちかん",
+    "english": "sense of values, values, value system, Value (personal and cultural)",
+    "jlpt": null,
+    "wanikani": 24,
+    "is_common": true
+  },
+  {
+    "id": 6020,
+    "kanji": "打ち合せ",
+    "hiragana": "うちあわせ",
+    "english": "advance arrangements, preparatory meeting, briefing session, overlap (of a coat, etc.), making something match exactly",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6021,
+    "kanji": "打合せ",
+    "hiragana": "うちあわせ",
+    "english": "advance arrangements, preparatory meeting, briefing session, overlap (of a coat, etc.), making something match exactly",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6022,
+    "kanji": "打合わせ",
+    "hiragana": "うちあわせ",
+    "english": "advance arrangements, preparatory meeting, briefing session, overlap (of a coat, etc.), making something match exactly",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6023,
+    "kanji": "腰掛ける",
+    "hiragana": "こしかける",
+    "english": "to sit (down)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6024,
+    "kanji": "腰かける",
+    "hiragana": "こしかける",
+    "english": "to sit (down)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6025,
+    "kanji": "腰掛る",
+    "hiragana": "こしかける",
+    "english": "to sit (down)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6026,
+    "kanji": "溜める",
+    "hiragana": "ためる",
+    "english": "to amass, to accumulate, to store, to leave unpaid",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6027,
+    "kanji": "平凡",
+    "hiragana": "へいぼん",
+    "english": "ordinary, common, commonplace, mediocre, unremarkable, undistinguished, uneventful",
+    "jlpt": 2,
+    "wanikani": 56,
+    "is_common": true
+  },
+  {
+    "id": 6028,
+    "kanji": "通用",
+    "hiragana": "つうよう",
+    "english": "popular use, circulation, to pass as, to pass for",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6029,
+    "kanji": "何となく",
+    "hiragana": "なんとなく",
+    "english": "somehow or other, for some reason or another, vaguely",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6030,
+    "kanji": "何と無く",
+    "hiragana": "なんとなく",
+    "english": "somehow or other, for some reason or another, vaguely",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6031,
+    "kanji": "思い込む",
+    "hiragana": "おもいこむ",
+    "english": "to be under impression that, to be convinced that, to imagine that, to set one's heart on, to be bent on",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6032,
+    "kanji": "思いこむ",
+    "hiragana": "おもいこむ",
+    "english": "to be under impression that, to be convinced that, to imagine that, to set one's heart on, to be bent on",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6033,
+    "kanji": "溶け込む",
+    "hiragana": "とけこむ",
+    "english": "to melt into, to merge into, to fit in, to adapt, to blend",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6034,
+    "kanji": "解け込む",
+    "hiragana": "とけこむ",
+    "english": "to melt into, to merge into, to fit in, to adapt, to blend",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6035,
+    "kanji": "融け込む",
+    "hiragana": "とけこむ",
+    "english": "to melt into, to merge into, to fit in, to adapt, to blend",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6036,
+    "kanji": "溶込む",
+    "hiragana": "とけこむ",
+    "english": "to melt into, to merge into, to fit in, to adapt, to blend",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6037,
+    "kanji": "解込む",
+    "hiragana": "とけこむ",
+    "english": "to melt into, to merge into, to fit in, to adapt, to blend",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6038,
+    "kanji": "溶けこむ",
+    "hiragana": "とけこむ",
+    "english": "to melt into, to merge into, to fit in, to adapt, to blend",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6039,
+    "kanji": "とけ込む",
+    "hiragana": "とけこむ",
+    "english": "to melt into, to merge into, to fit in, to adapt, to blend",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6040,
+    "kanji": "実る",
+    "hiragana": "みのる",
+    "english": "to bear fruit, to ripen",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6041,
+    "kanji": "稔る",
+    "hiragana": "みのる",
+    "english": "to bear fruit, to ripen",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6042,
+    "kanji": "乾かす",
+    "hiragana": "かわかす",
+    "english": "to dry (clothes, etc.), to desiccate",
+    "jlpt": 2,
+    "wanikani": 33,
+    "is_common": true
+  },
+  {
+    "id": 6043,
+    "kanji": "受け持つ",
+    "hiragana": "うけもつ",
+    "english": "to take (be in) charge of",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6044,
+    "kanji": "目眩",
+    "hiragana": "めまい",
+    "english": "dizziness, giddiness, vertigo",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6045,
+    "kanji": "眩暈",
+    "hiragana": "めまい",
+    "english": "dizziness, giddiness, vertigo",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6046,
+    "kanji": "目まい",
+    "hiragana": "めまい",
+    "english": "dizziness, giddiness, vertigo",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6047,
+    "kanji": "目眩い",
+    "hiragana": "めまい",
+    "english": "dizziness, giddiness, vertigo",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6049,
+    "kanji": "威張る",
+    "hiragana": "いばる",
+    "english": "to put on airs, to act big, to throw one's weight about, to be overbearing, to be domineering, to be bossy, to be pushy, to be proud, to be haughty, to be arrogant, to swagger, to boast, to brag",
+    "jlpt": 2,
+    "wanikani": 43,
+    "is_common": true
+  },
+  {
+    "id": 6050,
+    "kanji": "意張る",
+    "hiragana": "いばる",
+    "english": "to put on airs, to act big, to throw one's weight about, to be overbearing, to be domineering, to be bossy, to be pushy, to be proud, to be haughty, to be arrogant, to swagger, to boast, to brag",
+    "jlpt": 2,
+    "wanikani": 43,
+    "is_common": true
+  },
+  {
+    "id": 6052,
+    "kanji": "担ぐ",
+    "hiragana": "かつぐ",
+    "english": "to shoulder, to carry on one's shoulder, to nominate for a position, to choose as a representative, to take (someone) for a ride, to deceive, to take in, to be caught up in superstition",
+    "jlpt": 2,
+    "wanikani": 24,
+    "is_common": true
+  },
+  {
+    "id": 12668,
+    "kanji": "儘",
+    "hiragana": "まま",
+    "english": "as it is, as one likes, because, as, condition, state, sic, sic erat scriptum, indicates that the quoted matter has been transcribed exactly as found in the source text",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6054,
+    "kanji": "謎謎",
+    "hiragana": "なぞなぞ",
+    "english": "riddle, puzzle, enigma",
+    "jlpt": 2,
+    "wanikani": 44,
+    "is_common": true
+  },
+  {
+    "id": 6055,
+    "kanji": "お休み",
+    "hiragana": "おやすみ",
+    "english": "holiday, day off, absence, sleep, rest, Good night",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6056,
+    "kanji": "脱線",
+    "hiragana": "だっせん",
+    "english": "derailment, digression, deviation",
+    "jlpt": 2,
+    "wanikani": 22,
+    "is_common": true
+  },
+  {
+    "id": 12669,
+    "kanji": "侵害",
+    "hiragana": "しんがい",
+    "english": "infringement, violation, invasion, encroachment, trespass",
+    "jlpt": null,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 12670,
+    "kanji": "侵犯",
+    "hiragana": "しんぱん",
+    "english": "violation, invasion, infringement, trespass",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12671,
+    "kanji": "侵攻",
+    "hiragana": "しんこう",
+    "english": "invasion, Invasion",
+    "jlpt": null,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 6060,
+    "kanji": "ご無沙汰",
+    "hiragana": "ごぶさた",
+    "english": "not writing or contacting for a while, neglecting (failing) to write (call, visit, etc.), long silence",
+    "jlpt": 2,
+    "wanikani": 59,
+    "is_common": true
+  },
+  {
+    "id": 6061,
+    "kanji": "ご不沙汰",
+    "hiragana": "ごぶさた",
+    "english": "not writing or contacting for a while, neglecting (failing) to write (call, visit, etc.), long silence",
+    "jlpt": 2,
+    "wanikani": 59,
+    "is_common": true
+  },
+  {
+    "id": 6062,
+    "kanji": "いつの間にか",
+    "hiragana": "いつのまにか",
+    "english": "before one knows, before one becomes aware of, unnoticed, unawares",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6063,
+    "kanji": "何時の間にか",
+    "hiragana": "いつのまにか",
+    "english": "before one knows, before one becomes aware of, unnoticed, unawares",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6064,
+    "kanji": "耕す",
+    "hiragana": "たがやす",
+    "english": "to till, to plow, to plough, to cultivate",
+    "jlpt": 2,
+    "wanikani": 51,
+    "is_common": true
+  },
+  {
+    "id": 6065,
+    "kanji": "羊毛",
+    "hiragana": "ようもう",
+    "english": "wool",
+    "jlpt": 2,
+    "wanikani": 6,
+    "is_common": true
+  },
+  {
+    "id": 6066,
+    "kanji": "熱する",
+    "hiragana": "ねっする",
+    "english": "to heat, to heat up",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12672,
+    "kanji": "便",
+    "hiragana": "びん",
+    "english": "flight (e.g. airline flight), trip (e.g. train trip), service, mail, post, letter, opportunity, chance",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6068,
+    "kanji": "騒騒しい",
+    "hiragana": "そうぞうしい",
+    "english": "noisy, loud, boisterous, clamorous, raucous, turbulent, unsettled, restless",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6069,
+    "kanji": "下品",
+    "hiragana": "げひん",
+    "english": "vulgar, indecent, coarse, crude",
+    "jlpt": 2,
+    "wanikani": 16,
+    "is_common": true
+  },
+  {
+    "id": 6070,
+    "kanji": "愈",
+    "hiragana": "いよいよ",
+    "english": "more and more, all the more, increasingly, at last, finally, beyond doubt, (at the) last moment, worst possible time",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 14929,
+    "kanji": "学割",
+    "hiragana": "がくわり",
+    "english": "student discount",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6073,
+    "kanji": "愈愈",
+    "hiragana": "いよいよ",
+    "english": "more and more, all the more, increasingly, at last, finally, beyond doubt, (at the) last moment, worst possible time",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6074,
+    "kanji": "弥弥",
+    "hiragana": "いよいよ",
+    "english": "more and more, all the more, increasingly, at last, finally, beyond doubt, (at the) last moment, worst possible time",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6075,
+    "kanji": "ため息",
+    "hiragana": "ためいき",
+    "english": "sigh",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6076,
+    "kanji": "溜息",
+    "hiragana": "ためいき",
+    "english": "sigh",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6077,
+    "kanji": "溜め息",
+    "hiragana": "ためいき",
+    "english": "sigh",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6078,
+    "kanji": "若しかしたら",
+    "hiragana": "もしかしたら",
+    "english": "perhaps, maybe, perchance, by some chance, by any chance",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6079,
+    "kanji": "出鱈目",
+    "hiragana": "でたらめ",
+    "english": "irresponsible utterance, nonsense, bullshit, codswallop, random, haphazard, unsystematic",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6080,
+    "kanji": "信ずる",
+    "hiragana": "しんずる",
+    "english": "to believe, to believe in, to place trust in, to confide in, to have faith in",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6081,
+    "kanji": "真似る",
+    "hiragana": "まねる",
+    "english": "to mimic, to imitate",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6082,
+    "kanji": "目上",
+    "hiragana": "めうえ",
+    "english": "superior, superiors, senior",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6083,
+    "kanji": "引き止める",
+    "hiragana": "ひきとめる",
+    "english": "to detain, to check, to restrain",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6084,
+    "kanji": "引止める",
+    "hiragana": "ひきとめる",
+    "english": "to detain, to check, to restrain",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6085,
+    "kanji": "引き留める",
+    "hiragana": "ひきとめる",
+    "english": "to detain, to check, to restrain",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6086,
+    "kanji": "引力",
+    "hiragana": "いんりょく",
+    "english": "attraction (e.g. magnetic, gravitation), affinity, gravitational pull, attractiveness, magnetism",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6087,
+    "kanji": "惜しい",
+    "hiragana": "おしい",
+    "english": "regrettable, disappointing, precious, dear, valuable, too good for, deserving better, almost but not quite",
+    "jlpt": 2,
+    "wanikani": 57,
+    "is_common": true
+  },
+  {
+    "id": 6088,
+    "kanji": "尖る",
+    "hiragana": "とがる",
+    "english": "to taper to a point, to become sharp, to look displeased, to look sour, to be on edge, to be touchy",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6089,
+    "kanji": "尖がる",
+    "hiragana": "とがる",
+    "english": "to taper to a point, to become sharp, to look displeased, to look sour, to be on edge, to be touchy",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6092,
+    "kanji": "尖んがる",
+    "hiragana": "とんがる",
+    "english": "to taper to a point, to become sharp, to look displeased, to look sour, to be on edge, to be touchy",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12674,
+    "kanji": "便秘",
+    "hiragana": "べんぴ",
+    "english": "constipation, Constipation",
+    "jlpt": null,
+    "wanikani": 32,
+    "is_common": true
+  },
+  {
+    "id": 12675,
+    "kanji": "便乗",
+    "hiragana": "びんじょう",
+    "english": "taking advantage of (an opportunity), jumping on the bandwagon, taking passage (in), getting a lift, getting a ride",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6095,
+    "kanji": "塩辛い",
+    "hiragana": "しおからい",
+    "english": "salty (taste), briny",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6096,
+    "kanji": "鹹い",
+    "hiragana": "しおからい",
+    "english": "salty (taste), briny",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6097,
+    "kanji": "更ける",
+    "hiragana": "ふける",
+    "english": "to get late, to advance, to wear on",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6098,
+    "kanji": "深ける",
+    "hiragana": "ふける",
+    "english": "to get late, to advance, to wear on",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6099,
+    "kanji": "散らかす",
+    "hiragana": "ちらかす",
+    "english": "to scatter around, to leave untidy",
+    "jlpt": 2,
+    "wanikani": 33,
+    "is_common": true
+  },
+  {
+    "id": 6100,
+    "kanji": "纏まる",
+    "hiragana": "まとまる",
+    "english": "to find resolution, to be settled, to be agreed on, to be completed, to be collected, to be assembled, to be brought together, to be well arranged, to be in order, to be unified, to take shape, to be coherent",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6101,
+    "kanji": "護謨",
+    "hiragana": "ゴム",
+    "english": "gum, rubber, eraser, condom",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6102,
+    "kanji": "お洒落",
+    "hiragana": "おしゃれ",
+    "english": "smartly dressed, stylish, fashion-conscious, someone smartly dressed, to dress up, to be fashionable",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6103,
+    "kanji": "巫山戯る",
+    "hiragana": "ふざける",
+    "english": "to joke, to jest, to kid, to josh, to make fun of, to laugh at, to play a prank, to romp, to gambol, to frolic, to frisk, to mess around, to fool around, to screw around, to neck, to make out",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6104,
+    "kanji": "重たい",
+    "hiragana": "おもたい",
+    "english": "heavy, massive, serious, important, severe, oppressed",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6105,
+    "kanji": "因る",
+    "hiragana": "よる",
+    "english": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at",
+    "jlpt": 2,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 6106,
+    "kanji": "拠る",
+    "hiragana": "よる",
+    "english": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at",
+    "jlpt": 2,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 6107,
+    "kanji": "依る",
+    "hiragana": "よる",
+    "english": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at",
+    "jlpt": 2,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 6108,
+    "kanji": "由る",
+    "hiragana": "よる",
+    "english": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at",
+    "jlpt": 2,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 6109,
+    "kanji": "濡らす",
+    "hiragana": "ぬらす",
+    "english": "to wet, to moisten, to dampen, to soak, to dip",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6110,
+    "kanji": "濡す",
+    "hiragana": "ぬらす",
+    "english": "to wet, to moisten, to dampen, to soak, to dip",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6111,
+    "kanji": "整う",
+    "hiragana": "ととのう",
+    "english": "to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face), to be settled (e.g. treaty, contract), to be completed",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6112,
+    "kanji": "調う",
+    "hiragana": "ととのう",
+    "english": "to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face), to be settled (e.g. treaty, contract), to be completed",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6113,
+    "kanji": "斉う",
+    "hiragana": "ととのう",
+    "english": "to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face), to be settled (e.g. treaty, contract), to be completed",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6114,
+    "kanji": "戸棚",
+    "hiragana": "とだな",
+    "english": "cupboard, locker, closet, wardrobe, cabinet",
+    "jlpt": 2,
+    "wanikani": 44,
+    "is_common": true
+  },
+  {
+    "id": 6115,
+    "kanji": "探る",
+    "hiragana": "さぐる",
+    "english": "to feel around for, to fumble for, to grope for, to search for, to look for, to investigate, to probe into, to spy on, to sound out, to explore (parts unknown), to enjoy (natural beauty)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6116,
+    "kanji": "短所",
+    "hiragana": "たんしょ",
+    "english": "defect, demerit, weak point, disadvantage",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6220,
+    "kanji": "眼蓋",
+    "hiragana": "まぶた",
+    "english": "eyelid, eyelids",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12676,
+    "kanji": "便利さ",
+    "hiragana": "べんりさ",
+    "english": "convenience, handiness, usefulness",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6117,
+    "kanji": "着せる",
+    "hiragana": "きせる",
+    "english": "to put clothes on (someone), to plate, to gild, to veneer, to accuse (of some crime), to give (a bad name)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6118,
+    "kanji": "溶かす",
+    "hiragana": "とかす",
+    "english": "to melt, to dissolve",
+    "jlpt": 2,
+    "wanikani": 48,
+    "is_common": true
+  },
+  {
+    "id": 6119,
+    "kanji": "解かす",
+    "hiragana": "とかす",
+    "english": "to melt, to dissolve",
+    "jlpt": 2,
+    "wanikani": 48,
+    "is_common": true
+  },
+  {
+    "id": 6120,
+    "kanji": "融かす",
+    "hiragana": "とかす",
+    "english": "to melt, to dissolve",
+    "jlpt": 2,
+    "wanikani": 48,
+    "is_common": true
+  },
+  {
+    "id": 6121,
+    "kanji": "広める",
+    "hiragana": "ひろめる",
+    "english": "to spread, to propagate, to popularize, to disseminate, to broaden, to extend, to widen, to enlarge",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6122,
+    "kanji": "弘める",
+    "hiragana": "ひろめる",
+    "english": "to spread, to propagate, to popularize, to disseminate, to broaden, to extend, to widen, to enlarge",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6123,
+    "kanji": "混ざる",
+    "hiragana": "まざる",
+    "english": "to be mixed, to be blended with, to associate with, to mingle with, to join",
+    "jlpt": 2,
+    "wanikani": 19,
+    "is_common": true
+  },
+  {
+    "id": 6124,
+    "kanji": "交ざる",
+    "hiragana": "まざる",
+    "english": "to be mixed, to be blended with, to associate with, to mingle with, to join",
+    "jlpt": 2,
+    "wanikani": 19,
+    "is_common": true
+  },
+  {
+    "id": 6125,
+    "kanji": "雑ざる",
+    "hiragana": "まざる",
+    "english": "to be mixed, to be blended with, to associate with, to mingle with, to join",
+    "jlpt": 2,
+    "wanikani": 19,
+    "is_common": true
+  },
+  {
+    "id": 6126,
+    "kanji": "売り切れ",
+    "hiragana": "うりきれ",
+    "english": "sold-out",
+    "jlpt": 2,
+    "wanikani": 5,
+    "is_common": true
+  },
+  {
+    "id": 6127,
+    "kanji": "売切れ",
+    "hiragana": "うりきれ",
+    "english": "sold-out",
+    "jlpt": 2,
+    "wanikani": 5,
+    "is_common": true
+  },
+  {
+    "id": 6128,
+    "kanji": "売切",
+    "hiragana": "うりきれ",
+    "english": "sold-out",
+    "jlpt": 2,
+    "wanikani": 5,
+    "is_common": true
+  },
+  {
+    "id": 6129,
+    "kanji": "売り切れる",
+    "hiragana": "うりきれる",
+    "english": "to be sold out",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6130,
+    "kanji": "売切れる",
+    "hiragana": "うりきれる",
+    "english": "to be sold out",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6131,
+    "kanji": "剥く",
+    "hiragana": "むく",
+    "english": "to peel, to skin, to pare, to hull, to bare (e.g. fangs), to open wide (e.g. eyes)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6132,
+    "kanji": "剝く",
+    "hiragana": "むく",
+    "english": "to peel, to skin, to pare, to hull, to bare (e.g. fangs), to open wide (e.g. eyes)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6133,
+    "kanji": "被せる",
+    "hiragana": "かぶせる",
+    "english": "to cover (with something), to put on (e.g. on someone else's head), to plate something (with a metal), to pour or dash a liquid (on something), to charge (a person with a guilt)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6134,
+    "kanji": "錆びる",
+    "hiragana": "さびる",
+    "english": "to rust, to become rusty",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6135,
+    "kanji": "凍える",
+    "hiragana": "こごえる",
+    "english": "to freeze (of one's body), to be frozen, to become numb (with cold), to be chilled",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6136,
+    "kanji": "湧く",
+    "hiragana": "わく",
+    "english": "to well (up), to gush forth (of water), to spring out, to surge, to appear (esp. suddenly) (sweat, tears, etc.), to feel emotions form (joy, bravery, etc.), to hatch (esp. of parasitic insects, etc.)",
+    "jlpt": 2,
+    "wanikani": 60,
+    "is_common": true
+  },
+  {
+    "id": 6137,
+    "kanji": "涌く",
+    "hiragana": "わく",
+    "english": "to well (up), to gush forth (of water), to spring out, to surge, to appear (esp. suddenly) (sweat, tears, etc.), to feel emotions form (joy, bravery, etc.), to hatch (esp. of parasitic insects, etc.)",
+    "jlpt": 2,
+    "wanikani": 60,
+    "is_common": true
+  },
+  {
+    "id": 6138,
+    "kanji": "取り入れる",
+    "hiragana": "とりいれる",
+    "english": "to harvest, to reap, to take in, to gather in, to adopt (e.g. idea), to accept (e.g. advice), to introduce, to borrow (e.g. word)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6139,
+    "kanji": "採り入れる",
+    "hiragana": "とりいれる",
+    "english": "to harvest, to reap, to take in, to gather in, to adopt (e.g. idea), to accept (e.g. advice), to introduce, to borrow (e.g. word)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6140,
+    "kanji": "取入れる",
+    "hiragana": "とりいれる",
+    "english": "to harvest, to reap, to take in, to gather in, to adopt (e.g. idea), to accept (e.g. advice), to introduce, to borrow (e.g. word)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6141,
+    "kanji": "取りいれる",
+    "hiragana": "とりいれる",
+    "english": "to harvest, to reap, to take in, to gather in, to adopt (e.g. idea), to accept (e.g. advice), to introduce, to borrow (e.g. word)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6142,
+    "kanji": "縮む",
+    "hiragana": "ちぢむ",
+    "english": "to shrink, to contract, to diminish (in size)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6143,
+    "kanji": "汲む",
+    "hiragana": "くむ",
+    "english": "to draw (water), to fetch (water), to ladle, to dip, to scoop, to pump, to have a drink together, to consider, to sympathize with, to sympathise with",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6144,
+    "kanji": "煮える",
+    "hiragana": "にえる",
+    "english": "to be boiled, to be cooked",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6145,
+    "kanji": "混じる",
+    "hiragana": "まじる",
+    "english": "to be mixed, to be blended with, to associate with, to mingle with, to interest, to join",
+    "jlpt": 2,
+    "wanikani": 8,
+    "is_common": true
+  },
+  {
+    "id": 6146,
+    "kanji": "交じる",
+    "hiragana": "まじる",
+    "english": "to be mixed, to be blended with, to associate with, to mingle with, to interest, to join",
+    "jlpt": 2,
+    "wanikani": 8,
+    "is_common": true
+  },
+  {
+    "id": 6147,
+    "kanji": "雑じる",
+    "hiragana": "まじる",
+    "english": "to be mixed, to be blended with, to associate with, to mingle with, to interest, to join",
+    "jlpt": 2,
+    "wanikani": 8,
+    "is_common": true
+  },
+  {
+    "id": 6148,
+    "kanji": "交る",
+    "hiragana": "まじる",
+    "english": "to be mixed, to be blended with, to associate with, to mingle with, to interest, to join",
+    "jlpt": 2,
+    "wanikani": 8,
+    "is_common": true
+  },
+  {
+    "id": 6149,
+    "kanji": "針金",
+    "hiragana": "はりがね",
+    "english": "wire",
+    "jlpt": 2,
+    "wanikani": 26,
+    "is_common": true
+  },
+  {
+    "id": 6150,
+    "kanji": "当てはめる",
+    "hiragana": "あてはめる",
+    "english": "to apply, to adapt",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6151,
+    "kanji": "当て嵌める",
+    "hiragana": "あてはめる",
+    "english": "to apply, to adapt",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6152,
+    "kanji": "酔っ払い",
+    "hiragana": "よっぱらい",
+    "english": "drunkard",
+    "jlpt": 2,
+    "wanikani": 37,
+    "is_common": true
+  },
+  {
+    "id": 6153,
+    "kanji": "酔っぱらい",
+    "hiragana": "よっぱらい",
+    "english": "drunkard",
+    "jlpt": 2,
+    "wanikani": 37,
+    "is_common": true
+  },
+  {
+    "id": 6154,
+    "kanji": "酔払い",
+    "hiragana": "よっぱらい",
+    "english": "drunkard",
+    "jlpt": 2,
+    "wanikani": 37,
+    "is_common": true
+  },
+  {
+    "id": 6155,
+    "kanji": "偶数",
+    "hiragana": "ぐうすう",
+    "english": "even number",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6156,
+    "kanji": "始終",
+    "hiragana": "しじゅう",
+    "english": "continuously, from beginning to end, from first to last",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6157,
+    "kanji": "末っ子",
+    "hiragana": "すえっこ",
+    "english": "youngest child",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6158,
+    "kanji": "見っともない",
+    "hiragana": "みっともない",
+    "english": "shameful, disgraceful, indecent, unseemly, unbecoming, improper",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6159,
+    "kanji": "茂る",
+    "hiragana": "しげる",
+    "english": "to grow thickly, to be in full leaf, to be rampant, to luxuriate, to be luxurious",
+    "jlpt": 2,
+    "wanikani": 40,
+    "is_common": true
+  },
+  {
+    "id": 6160,
+    "kanji": "繁る",
+    "hiragana": "しげる",
+    "english": "to grow thickly, to be in full leaf, to be rampant, to luxuriate, to be luxurious",
+    "jlpt": 2,
+    "wanikani": 40,
+    "is_common": true
+  },
+  {
+    "id": 6161,
+    "kanji": "滋る",
+    "hiragana": "しげる",
+    "english": "to grow thickly, to be in full leaf, to be rampant, to luxuriate, to be luxurious",
+    "jlpt": 2,
+    "wanikani": 40,
+    "is_common": true
+  },
+  {
+    "id": 6162,
+    "kanji": "釣り合う",
+    "hiragana": "つりあう",
+    "english": "to balance, to be in harmony, to be in equilibrium, to suit, to go well together, to be a good match",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6163,
+    "kanji": "つり合う",
+    "hiragana": "つりあう",
+    "english": "to balance, to be in harmony, to be in equilibrium, to suit, to go well together, to be a good match",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6164,
+    "kanji": "釣合う",
+    "hiragana": "つりあう",
+    "english": "to balance, to be in harmony, to be in equilibrium, to suit, to go well together, to be a good match",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12678,
+    "kanji": "係員",
+    "hiragana": "かかりいん",
+    "english": "official (e.g. customs), clerk in charge",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12679,
+    "kanji": "係長",
+    "hiragana": "かかりちょう",
+    "english": "chief clerk",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6221,
+    "kanji": "瞼",
+    "hiragana": "まなぶた",
+    "english": "eyelid, eyelids",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12680,
+    "kanji": "係官",
+    "hiragana": "かかりかん",
+    "english": "official in charge",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12681,
+    "kanji": "係争",
+    "hiragana": "けいそう",
+    "english": "contention, dispute, conflict, controversy",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12682,
+    "kanji": "促成",
+    "hiragana": "そくせい",
+    "english": "promotion of growth",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6169,
+    "kanji": "特売",
+    "hiragana": "とくばい",
+    "english": "special sale",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6170,
+    "kanji": "突き当たる",
+    "hiragana": "つきあたる",
+    "english": "to run into, to collide with, to crash into, to bump against, to come to the end of (a street), to run into (difficulties, problems, etc.), to run up against",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6171,
+    "kanji": "突き当る",
+    "hiragana": "つきあたる",
+    "english": "to run into, to collide with, to crash into, to bump against, to come to the end of (a street), to run into (difficulties, problems, etc.), to run up against",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6172,
+    "kanji": "衝き当たる",
+    "hiragana": "つきあたる",
+    "english": "to run into, to collide with, to crash into, to bump against, to come to the end of (a street), to run into (difficulties, problems, etc.), to run up against",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6173,
+    "kanji": "衝き当る",
+    "hiragana": "つきあたる",
+    "english": "to run into, to collide with, to crash into, to bump against, to come to the end of (a street), to run into (difficulties, problems, etc.), to run up against",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6174,
+    "kanji": "散る",
+    "hiragana": "ちる",
+    "english": "to fall (e.g. blossoms, leaves), to scatter, to be dispersed, to disappear, to dissolve, to break up, to spread, to run, to blur, to die a noble death",
+    "jlpt": 2,
+    "wanikani": 31,
+    "is_common": true
+  },
+  {
+    "id": 12683,
+    "kanji": "にわか雨",
+    "hiragana": "にわかあめ",
+    "english": "rain shower",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12684,
+    "kanji": "俄かに",
+    "hiragana": "にわかに",
+    "english": "suddenly, abruptly, unexpectedly",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6179,
+    "kanji": "片付く",
+    "hiragana": "かたづく",
+    "english": "to be put in order, to be put to rights, to be disposed of, to be solved, to be finished, to be married (off)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6180,
+    "kanji": "片づく",
+    "hiragana": "かたづく",
+    "english": "to be put in order, to be put to rights, to be disposed of, to be solved, to be finished, to be married (off)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6181,
+    "kanji": "お手伝いさん",
+    "hiragana": "おてつだいさん",
+    "english": "maid",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6182,
+    "kanji": "治める",
+    "hiragana": "おさめる",
+    "english": "to govern, to manage, to subdue",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6183,
+    "kanji": "凸凹",
+    "hiragana": "でこぼこ",
+    "english": "unevenness, roughness, ruggedness, inequality",
+    "jlpt": 2,
+    "wanikani": 59,
+    "is_common": true
+  },
+  {
+    "id": 6184,
+    "kanji": "剥がす",
+    "hiragana": "はがす",
+    "english": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6185,
+    "kanji": "剝がす",
+    "hiragana": "はがす",
+    "english": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6186,
+    "kanji": "剥す",
+    "hiragana": "はがす",
+    "english": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12686,
+    "kanji": "俗語",
+    "hiragana": "ぞくご",
+    "english": "colloquialism, colloquial language, slang, Slang",
+    "jlpt": null,
+    "wanikani": 49,
+    "is_common": true
+  },
+  {
+    "id": 6188,
+    "kanji": "着着",
+    "hiragana": "ちゃくちゃく",
+    "english": "steadily",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6189,
+    "kanji": "夕立",
+    "hiragana": "ゆうだち",
+    "english": "(sudden) evening shower (rain)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6190,
+    "kanji": "夕立ち",
+    "hiragana": "ゆうだち",
+    "english": "(sudden) evening shower (rain)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6191,
+    "kanji": "毛糸",
+    "hiragana": "けいと",
+    "english": "knitting wool, woollen yarn",
+    "jlpt": 2,
+    "wanikani": 5,
+    "is_common": true
+  },
+  {
+    "id": 6192,
+    "kanji": "帰す",
+    "hiragana": "かえす",
+    "english": "to send (someone) back, to send (someone) home",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6193,
+    "kanji": "還す",
+    "hiragana": "かえす",
+    "english": "to send (someone) back, to send (someone) home",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6194,
+    "kanji": "拵える",
+    "hiragana": "こしらえる",
+    "english": "to make, to manufacture",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6195,
+    "kanji": "引っ込む",
+    "hiragana": "ひっこむ",
+    "english": "to draw back, to sink, to cave in, to be set back (e.g. from a road), to withdraw (e.g. from the public eye), to retire to (somewhere), to stay indoors, to butt out, to stay out of it",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6196,
+    "kanji": "引っこむ",
+    "hiragana": "ひっこむ",
+    "english": "to draw back, to sink, to cave in, to be set back (e.g. from a road), to withdraw (e.g. from the public eye), to retire to (somewhere), to stay indoors, to butt out, to stay out of it",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6197,
+    "kanji": "流石",
+    "hiragana": "さすが",
+    "english": "as one would expect, still, all the same, even... (e.g. \"even a genius...\")",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6198,
+    "kanji": "遉",
+    "hiragana": "さすが",
+    "english": "as one would expect, still, all the same, even... (e.g. \"even a genius...\")",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6199,
+    "kanji": "有繋",
+    "hiragana": "さすが",
+    "english": "as one would expect, still, all the same, even... (e.g. \"even a genius...\")",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6200,
+    "kanji": "毎度",
+    "hiragana": "まいど",
+    "english": "each time, always, often, thank you for your continued patronage",
+    "jlpt": 2,
+    "wanikani": 9,
+    "is_common": true
+  },
+  {
+    "id": 6201,
+    "kanji": "大雑把",
+    "hiragana": "おおざっぱ",
+    "english": "rough (as in not precise), broad, sketchy",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6202,
+    "kanji": "大ざっぱ",
+    "hiragana": "おおざっぱ",
+    "english": "rough (as in not precise), broad, sketchy",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6203,
+    "kanji": "貸間",
+    "hiragana": "かしま",
+    "english": "room to let, room for rent",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6204,
+    "kanji": "貸し間",
+    "hiragana": "かしま",
+    "english": "room to let, room for rent",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6205,
+    "kanji": "濁る",
+    "hiragana": "にごる",
+    "english": "to become muddy, to become cloudy, to get impure (of a liquid, gas, etc.), to become dull (of a sound, color, etc.), to become hoarse, to become impure (of a heart, society, etc.), to be corrupted, to be polluted, to become voiced, to add voiced consonant marks",
+    "jlpt": 2,
+    "wanikani": 60,
+    "is_common": true
+  },
+  {
+    "id": 6206,
+    "kanji": "交差",
+    "hiragana": "こうさ",
+    "english": "crossing, intersection, (genetic) crossing over",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6207,
+    "kanji": "交叉",
+    "hiragana": "こうさ",
+    "english": "crossing, intersection, (genetic) crossing over",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6208,
+    "kanji": "眩しい",
+    "hiragana": "まぶしい",
+    "english": "dazzling, radiant",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6209,
+    "kanji": "彫る",
+    "hiragana": "ほる",
+    "english": "to carve, to engrave, to sculpt, to chisel, to tattoo",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6210,
+    "kanji": "雕る",
+    "hiragana": "ほる",
+    "english": "to carve, to engrave, to sculpt, to chisel, to tattoo",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6211,
+    "kanji": "鐫る",
+    "hiragana": "ほる",
+    "english": "to carve, to engrave, to sculpt, to chisel, to tattoo",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6214,
+    "kanji": "好き嫌い",
+    "hiragana": "すききらい",
+    "english": "likes and dislikes, pickiness (about food), choosiness, fussiness, tastes, preferences",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6215,
+    "kanji": "吊るす",
+    "hiragana": "つるす",
+    "english": "to hang, to hang up",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6216,
+    "kanji": "吊す",
+    "hiragana": "つるす",
+    "english": "to hang, to hang up",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6217,
+    "kanji": "荒い",
+    "hiragana": "あらい",
+    "english": "rough, rude, wild",
+    "jlpt": 2,
+    "wanikani": 42,
+    "is_common": true
+  },
+  {
+    "id": 6227,
+    "kanji": "命ずる",
+    "hiragana": "めいずる",
+    "english": "to order, to command, to appoint",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6228,
+    "kanji": "散らす",
+    "hiragana": "ちらす",
+    "english": "to scatter, to cause a shower of, to disperse, to distribute, to spread, to resolve (a symptom, condition, etc.), to relieve, to get rid of, to cure, to distract, to divert, to do ... wildly (i.e. disorderly or frequently), to do ... all over the place",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6229,
+    "kanji": "萎む",
+    "hiragana": "しぼむ",
+    "english": "to wither (e.g. flowers, dreams), to sag (e.g. balloon, grapes), to fade (away), to shrivel, to wilt, to deflate",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6230,
+    "kanji": "凋む",
+    "hiragana": "しぼむ",
+    "english": "to wither (e.g. flowers, dreams), to sag (e.g. balloon, grapes), to fade (away), to shrivel, to wilt, to deflate",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6231,
+    "kanji": "お八つ",
+    "hiragana": "おやつ",
+    "english": "between-meal snack, mid-afternoon (around 3 o'clock) snack, afternoon refreshment, afternoon tea",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6232,
+    "kanji": "お八",
+    "hiragana": "おやつ",
+    "english": "between-meal snack, mid-afternoon (around 3 o'clock) snack, afternoon refreshment, afternoon tea",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6233,
+    "kanji": "諄い",
+    "hiragana": "くどい",
+    "english": "verbose, importunate, wordy, repetitious, long-winded, heavy (taste), rich, strong, cloying, gaudy, loud",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6234,
+    "kanji": "熟語",
+    "hiragana": "じゅくご",
+    "english": "kanji compound, idiom, idiomatic phrase",
+    "jlpt": 2,
+    "wanikani": 33,
+    "is_common": true
+  },
+  {
+    "id": 6235,
+    "kanji": "好き好き",
+    "hiragana": "すきずき",
+    "english": "matter of taste",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6236,
+    "kanji": "好きずき",
+    "hiragana": "すきずき",
+    "english": "matter of taste",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6237,
+    "kanji": "恨む",
+    "hiragana": "うらむ",
+    "english": "to bear a grudge against, to resent, to blame, to curse, to feel bitter towards",
+    "jlpt": 2,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 6238,
+    "kanji": "怨む",
+    "hiragana": "うらむ",
+    "english": "to bear a grudge against, to resent, to blame, to curse, to feel bitter towards",
+    "jlpt": 2,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 12687,
+    "kanji": "保健",
+    "hiragana": "ほけん",
+    "english": "health preservation, hygiene, sanitation, Healthcare science",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6240,
+    "kanji": "面倒くさい",
+    "hiragana": "めんどくさい",
+    "english": "bothersome, tiresome, bother to do",
+    "jlpt": 2,
+    "wanikani": 22,
+    "is_common": true
+  },
+  {
+    "id": 6241,
+    "kanji": "面倒臭い",
+    "hiragana": "めんどくさい",
+    "english": "bothersome, tiresome, bother to do",
+    "jlpt": 2,
+    "wanikani": 22,
+    "is_common": true
+  },
+  {
+    "id": 12688,
+    "kanji": "保守党",
+    "hiragana": "ほしゅとう",
+    "english": "Conservative Party (UK, Canada, Japan), Conservative Party",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6243,
+    "kanji": "衣食住",
+    "hiragana": "いしょくじゅう",
+    "english": "necessities of life (food, clothing & shelter)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6244,
+    "kanji": "人通り",
+    "hiragana": "ひとどおり",
+    "english": "pedestrian traffic",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6245,
+    "kanji": "道順",
+    "hiragana": "みちじゅん",
+    "english": "itinerary, route",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6246,
+    "kanji": "お帰り",
+    "hiragana": "おかえり",
+    "english": "return, welcome home",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6247,
+    "kanji": "目出度い",
+    "hiragana": "めでたい",
+    "english": "happy, auspicious, propitious, joyous, naive",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6248,
+    "kanji": "芽出度い",
+    "hiragana": "めでたい",
+    "english": "happy, auspicious, propitious, joyous, naive",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6249,
+    "kanji": "愛でたい",
+    "hiragana": "めでたい",
+    "english": "happy, auspicious, propitious, joyous, naive",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6250,
+    "kanji": "清書",
+    "hiragana": "せいしょ",
+    "english": "clean copy",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6251,
+    "kanji": "真っ黒",
+    "hiragana": "まっくろ",
+    "english": "pitch black",
+    "jlpt": 2,
+    "wanikani": 16,
+    "is_common": true
+  },
+  {
+    "id": 6252,
+    "kanji": "まっ黒",
+    "hiragana": "まっくろ",
+    "english": "pitch black",
+    "jlpt": 2,
+    "wanikani": 16,
+    "is_common": true
+  },
+  {
+    "id": 6253,
+    "kanji": "真黒",
+    "hiragana": "まっくろ",
+    "english": "pitch black",
+    "jlpt": 2,
+    "wanikani": 16,
+    "is_common": true
+  },
+  {
+    "id": 6254,
+    "kanji": "長引く",
+    "hiragana": "ながびく",
+    "english": "to be prolonged, to drag on",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6255,
+    "kanji": "長びく",
+    "hiragana": "ながびく",
+    "english": "to be prolonged, to drag on",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12689,
+    "kanji": "保守的",
+    "hiragana": "ほしゅてき",
+    "english": "conservative",
+    "jlpt": null,
+    "wanikani": 16,
+    "is_common": true
+  },
+  {
+    "id": 12690,
+    "kanji": "保証人",
+    "hiragana": "ほしょうにん",
+    "english": "guarantor, surety, sponsor, reference, bondsman",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12691,
+    "kanji": "保持",
+    "hiragana": "ほじ",
+    "english": "retention, maintenance, preservation",
+    "jlpt": null,
+    "wanikani": 16,
+    "is_common": true
+  },
+  {
+    "id": 6259,
+    "kanji": "若若しい",
+    "hiragana": "わかわかしい",
+    "english": "youthful, young, young-looking",
+    "jlpt": 2,
+    "wanikani": 19,
+    "is_common": true
+  },
+  {
+    "id": 6260,
+    "kanji": "月日",
+    "hiragana": "つきひ",
+    "english": "time, years, days",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6261,
+    "kanji": "謙遜",
+    "hiragana": "けんそん",
+    "english": "modesty, humility, being humble",
+    "jlpt": 2,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 6262,
+    "kanji": "謙そん",
+    "hiragana": "けんそん",
+    "english": "modesty, humility, being humble",
+    "jlpt": 2,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 6263,
+    "kanji": "待ち合わせる",
+    "hiragana": "まちあわせる",
+    "english": "to rendezvous, to meet at a prearranged place and time, to arrange to meet",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6264,
+    "kanji": "待ち合せる",
+    "hiragana": "まちあわせる",
+    "english": "to rendezvous, to meet at a prearranged place and time, to arrange to meet",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6265,
+    "kanji": "待ちあわせる",
+    "hiragana": "まちあわせる",
+    "english": "to rendezvous, to meet at a prearranged place and time, to arrange to meet",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6266,
+    "kanji": "不潔",
+    "hiragana": "ふけつ",
+    "english": "unclean, dirty, unsanitary, filthy, indecent, dirty (story, money, etc.), obscene, immoral",
+    "jlpt": 2,
+    "wanikani": 28,
+    "is_common": true
+  },
+  {
+    "id": 12692,
+    "kanji": "保有",
+    "hiragana": "ほゆう",
+    "english": "possession, retention, maintenance",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6268,
+    "kanji": "追い越す",
+    "hiragana": "おいこす",
+    "english": "to pass (e.g. car), to overtake, to surpass, to outstrip, to get ahead of, to outdistance",
+    "jlpt": 2,
+    "wanikani": 34,
+    "is_common": true
+  },
+  {
+    "id": 6269,
+    "kanji": "追越す",
+    "hiragana": "おいこす",
+    "english": "to pass (e.g. car), to overtake, to surpass, to outstrip, to get ahead of, to outdistance",
+    "jlpt": 2,
+    "wanikani": 34,
+    "is_common": true
+  },
+  {
+    "id": 6270,
+    "kanji": "追いこす",
+    "hiragana": "おいこす",
+    "english": "to pass (e.g. car), to overtake, to surpass, to outstrip, to get ahead of, to outdistance",
+    "jlpt": 2,
+    "wanikani": 34,
+    "is_common": true
+  },
+  {
+    "id": 12693,
+    "kanji": "保留",
+    "hiragana": "ほりゅう",
+    "english": "reservation, putting on hold, deferment",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12694,
+    "kanji": "保険金",
+    "hiragana": "ほけんきん",
+    "english": "insurance payout, insurance money",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12695,
+    "kanji": "保護者",
+    "hiragana": "ほごしゃ",
+    "english": "guardian, protector, patron, parent",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6274,
+    "kanji": "鉄橋",
+    "hiragana": "てっきょう",
+    "english": "railway bridge, iron bridge",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6275,
+    "kanji": "転がす",
+    "hiragana": "ころがす",
+    "english": "to roll, to turn over, to tip over, to throw down, to leave, to buy and sell (quickly for a profit)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6276,
+    "kanji": "注す",
+    "hiragana": "さす",
+    "english": "to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye, to light (a fire), to burn",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6277,
+    "kanji": "点す",
+    "hiragana": "さす",
+    "english": "to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye, to light (a fire), to burn",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6278,
+    "kanji": "感ずる",
+    "hiragana": "かんずる",
+    "english": "to feel, to sense",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6279,
+    "kanji": "引き算",
+    "hiragana": "ひきざん",
+    "english": "subtraction",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6280,
+    "kanji": "引算",
+    "hiragana": "ひきざん",
+    "english": "subtraction",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6281,
+    "kanji": "腰掛け",
+    "hiragana": "こしかけ",
+    "english": "seat, bench",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6282,
+    "kanji": "腰掛",
+    "hiragana": "こしかけ",
+    "english": "seat, bench",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6283,
+    "kanji": "腰かけ",
+    "hiragana": "こしかけ",
+    "english": "seat, bench",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 14930,
+    "kanji": "学会誌",
+    "hiragana": "がっかいし",
+    "english": "academic journal",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6284,
+    "kanji": "物騒",
+    "hiragana": "ぶっそう",
+    "english": "dangerous, unsettled, troubled, disturbed, insecure",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6285,
+    "kanji": "祭る",
+    "hiragana": "まつる",
+    "english": "to deify, to enshrine, to pray, to worship",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6286,
+    "kanji": "祀る",
+    "hiragana": "まつる",
+    "english": "to deify, to enshrine, to pray, to worship",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6287,
+    "kanji": "祭日",
+    "hiragana": "さいじつ",
+    "english": "national holiday, festival day",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6288,
+    "kanji": "瓶詰め",
+    "hiragana": "びんづめ",
+    "english": "bottling, bottled",
+    "jlpt": 2,
+    "wanikani": 51,
+    "is_common": true
+  },
+  {
+    "id": 6289,
+    "kanji": "瓶詰",
+    "hiragana": "びんづめ",
+    "english": "bottling, bottled",
+    "jlpt": 2,
+    "wanikani": 51,
+    "is_common": true
+  },
+  {
+    "id": 6290,
+    "kanji": "壜詰め",
+    "hiragana": "びんづめ",
+    "english": "bottling, bottled",
+    "jlpt": 2,
+    "wanikani": 51,
+    "is_common": true
+  },
+  {
+    "id": 6291,
+    "kanji": "壜詰",
+    "hiragana": "びんづめ",
+    "english": "bottling, bottled",
+    "jlpt": 2,
+    "wanikani": 51,
+    "is_common": true
+  },
+  {
+    "id": 6292,
+    "kanji": "払い込む",
+    "hiragana": "はらいこむ",
+    "english": "to deposit, to pay in",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6293,
+    "kanji": "映す",
+    "hiragana": "うつす",
+    "english": "to project, to reflect, to cast (shadow)",
+    "jlpt": 2,
+    "wanikani": 15,
+    "is_common": true
+  },
+  {
+    "id": 6294,
+    "kanji": "四角",
+    "hiragana": "しかく",
+    "english": "square",
+    "jlpt": 2,
+    "wanikani": 5,
+    "is_common": true
+  },
+  {
+    "id": 6295,
+    "kanji": "便箋",
+    "hiragana": "びんせん",
+    "english": "writing paper, stationery",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6296,
+    "kanji": "払い戻す",
+    "hiragana": "はらいもどす",
+    "english": "to repay, to pay back, to refund, to reimburse",
+    "jlpt": 2,
+    "wanikani": 39,
+    "is_common": true
+  },
+  {
+    "id": 6297,
+    "kanji": "払戻す",
+    "hiragana": "はらいもどす",
+    "english": "to repay, to pay back, to refund, to reimburse",
+    "jlpt": 2,
+    "wanikani": 39,
+    "is_common": true
+  },
+  {
+    "id": 6298,
+    "kanji": "偏る",
+    "hiragana": "かたよる",
+    "english": "to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced",
+    "jlpt": 2,
+    "wanikani": 52,
+    "is_common": true
+  },
+  {
+    "id": 6299,
+    "kanji": "片寄る",
+    "hiragana": "かたよる",
+    "english": "to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced",
+    "jlpt": 2,
+    "wanikani": 52,
+    "is_common": true
+  },
+  {
+    "id": 6300,
+    "kanji": "欲張り",
+    "hiragana": "よくばり",
+    "english": "greed, avarice, covetousness, greedy person",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6301,
+    "kanji": "欲ばり",
+    "hiragana": "よくばり",
+    "english": "greed, avarice, covetousness, greedy person",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6302,
+    "kanji": "慌ただしい",
+    "hiragana": "あわただしい",
+    "english": "busy, hurried, confused, flurried",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6303,
+    "kanji": "慌しい",
+    "hiragana": "あわただしい",
+    "english": "busy, hurried, confused, flurried",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6304,
+    "kanji": "遽しい",
+    "hiragana": "あわただしい",
+    "english": "busy, hurried, confused, flurried",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6305,
+    "kanji": "幼稚",
+    "hiragana": "ようち",
+    "english": "infancy, childish, infantile, immature, primitive",
+    "jlpt": 2,
+    "wanikani": 28,
+    "is_common": true
+  },
+  {
+    "id": 6306,
+    "kanji": "四捨五入",
+    "hiragana": "ししゃごにゅう",
+    "english": "rounding (fractions), rounding half up",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6307,
+    "kanji": "勘違い",
+    "hiragana": "かんちがい",
+    "english": "misunderstanding, wrong guess",
+    "jlpt": 2,
+    "wanikani": 49,
+    "is_common": true
+  },
+  {
+    "id": 12696,
+    "kanji": "保全",
+    "hiragana": "ほぜん",
+    "english": "preservation, integrity, conservation, maintenance",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12697,
+    "kanji": "補修",
+    "hiragana": "ほしゅう",
+    "english": "repair, mending",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6310,
+    "kanji": "若しかすると",
+    "hiragana": "もしかすると",
+    "english": "perhaps, maybe, by some chance",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6311,
+    "kanji": "略す",
+    "hiragana": "りゃくす",
+    "english": "to abbreviate, to omit, to take, to capture",
+    "jlpt": 2,
+    "wanikani": 29,
+    "is_common": true
+  },
+  {
+    "id": 6312,
+    "kanji": "お参り",
+    "hiragana": "おまいり",
+    "english": "worship, shrine visit",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6313,
+    "kanji": "休講",
+    "hiragana": "きゅうこう",
+    "english": "lecture cancellation, cancelling (lecture, class, etc.)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12698,
+    "kanji": "保育園",
+    "hiragana": "ほいくえん",
+    "english": "nursery school, day nursery, preschool",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12699,
+    "kanji": "保証付き",
+    "hiragana": "ほしょうつき",
+    "english": "guaranteed, certified, warranty included",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6316,
+    "kanji": "清い",
+    "hiragana": "きよい",
+    "english": "clear, pure, noble",
+    "jlpt": 2,
+    "wanikani": 28,
+    "is_common": true
+  },
+  {
+    "id": 6317,
+    "kanji": "浄い",
+    "hiragana": "きよい",
+    "english": "clear, pure, noble",
+    "jlpt": 2,
+    "wanikani": 28,
+    "is_common": true
+  },
+  {
+    "id": 6318,
+    "kanji": "生ずる",
+    "hiragana": "しょうずる",
+    "english": "to produce, to yield, to cause, to result from, to arise, to be generated",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6319,
+    "kanji": "繋がり",
+    "hiragana": "つながり",
+    "english": "connection, link, relationship",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6320,
+    "kanji": "桁",
+    "hiragana": "けた",
+    "english": "column, beam, girder, crossbeam, spar, yard, digit, decade, order of magnitude",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6321,
+    "kanji": "ちり紙",
+    "hiragana": "ちりがみ",
+    "english": "tissue paper, toilet paper",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6322,
+    "kanji": "塵紙",
+    "hiragana": "ちりがみ",
+    "english": "tissue paper, toilet paper",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12700,
+    "kanji": "保釈",
+    "hiragana": "ほしゃく",
+    "english": "bail, releasing on bail, Bail",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6324,
+    "kanji": "撫でる",
+    "hiragana": "なでる",
+    "english": "to stroke, to caress, to brush gently, to pat, to rub, to comb (hair), to smooth down",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6325,
+    "kanji": "扇ぐ",
+    "hiragana": "あおぐ",
+    "english": "to fan, to incite, to instigate",
+    "jlpt": 2,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 6326,
+    "kanji": "煽ぐ",
+    "hiragana": "あおぐ",
+    "english": "to fan, to incite, to instigate",
+    "jlpt": 2,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 6327,
+    "kanji": "跨ぐ",
+    "hiragana": "またぐ",
+    "english": "to step over, to step across, to stride over, to stride across, to cross, to stretch over, to span, to bridge, to saddle, to straddle",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6328,
+    "kanji": "下書き",
+    "hiragana": "したがき",
+    "english": "rough copy, draft, draught",
+    "jlpt": 2,
+    "wanikani": 18,
+    "is_common": true
+  },
+  {
+    "id": 6329,
+    "kanji": "着替え",
+    "hiragana": "きがえ",
+    "english": "changing clothes, change of clothes",
+    "jlpt": 2,
+    "wanikani": 27,
+    "is_common": true
+  },
+  {
+    "id": 12701,
+    "kanji": "保安",
+    "hiragana": "ほあん",
+    "english": "peace preservation, security, safety, Security",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6332,
+    "kanji": "著す",
+    "hiragana": "あらわす",
+    "english": "to write, to publish",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6333,
+    "kanji": "著わす",
+    "hiragana": "あらわす",
+    "english": "to write, to publish",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12703,
+    "kanji": "保健婦",
+    "hiragana": "ほけんふ",
+    "english": "district health nurse, public health nurse",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6335,
+    "kanji": "定休日",
+    "hiragana": "ていきゅうび",
+    "english": "regular holiday, fixed day off, regular closing day",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12704,
+    "kanji": "持ち合い",
+    "hiragana": "もちあい",
+    "english": "unity, even matching, interdependence, steadiness (of market price), holding, no change",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12705,
+    "kanji": "保する",
+    "hiragana": "ほする",
+    "english": "to guarantee",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6338,
+    "kanji": "伝染",
+    "hiragana": "でんせん",
+    "english": "contagion, infection",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6339,
+    "kanji": "湯気",
+    "hiragana": "ゆげ",
+    "english": "steam, vapour, vapor",
+    "jlpt": 2,
+    "wanikani": 12,
+    "is_common": true
+  },
+  {
+    "id": 6340,
+    "kanji": "突き当たり",
+    "hiragana": "つきあたり",
+    "english": "end (e.g. of street, hallway, etc.)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6341,
+    "kanji": "突き当り",
+    "hiragana": "つきあたり",
+    "english": "end (e.g. of street, hallway, etc.)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6342,
+    "kanji": "突当たり",
+    "hiragana": "つきあたり",
+    "english": "end (e.g. of street, hallway, etc.)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12706,
+    "kanji": "保革",
+    "hiragana": "ほかく",
+    "english": "conservatism and progressivism, conservatives and reformists",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12707,
+    "kanji": "保養所",
+    "hiragana": "ほようじょ",
+    "english": "sanatorium, rest home",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12708,
+    "kanji": "保証金",
+    "hiragana": "ほしょうきん",
+    "english": "deposit (esp. on renting a house), security money, bond payment, guarantee",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6343,
+    "kanji": "突当り",
+    "hiragana": "つきあたり",
+    "english": "end (e.g. of street, hallway, etc.)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6344,
+    "kanji": "拝む",
+    "hiragana": "おがむ",
+    "english": "to assume the posture of praying, to press the palms and fingers of both hands together, to do reverence (e.g. before a statue of the Buddha), to pay one's respects, to beg, to make a supplication, to see (something or someone of high status)",
+    "jlpt": 2,
+    "wanikani": 34,
+    "is_common": true
+  },
+  {
+    "id": 6345,
+    "kanji": "回数券",
+    "hiragana": "かいすうけん",
+    "english": "book of tickets",
+    "jlpt": 2,
+    "wanikani": 28,
+    "is_common": true
+  },
+  {
+    "id": 6346,
+    "kanji": "紙屑",
+    "hiragana": "かみくず",
+    "english": "wastepaper, paper scraps, paper waste",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6347,
+    "kanji": "紙くず",
+    "hiragana": "かみくず",
+    "english": "wastepaper, paper scraps, paper waste",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6348,
+    "kanji": "番地",
+    "hiragana": "ばんち",
+    "english": "house number, address",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6349,
+    "kanji": "刷る",
+    "hiragana": "する",
+    "english": "to print, to color or pattern fabric using a wooden mold",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6350,
+    "kanji": "摺る",
+    "hiragana": "する",
+    "english": "to print, to color or pattern fabric using a wooden mold",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6351,
+    "kanji": "卑怯",
+    "hiragana": "ひきょう",
+    "english": "cowardice, meanness, unfairness",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6352,
+    "kanji": "雑巾",
+    "hiragana": "ぞうきん",
+    "english": "house-cloth, dust cloth",
+    "jlpt": 2,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 6353,
+    "kanji": "雑布",
+    "hiragana": "ぞうきん",
+    "english": "house-cloth, dust cloth",
+    "jlpt": 2,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 6354,
+    "kanji": "匂う",
+    "hiragana": "におう",
+    "english": "to be fragrant, to smell (good), to stink, to smell (bad), to glow, to be bright, to smack of, to show hints of",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6355,
+    "kanji": "臭う",
+    "hiragana": "におう",
+    "english": "to be fragrant, to smell (good), to stink, to smell (bad), to glow, to be bright, to smack of, to show hints of",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6356,
+    "kanji": "四角い",
+    "hiragana": "しかくい",
+    "english": "square, rectangular",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6357,
+    "kanji": "揉む",
+    "hiragana": "もむ",
+    "english": "to rub, to crumple, to massage, to argue, to have a heated discussion, to train, to coach, to jostle, to crowd, to shake, to rock, to have various experiences (out in the world)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6358,
+    "kanji": "坊ちゃん",
+    "hiragana": "ぼっちゃん",
+    "english": "son (of others), young master, green young man from a well-to-do family",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6359,
+    "kanji": "坊っちゃん",
+    "hiragana": "ぼっちゃん",
+    "english": "son (of others), young master, green young man from a well-to-do family",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6360,
+    "kanji": "差し支え",
+    "hiragana": "さしつかえ",
+    "english": "hindrance, impediment",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6361,
+    "kanji": "差支え",
+    "hiragana": "さしつかえ",
+    "english": "hindrance, impediment",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6362,
+    "kanji": "差閊",
+    "hiragana": "さしつかえ",
+    "english": "hindrance, impediment",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6363,
+    "kanji": "差閊え",
+    "hiragana": "さしつかえ",
+    "english": "hindrance, impediment",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6364,
+    "kanji": "無地",
+    "hiragana": "むじ",
+    "english": "plain, unfigured",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6365,
+    "kanji": "縞",
+    "hiragana": "しま",
+    "english": "stripe, bar, streak",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6366,
+    "kanji": "畏まりました",
+    "hiragana": "かしこまりました",
+    "english": "certainly!",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6367,
+    "kanji": "頼もしい",
+    "hiragana": "たのもしい",
+    "english": "reliable, trustworthy, hopeful, promising",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6368,
+    "kanji": "ご苦労さま",
+    "hiragana": "ごくろうさま",
+    "english": "thank you very much for your ..., I appreciate your efforts",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6369,
+    "kanji": "ご苦労様",
+    "hiragana": "ごくろうさま",
+    "english": "thank you very much for your ..., I appreciate your efforts",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6370,
+    "kanji": "湯のみ",
+    "hiragana": "ゆのみ",
+    "english": "teacup",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6371,
+    "kanji": "湯呑み",
+    "hiragana": "ゆのみ",
+    "english": "teacup",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6372,
+    "kanji": "湯飲み",
+    "hiragana": "ゆのみ",
+    "english": "teacup",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6373,
+    "kanji": "湯吞み",
+    "hiragana": "ゆのみ",
+    "english": "teacup",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6374,
+    "kanji": "憎らしい",
+    "hiragana": "にくらしい",
+    "english": "odious, hateful, detestable, horrible, (speaking ironically) darling",
+    "jlpt": 2,
+    "wanikani": 49,
+    "is_common": true
+  },
+  {
+    "id": 12709,
+    "kanji": "保健所",
+    "hiragana": "ほけんしょ",
+    "english": "health care center, health care centre, Health department",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6376,
+    "kanji": "悠悠",
+    "hiragana": "ゆうゆう",
+    "english": "quiet, calm, leisurely, distant, far off, boundless, endless, easily, comfortably, without difficulty",
+    "jlpt": 2,
+    "wanikani": 54,
+    "is_common": true
+  },
+  {
+    "id": 6377,
+    "kanji": "馬鹿らしい",
+    "hiragana": "ばからしい",
+    "english": "absurd",
+    "jlpt": 2,
+    "wanikani": 38,
+    "is_common": true
+  },
+  {
+    "id": 12711,
+    "kanji": "信",
+    "hiragana": "しん",
+    "english": "honesty, sincerity, fidelity, trust, reliance, confidence, (religious) faith, devotion, counter for received messages",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6380,
+    "kanji": "縮れる",
+    "hiragana": "ちぢれる",
+    "english": "to be wavy, to be curled, to be frizzled",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6381,
+    "kanji": "純情",
+    "hiragana": "じゅんじょう",
+    "english": "pure heart, naivete, innocence",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6382,
+    "kanji": "吃逆",
+    "hiragana": "しゃっくり",
+    "english": "hiccough, hiccup",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12712,
+    "kanji": "信念",
+    "hiragana": "しんねん",
+    "english": "belief, faith, conviction, Belief",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6384,
+    "kanji": "椀",
+    "hiragana": "わん",
+    "english": "bowl (wooden)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6385,
+    "kanji": "甚だしい",
+    "hiragana": "はなはだしい",
+    "english": "extreme, excessive, terrible, intense, severe, serious, tremendous, heavy (damage)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6386,
+    "kanji": "甚しい",
+    "hiragana": "はなはだしい",
+    "english": "extreme, excessive, terrible, intense, severe, serious, tremendous, heavy (damage)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6387,
+    "kanji": "図表",
+    "hiragana": "ずひょう",
+    "english": "chart, diagram, graph, figure",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6388,
+    "kanji": "水滴",
+    "hiragana": "すいてき",
+    "english": "drop of water, vessel for replenishing inkstone water",
+    "jlpt": 2,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 6389,
+    "kanji": "炊事",
+    "hiragana": "すいじ",
+    "english": "cooking, culinary arts",
+    "jlpt": 2,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 6390,
+    "kanji": "倣う",
+    "hiragana": "ならう",
+    "english": "to imitate, to follow, to emulate",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6391,
+    "kanji": "傚う",
+    "hiragana": "ならう",
+    "english": "to imitate, to follow, to emulate",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6392,
+    "kanji": "慣らう",
+    "hiragana": "ならう",
+    "english": "to imitate, to follow, to emulate",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6393,
+    "kanji": "雨戸",
+    "hiragana": "あまど",
+    "english": "sliding storm shutter",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12713,
+    "kanji": "信条",
+    "hiragana": "しんじょう",
+    "english": "creed, belief, conviction, article of faith, Creed",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6395,
+    "kanji": "饂飩",
+    "hiragana": "うどん",
+    "english": "udon, thick Japanese wheat noodles",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6396,
+    "kanji": "占う",
+    "hiragana": "うらなう",
+    "english": "to tell someone's fortune, to forecast, to predict, to divine",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6397,
+    "kanji": "卜う",
+    "hiragana": "うらなう",
+    "english": "to tell someone's fortune, to forecast, to predict, to divine",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6398,
+    "kanji": "入れ物",
+    "hiragana": "いれもの",
+    "english": "container, case, receptacle, (euph. for) coffin, casket",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6399,
+    "kanji": "容れ物",
+    "hiragana": "いれもの",
+    "english": "container, case, receptacle, (euph. for) coffin, casket",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6400,
+    "kanji": "入物",
+    "hiragana": "いれもの",
+    "english": "container, case, receptacle, (euph. for) coffin, casket",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12714,
+    "kanji": "信号機",
+    "hiragana": "しんごうき",
+    "english": "traffic light, signalling mechanism, semaphore (apparatus), Traffic light",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6401,
+    "kanji": "容物",
+    "hiragana": "いれもの",
+    "english": "container, case, receptacle, (euph. for) coffin, casket",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6402,
+    "kanji": "送別",
+    "hiragana": "そうべつ",
+    "english": "farewell, send-off",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6403,
+    "kanji": "書き取り",
+    "hiragana": "かきとり",
+    "english": "writing down from other written material, writing kanji text from hiragana, transcription (of spoken material)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6404,
+    "kanji": "書取",
+    "hiragana": "かきとり",
+    "english": "writing down from other written material, writing kanji text from hiragana, transcription (of spoken material)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6405,
+    "kanji": "損得",
+    "hiragana": "そんとく",
+    "english": "loss and gain, advantage and disadvantage",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6406,
+    "kanji": "卸す",
+    "hiragana": "おろす",
+    "english": "to sell wholesale, to grate (e.g. vegetables), to cut up fish",
+    "jlpt": 2,
+    "wanikani": 54,
+    "is_common": true
+  },
+  {
+    "id": 12715,
+    "kanji": "信頼性",
+    "hiragana": "しんらいせい",
+    "english": "credibility, authenticity, confidence, reliability",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12716,
+    "kanji": "信販会社",
+    "hiragana": "しんぱんがいしゃ",
+    "english": "credit company",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12717,
+    "kanji": "信用金庫",
+    "hiragana": "しんようきんこ",
+    "english": "credit union, Shinkin bank",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12718,
+    "kanji": "信託",
+    "hiragana": "しんたく",
+    "english": "trust, entrusting, Trust law",
+    "jlpt": null,
+    "wanikani": 38,
+    "is_common": true
+  },
+  {
+    "id": 12719,
+    "kanji": "信徒",
+    "hiragana": "しんと",
+    "english": "layman, believer, adherent, follower, laity",
+    "jlpt": null,
+    "wanikani": 19,
+    "is_common": true
+  },
+  {
+    "id": 6412,
+    "kanji": "中性",
+    "hiragana": "ちゅうせい",
+    "english": "neutrality (incl. chemical, electrical, etc.), indifference, sexlessness, androgyny, androgyne, neuter, neuter gender",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6413,
+    "kanji": "掛け算",
+    "hiragana": "かけざん",
+    "english": "multiplication",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6414,
+    "kanji": "掛算",
+    "hiragana": "かけざん",
+    "english": "multiplication",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6415,
+    "kanji": "かけ算",
+    "hiragana": "かけざん",
+    "english": "multiplication",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6416,
+    "kanji": "お願いします",
+    "hiragana": "おねがいします",
+    "english": "please",
+    "jlpt": 2,
+    "wanikani": 13,
+    "is_common": true
+  },
+  {
+    "id": 6417,
+    "kanji": "見かけ",
+    "hiragana": "みかけ",
+    "english": "outward appearance, apparent",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6418,
+    "kanji": "見掛け",
+    "hiragana": "みかけ",
+    "english": "outward appearance, apparent",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6419,
+    "kanji": "女の人",
+    "hiragana": "おんなのひと",
+    "english": "woman",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6420,
+    "kanji": "ひっくり返る",
+    "hiragana": "ひっくりかえる",
+    "english": "to be overturned, to be upset, to topple over, to be reversed, to fall down, to tip over",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6421,
+    "kanji": "引っくり返る",
+    "hiragana": "ひっくりかえる",
+    "english": "to be overturned, to be upset, to topple over, to be reversed, to fall down, to tip over",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6422,
+    "kanji": "引っ繰り返る",
+    "hiragana": "ひっくりかえる",
+    "english": "to be overturned, to be upset, to topple over, to be reversed, to fall down, to tip over",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6423,
+    "kanji": "引繰り返る",
+    "hiragana": "ひっくりかえる",
+    "english": "to be overturned, to be upset, to topple over, to be reversed, to fall down, to tip over",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6424,
+    "kanji": "やむを得ない",
+    "hiragana": "やむをえない",
+    "english": "cannot be helped, unavoidable",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6425,
+    "kanji": "止むを得ない",
+    "hiragana": "やむをえない",
+    "english": "cannot be helped, unavoidable",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6426,
+    "kanji": "已むを得ない",
+    "hiragana": "やむをえない",
+    "english": "cannot be helped, unavoidable",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6427,
+    "kanji": "従姉妹",
+    "hiragana": "いとこ",
+    "english": "cousin (female)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6428,
+    "kanji": "田んぼ",
+    "hiragana": "たんぼ",
+    "english": "paddy field, farm",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6429,
+    "kanji": "田圃",
+    "hiragana": "たんぼ",
+    "english": "paddy field, farm",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6430,
+    "kanji": "田ぼ",
+    "hiragana": "たんぼ",
+    "english": "paddy field, farm",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6431,
+    "kanji": "田畝",
+    "hiragana": "たんぼ",
+    "english": "paddy field, farm",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12720,
+    "kanji": "信金",
+    "hiragana": "しんきん",
+    "english": "credit union (guild)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6435,
+    "kanji": "広広",
+    "hiragana": "ひろびろ",
+    "english": "extensive, spacious",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12721,
+    "kanji": "信義",
+    "hiragana": "しんぎ",
+    "english": "faith, fidelity, loyalty",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6438,
+    "kanji": "合流",
+    "hiragana": "ごうりゅう",
+    "english": "confluence (of rivers), merge (of traffic), conflux, junction, joining, union (e.g. of forces), linking up, merging, coming together, Gouryuu",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6439,
+    "kanji": "憎い",
+    "hiragana": "にくい",
+    "english": "hateful, abominable, poor-looking, detestable, amazing, fantastic, admirable, lovely, wonderful",
+    "jlpt": 2,
+    "wanikani": 49,
+    "is_common": false
+  },
+  {
+    "id": 6441,
+    "kanji": "ご覧",
+    "hiragana": "ごらん",
+    "english": "(please) try to, (please) look, seeing, looking, watching",
+    "jlpt": 2,
+    "wanikani": 30,
+    "is_common": false
+  },
+  {
+    "id": 6442,
+    "kanji": "話し中",
+    "hiragana": "はなしちゅう",
+    "english": "busy (phone)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6443,
+    "kanji": "話中",
+    "hiragana": "はなしちゅう",
+    "english": "busy (phone)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6444,
+    "kanji": "悔やむ",
+    "hiragana": "くやむ",
+    "english": "to mourn, to lament, to be sorry, to regret, to repent",
+    "jlpt": 2,
+    "wanikani": 50,
+    "is_common": false
+  },
+  {
+    "id": 6445,
+    "kanji": "悔む",
+    "hiragana": "くやむ",
+    "english": "to mourn, to lament, to be sorry, to regret, to repent",
+    "jlpt": 2,
+    "wanikani": 50,
+    "is_common": false
+  },
+  {
+    "id": 6446,
+    "kanji": "仕上がる",
+    "hiragana": "しあがる",
+    "english": "to be finished, to be completed, to be done",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6447,
+    "kanji": "仕上る",
+    "hiragana": "しあがる",
+    "english": "to be finished, to be completed, to be done",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6448,
+    "kanji": "坊や",
+    "hiragana": "ぼうや",
+    "english": "boy",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6449,
+    "kanji": "請う",
+    "hiragana": "こう",
+    "english": "to beg, to ask, to request, to invite",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6450,
+    "kanji": "乞う",
+    "hiragana": "こう",
+    "english": "to beg, to ask, to request, to invite",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6451,
+    "kanji": "特長",
+    "hiragana": "とくちょう",
+    "english": "forte, merit",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6452,
+    "kanji": "焦がす",
+    "hiragana": "こがす",
+    "english": "to burn, to scorch, to singe, to char",
+    "jlpt": 2,
+    "wanikani": 44,
+    "is_common": false
+  },
+  {
+    "id": 6453,
+    "kanji": "挟まる",
+    "hiragana": "はさまる",
+    "english": "to get between, to be caught in",
+    "jlpt": 2,
+    "wanikani": 53,
+    "is_common": false
+  },
+  {
+    "id": 6454,
+    "kanji": "飽くまで",
+    "hiragana": "あくまで",
+    "english": "to the end, to the bitter end, to the last, stubbornly, persistently, consistently, to the utmost, after all, it must be remembered, only, purely, simply",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6455,
+    "kanji": "飽く迄",
+    "hiragana": "あくまで",
+    "english": "to the end, to the bitter end, to the last, stubbornly, persistently, consistently, to the utmost, after all, it must be remembered, only, purely, simply",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6456,
+    "kanji": "逆さま",
+    "hiragana": "さかさま",
+    "english": "inverted, upside down, reversed, back to front",
+    "jlpt": 2,
+    "wanikani": 30,
+    "is_common": true
+  },
+  {
+    "id": 6457,
+    "kanji": "逆様",
+    "hiragana": "さかさま",
+    "english": "inverted, upside down, reversed, back to front",
+    "jlpt": 2,
+    "wanikani": 30,
+    "is_common": true
+  },
+  {
+    "id": 6458,
+    "kanji": "倒",
+    "hiragana": "さかさま",
+    "english": "inverted, upside down, reversed, back to front",
+    "jlpt": 2,
+    "wanikani": 30,
+    "is_common": true
+  },
+  {
+    "id": 6555,
+    "kanji": "傾らか",
+    "hiragana": "なだらか",
+    "english": "gently sloping, gentle, easy, smooth",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6459,
+    "kanji": "齧る",
+    "hiragana": "かじる",
+    "english": "to gnaw, to nibble, to bite, to munch, to crunch, to dabble in, to have a smattering of",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6460,
+    "kanji": "噛る",
+    "hiragana": "かじる",
+    "english": "to gnaw, to nibble, to bite, to munch, to crunch, to dabble in, to have a smattering of",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6461,
+    "kanji": "囓る",
+    "hiragana": "かじる",
+    "english": "to gnaw, to nibble, to bite, to munch, to crunch, to dabble in, to have a smattering of",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6462,
+    "kanji": "言いつける",
+    "hiragana": "いいつける",
+    "english": "to tell (to do), to order, to charge, to direct, to tell on (someone), to report, to often say",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6463,
+    "kanji": "言い付ける",
+    "hiragana": "いいつける",
+    "english": "to tell (to do), to order, to charge, to direct, to tell on (someone), to report, to often say",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6464,
+    "kanji": "言付ける",
+    "hiragana": "いいつける",
+    "english": "to tell (to do), to order, to charge, to direct, to tell on (someone), to report, to often say",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6465,
+    "kanji": "通りかかる",
+    "hiragana": "とおりかかる",
+    "english": "to happen to pass by",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6466,
+    "kanji": "通り掛かる",
+    "hiragana": "とおりかかる",
+    "english": "to happen to pass by",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6467,
+    "kanji": "通り掛る",
+    "hiragana": "とおりかかる",
+    "english": "to happen to pass by",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6468,
+    "kanji": "お菜",
+    "hiragana": "おかず",
+    "english": "side dish, okazu, side dish (meat, fish, pickles, etc.) accompanying the rice in a typical Japanese meal, food for thought (esp. in the context of conversation, or material for assisting arousal during masturbation), fill, fill-in (drumming)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6469,
+    "kanji": "お数",
+    "hiragana": "おかず",
+    "english": "side dish, okazu, side dish (meat, fish, pickles, etc.) accompanying the rice in a typical Japanese meal, food for thought (esp. in the context of conversation, or material for assisting arousal during masturbation), fill, fill-in (drumming)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6471,
+    "kanji": "鋸",
+    "hiragana": "のこぎり",
+    "english": "saw, musical saw, Nokogiri, Saw",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12724,
+    "kanji": "修道院",
+    "hiragana": "しゅうどういん",
+    "english": "monastery, convent, cloister, abbey, Shuudouin, Abbey",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12725,
+    "kanji": "習得",
+    "hiragana": "しゅうとく",
+    "english": "learning, acquisition",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6475,
+    "kanji": "赤道",
+    "hiragana": "せきどう",
+    "english": "equator, Equator",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6476,
+    "kanji": "爪",
+    "hiragana": "つめ",
+    "english": "nail (e.g. fingernail, toenail), claw, talon, hoof, plectrum, pick, hook, clasp, Nail (anatomy)",
+    "jlpt": 2,
+    "wanikani": 34,
+    "is_common": true
+  },
+  {
+    "id": 6477,
+    "kanji": "平野",
+    "hiragana": "へいや",
+    "english": "plain, open field, Plain",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6478,
+    "kanji": "小指",
+    "hiragana": "こゆび",
+    "english": "little finger, pinky, little toe, Little finger",
+    "jlpt": 2,
+    "wanikani": 11,
+    "is_common": true
+  },
+  {
+    "id": 6479,
+    "kanji": "子指",
+    "hiragana": "こゆび",
+    "english": "little finger, pinky, little toe, Little finger",
+    "jlpt": 2,
+    "wanikani": 11,
+    "is_common": true
+  },
+  {
+    "id": 6480,
+    "kanji": "下線",
+    "hiragana": "かせん",
+    "english": "underline, underscore, Underline",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6481,
+    "kanji": "墨",
+    "hiragana": "すみ",
+    "english": "sumi, India ink, Chinese ink, ink stick, ink-cake, squid ink, octopus ink, carpenter's inking string, Inkstick",
+    "jlpt": 2,
+    "wanikani": 46,
+    "is_common": true
+  },
+  {
+    "id": 6482,
+    "kanji": "琴",
+    "hiragana": "こと",
+    "english": "koto (13-stringed Japanese zither), stringed instrument, zheng (Chinese zither), guzheng, Koto (instrument)",
+    "jlpt": 2,
+    "wanikani": 43,
+    "is_common": true
+  },
+  {
+    "id": 6483,
+    "kanji": "箏",
+    "hiragana": "こと",
+    "english": "koto (13-stringed Japanese zither), stringed instrument, zheng (Chinese zither), guzheng, Koto (instrument)",
+    "jlpt": 2,
+    "wanikani": 43,
+    "is_common": true
+  },
+  {
+    "id": 6484,
+    "kanji": "筝",
+    "hiragana": "こと",
+    "english": "koto (13-stringed Japanese zither), stringed instrument, zheng (Chinese zither), guzheng, Koto (instrument)",
+    "jlpt": 2,
+    "wanikani": 43,
+    "is_common": true
+  },
+  {
+    "id": 6487,
+    "kanji": "その他",
+    "hiragana": "そのほか",
+    "english": "etc., otherwise, besides, in addition, the rest, the others, and so forth, Et cetera",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6488,
+    "kanji": "その外",
+    "hiragana": "そのほか",
+    "english": "etc., otherwise, besides, in addition, the rest, the others, and so forth, Et cetera",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6489,
+    "kanji": "其の他",
+    "hiragana": "そのほか",
+    "english": "etc., otherwise, besides, in addition, the rest, the others, and so forth, Et cetera",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6490,
+    "kanji": "お辞儀",
+    "hiragana": "おじぎ",
+    "english": "bow, bowing, Bowing",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6491,
+    "kanji": "蓋",
+    "hiragana": "ふた",
+    "english": "cover, lid, cap, Lid (container)",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6492,
+    "kanji": "混凝土",
+    "hiragana": "こんくりいと",
+    "english": "concrete, Concrete",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6493,
+    "kanji": "扇子",
+    "hiragana": "せんす",
+    "english": "folding fan, Hand fan",
+    "jlpt": 2,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 12726,
+    "kanji": "修復",
+    "hiragana": "しゅうふく",
+    "english": "restoration, repair, mending",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12727,
+    "kanji": "修学旅行",
+    "hiragana": "しゅうがくりょこう",
+    "english": "excursion, field trip, school trip",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 12728,
+    "kanji": "修道",
+    "hiragana": "しゅうどう",
+    "english": "learning, studying the fine arts",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 6497,
+    "kanji": "歌留多",
+    "hiragana": "かるた",
+    "english": "karuta, traditional Japanese playing cards, Carta",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6498,
+    "kanji": "骨牌",
+    "hiragana": "かるた",
+    "english": "karuta, traditional Japanese playing cards, Carta",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6499,
+    "kanji": "加留多",
+    "hiragana": "かるた",
+    "english": "karuta, traditional Japanese playing cards, Carta",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  },
+  {
+    "id": 6500,
+    "kanji": "嘉留太",
+    "hiragana": "かるた",
+    "english": "karuta, traditional Japanese playing cards, Carta",
+    "jlpt": 2,
+    "wanikani": null,
+    "is_common": false
+  }
+]

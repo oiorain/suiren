@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 17470,
+    "kanji": "林立",
+    "hiragana": "りんりつ",
+    "english": "standing close together, bristling (with)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17471,
+    "kanji": "林道",
+    "hiragana": "りんどう",
+    "english": "path through forest, woodland path, logging road",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17472,
+    "kanji": "林野庁",
+    "hiragana": "りんやちょう",
+    "english": "Forestry Agency",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17473,
+    "kanji": "林野",
+    "hiragana": "りんや",
+    "english": "forests and fields",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17475,
+    "kanji": "果樹",
+    "hiragana": "かじゅ",
+    "english": "fruit tree",
+    "jlpt": null,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 17476,
+    "kanji": "果敢",
+    "hiragana": "かかん",
+    "english": "resolute, determined, bold",
+    "jlpt": null,
+    "wanikani": 57,
+    "is_common": true
+  },
+  {
+    "id": 17477,
+    "kanji": "果汁",
+    "hiragana": "かじゅう",
+    "english": "fruit juice",
+    "jlpt": null,
+    "wanikani": 35,
+    "is_common": true
+  },
+  {
+    "id": 17478,
+    "kanji": "枝葉",
+    "hiragana": "しよう",
+    "english": "branches and leaves, foliage, unimportant details, nonessentials, side issue, digression",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17479,
+    "kanji": "枠組み",
+    "hiragana": "わくぐみ",
+    "english": "frame, framework, outline",
+    "jlpt": null,
+    "wanikani": 39,
+    "is_common": true
+  },
+  {
+    "id": 17480,
+    "kanji": "枠内",
+    "hiragana": "わくない",
+    "english": "within the limits (framework, boundaries, price, etc.)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17481,
+    "kanji": "枠外",
+    "hiragana": "わくがい",
+    "english": "beyond (the) limits",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17482,
+    "kanji": "枯れ葉",
+    "hiragana": "かれは",
+    "english": "dead leaf, dry leaves, Autumn Leaves",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17483,
+    "kanji": "枯れ木",
+    "hiragana": "かれき",
+    "english": "dead tree, dry wood, Kareki",
+    "jlpt": null,
+    "wanikani": 53,
+    "is_common": true
+  },
+  {
+    "id": 17484,
+    "kanji": "架空",
+    "hiragana": "かくう",
+    "english": "aerial, overhead, fictitious, imaginary, fanciful, fabricated",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17485,
+    "kanji": "架橋",
+    "hiragana": "かきょう",
+    "english": "bridge building, bridge, cross-linking, Cross-link",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17486,
+    "kanji": "染め",
+    "hiragana": "そめ",
+    "english": "dyeing, printing",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17487,
+    "kanji": "染色",
+    "hiragana": "せんしょく",
+    "english": "dyeing, staining, dyed colour (color), Dyeing",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17488,
+    "kanji": "染み",
+    "hiragana": "しみ",
+    "english": "stain, spot, smudge, blot, smear, blotch, spot (on one's skin, e.g. chloasma, liver spot), blemish, discoloration, freckle",
+    "jlpt": null,
+    "wanikani": 34,
+    "is_common": true
+  },
+  {
+    "id": 17489,
+    "kanji": "染色体",
+    "hiragana": "せんしょくたい",
+    "english": "chromosome, Chromosome",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17490,
+    "kanji": "柔らか",
+    "hiragana": "やわらか",
+    "english": "soft, tender, limp, subdued (colour or light) (color), gentle, meek",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17492,
+    "kanji": "査定",
+    "hiragana": "さてい",
+    "english": "assessment (of value, damages, etc.), revision (of a budget)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17493,
+    "kanji": "査察",
+    "hiragana": "ささつ",
+    "english": "inspection (for compliance), investigation (tax, etc.)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17494,
+    "kanji": "査証",
+    "hiragana": "さしょう",
+    "english": "visa, Visa (document)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17497,
+    "kanji": "栄光",
+    "hiragana": "えいこう",
+    "english": "glory",
+    "jlpt": null,
+    "wanikani": 17,
+    "is_common": true
+  },
+  {
+    "id": 17498,
+    "kanji": "栄誉",
+    "hiragana": "えいよ",
+    "english": "honour, honor",
+    "jlpt": null,
+    "wanikani": 40,
+    "is_common": true
+  },
+  {
+    "id": 17499,
+    "kanji": "栄冠",
+    "hiragana": "えいかん",
+    "english": "laurels, garland",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17500,
+    "kanji": "栄養素",
+    "hiragana": "えいようそ",
+    "english": "nutrient, Nutrient",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17501,
+    "kanji": "栄養士",
+    "hiragana": "えいようし",
+    "english": "nutritionist, Dietitian",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17502,
+    "kanji": "栄養失調",
+    "hiragana": "えいようしっちょう",
+    "english": "malnutrition, Malnutrition",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17503,
+    "kanji": "栄養学",
+    "hiragana": "えいようがく",
+    "english": "dietetics, nutritional science",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17504,
+    "kanji": "栓抜き",
+    "hiragana": "せんぬき",
+    "english": "bottle opener, corkscrew, Bottle opener",
+    "jlpt": null,
+    "wanikani": 55,
+    "is_common": true
+  },
+  {
+    "id": 17506,
+    "kanji": "生息",
+    "hiragana": "せいそく",
+    "english": "inhabiting, living",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17508,
+    "kanji": "校歌",
+    "hiragana": "こうか",
+    "english": "school song, School song",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17509,
+    "kanji": "校則",
+    "hiragana": "こうそく",
+    "english": "school regulations",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17510,
+    "kanji": "校門",
+    "hiragana": "こうもん",
+    "english": "school gate",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17511,
+    "kanji": "校内",
+    "hiragana": "こうない",
+    "english": "within a school",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17512,
+    "kanji": "株価",
+    "hiragana": "かぶか",
+    "english": "stock prices, Share price",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17513,
+    "kanji": "株主",
+    "hiragana": "かぶぬし",
+    "english": "shareholder, stockholder, Shareholder",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17514,
+    "kanji": "株券",
+    "hiragana": "かぶけん",
+    "english": "stock certificate, Stock certificate",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17515,
+    "kanji": "株式会社",
+    "hiragana": "かぶしきがいしゃ",
+    "english": "public company, corporation, KK, formula for an incorporated public company",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17516,
+    "kanji": "核兵器",
+    "hiragana": "かくへいき",
+    "english": "nuclear weapon, Nuclear weapon",
+    "jlpt": null,
+    "wanikani": 36,
+    "is_common": true
+  },
+  {
+    "id": 17517,
+    "kanji": "核家族",
+    "hiragana": "かくかぞく",
+    "english": "nuclear family, Nuclear family",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17518,
+    "kanji": "核実験",
+    "hiragana": "かくじっけん",
+    "english": "nuclear (bomb) test, Nuclear weapons testing",
+    "jlpt": null,
+    "wanikani": 36,
+    "is_common": true
+  },
+  {
+    "id": 17519,
+    "kanji": "核酸",
+    "hiragana": "かくさん",
+    "english": "nucleic acid, Nucleic acid",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17520,
+    "kanji": "核心",
+    "hiragana": "かくしん",
+    "english": "core, heart (of the matter), point, crux, kernel",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17521,
+    "kanji": "核武装",
+    "hiragana": "かくぶそう",
+    "english": "nuclear arms",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17522,
+    "kanji": "核融合",
+    "hiragana": "かくゆうごう",
+    "english": "nuclear fusion",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17523,
+    "kanji": "核燃料",
+    "hiragana": "かくねんりょう",
+    "english": "atomic fuel, nuclear fuel, Nuclear fuel",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17524,
+    "kanji": "核弾頭",
+    "hiragana": "かくだんとう",
+    "english": "nuclear warhead",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17525,
+    "kanji": "核分裂",
+    "hiragana": "かくぶんれつ",
+    "english": "nuclear fission, karyokinesis (division of a cell nucleus during mitosis or meiosis)",
+    "jlpt": null,
+    "wanikani": 45,
+    "is_common": true
+  },
+  {
+    "id": 17526,
+    "kanji": "根回し",
+    "hiragana": "ねまわし",
+    "english": "making necessary arrangements, laying the groundwork, digging around the roots of a tree (before transplanting), Nemawashi",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17527,
+    "kanji": "根本的",
+    "hiragana": "こんぽんてき",
+    "english": "fundamental, basic",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17528,
+    "kanji": "根ざす",
+    "hiragana": "ねざす",
+    "english": "to come from, to have roots in",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17529,
+    "kanji": "根性",
+    "hiragana": "こんじょう",
+    "english": "willpower, guts, determination, grit, spirit, character, nature, disposition, personality",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17530,
+    "kanji": "根絶",
+    "hiragana": "こんぜつ",
+    "english": "eradication, extermination",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17531,
+    "kanji": "根っ子",
+    "hiragana": "ねっこ",
+    "english": "root, stub, stump, Nekko",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17532,
+    "kanji": "根幹",
+    "hiragana": "こんかん",
+    "english": "foundation, root, basis, core, fundamentals, root and trunk",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17533,
+    "kanji": "格子",
+    "hiragana": "こうし",
+    "english": "lattice, latticework, window bars, grid, grating, Latticework",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17534,
+    "kanji": "格段",
+    "hiragana": "かくだん",
+    "english": "special, exceptional, remarkable",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17535,
+    "kanji": "格闘",
+    "hiragana": "かくとう",
+    "english": "hand-to-hand fighting, grappling, scuffling",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17536,
+    "kanji": "格安",
+    "hiragana": "かくやす",
+    "english": "cheap, reasonable",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17537,
+    "kanji": "格上げ",
+    "hiragana": "かくあげ",
+    "english": "status elevation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17538,
+    "kanji": "格付け",
+    "hiragana": "かくづけ",
+    "english": "rating, classification, allocation, grading",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17542,
+    "kanji": "案件",
+    "hiragana": "あんけん",
+    "english": "matter in question, subject, case, item",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17544,
+    "kanji": "梅雨明け",
+    "hiragana": "つゆあけ",
+    "english": "the end of the rainy season",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17549,
+    "kanji": "棄却",
+    "hiragana": "ききゃく",
+    "english": "rejection, dismissal, abandoning, renunciation, waiver",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17553,
+    "kanji": "棋士",
+    "hiragana": "きし",
+    "english": "shogi player, go player",
+    "jlpt": null,
+    "wanikani": 39,
+    "is_common": true
+  },
+  {
+    "id": 17554,
+    "kanji": "棋院",
+    "hiragana": "きいん",
+    "english": "go institution, go club, go hall",
+    "jlpt": null,
+    "wanikani": 39,
+    "is_common": true
+  },
+  {
+    "id": 17555,
+    "kanji": "棋聖",
+    "hiragana": "きせい",
+    "english": "great master of go, great master of shogi",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17556,
+    "kanji": "棚上げ",
+    "hiragana": "たなあげ",
+    "english": "shelving, pigeonholing",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17560,
+    "kanji": "植物園",
+    "hiragana": "しょくぶつえん",
+    "english": "botanical garden, Shokubutsuen, Botanical garden",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17561,
+    "kanji": "植林",
+    "hiragana": "しょくりん",
+    "english": "afforestation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17562,
+    "kanji": "植樹",
+    "hiragana": "しょくじゅ",
+    "english": "tree-planting",
+    "jlpt": null,
+    "wanikani": 41,
+    "is_common": true
+  },
+  {
+    "id": 17565,
+    "kanji": "検閲",
+    "hiragana": "けんえつ",
+    "english": "censorship, inspection, examination, Censorship",
+    "jlpt": null,
+    "wanikani": 57,
+    "is_common": true
+  },
+  {
+    "id": 17566,
+    "kanji": "検問",
+    "hiragana": "けんもん",
+    "english": "inspection, examination, check, Inspection",
+    "jlpt": null,
+    "wanikani": 21,
+    "is_common": true
+  },
+  {
+    "id": 17567,
+    "kanji": "検索",
+    "hiragana": "けんさく",
+    "english": "looking up (e.g. a word in a dictionary), retrieval (e.g. data), searching for, referring to",
+    "jlpt": null,
+    "wanikani": 29,
+    "is_common": true
+  },
+  {
+    "id": 17568,
+    "kanji": "検証",
+    "hiragana": "けんしょう",
+    "english": "verification, inspection",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17569,
+    "kanji": "検定",
+    "hiragana": "けんてい",
+    "english": "official certification, official approval, inspection, verification, certification examination, licensing examination, proficiency test, hypothesis testing",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17570,
+    "kanji": "検察",
+    "hiragana": "けんさつ",
+    "english": "examination, investigation, prosecution",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17571,
+    "kanji": "検出",
+    "hiragana": "けんしゅつ",
+    "english": "detection, sense (e.g. sensor)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17572,
+    "kanji": "検索条件",
+    "hiragana": "けんさくじょうけん",
+    "english": "search criteria",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17573,
+    "kanji": "検視",
+    "hiragana": "けんし",
+    "english": "autopsy, inquest, investigation of death, Autopsy",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17574,
+    "kanji": "検察官",
+    "hiragana": "けんさつかん",
+    "english": "public prosecutor, Prosecutor",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17575,
+    "kanji": "検疫",
+    "hiragana": "けんえき",
+    "english": "quarantine, medical inspection, Quarantine",
+    "jlpt": null,
+    "wanikani": 50,
+    "is_common": true
+  },
+  {
+    "id": 17577,
+    "kanji": "検挙",
+    "hiragana": "けんきょ",
+    "english": "arrest, roundup",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17578,
+    "kanji": "検察庁",
+    "hiragana": "けんさつちょう",
+    "english": "Public Prosecutor's Office",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17579,
+    "kanji": "検事正",
+    "hiragana": "けんじせい",
+    "english": "chief public prosecutor",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17581,
+    "kanji": "楕円形",
+    "hiragana": "だえんけい",
+    "english": "elliptical shape",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17582,
+    "kanji": "業界",
+    "hiragana": "ぎょうかい",
+    "english": "business world, business circles, (the) industry",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17583,
+    "kanji": "業種",
+    "hiragana": "ぎょうしゅ",
+    "english": "type of industry",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17588,
+    "kanji": "極東",
+    "hiragana": "きょくとう",
+    "english": "Far East, Kyokutou, Far East",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17589,
+    "kanji": "決まって",
+    "hiragana": "きまって",
+    "english": "always, without fail, invariably, usually, regularly",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17590,
+    "kanji": "極度",
+    "hiragana": "きょくど",
+    "english": "maximum, extreme, utmost, curvature",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17591,
+    "kanji": "決め",
+    "hiragana": "きめ",
+    "english": "agreement, rule",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17592,
+    "kanji": "決め手",
+    "hiragana": "きめて",
+    "english": "decider, person who decides, deciding factor, clincher, trump card, winning move",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17593,
+    "kanji": "極秘",
+    "hiragana": "ごくひ",
+    "english": "absolute secrecy",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17594,
+    "kanji": "極力",
+    "hiragana": "きょくりょく",
+    "english": "to the utmost, to the best of one's ability",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17595,
+    "kanji": "極まる",
+    "hiragana": "きわまる",
+    "english": "to reach an extreme, to reach a limit, to terminate, to come to an end, extremely, to be stuck, to be in a dilemma, to be at a loss, to be decided, to be settled",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17596,
+    "kanji": "極限",
+    "hiragana": "きょくげん",
+    "english": "utmost limits, extremity, limit, Limit (mathematics)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17597,
+    "kanji": "極右",
+    "hiragana": "きょくう",
+    "english": "far right (in politics), extreme right, ultraconservative, Far-right politics",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17598,
+    "kanji": "落書き",
+    "hiragana": "らくがき",
+    "english": "scrawl, scribble, graffiti, Graffiti",
+    "jlpt": null,
+    "wanikani": 18,
+    "is_common": true
+  },
+  {
+    "id": 17599,
+    "kanji": "楽屋",
+    "hiragana": "がくや",
+    "english": "dressing room, green room, backstage, behind the scenes, the inside, inside affairs, Green room",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17600,
+    "kanji": "楽園",
+    "hiragana": "らくえん",
+    "english": "pleasure garden, paradise, Rakuen",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17601,
+    "kanji": "楽団",
+    "hiragana": "がくだん",
+    "english": "orchestra, band",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17602,
+    "kanji": "楽観的",
+    "hiragana": "らっかんてき",
+    "english": "optimistic, hopeful",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17603,
+    "kanji": "楽天的",
+    "hiragana": "らくてんてき",
+    "english": "optimistic",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17604,
+    "kanji": "楽章",
+    "hiragana": "がくしょう",
+    "english": "(musical) movement, Movement (music)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17605,
+    "kanji": "楽曲",
+    "hiragana": "がっきょく",
+    "english": "musical composition, tune",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17606,
+    "kanji": "概算",
+    "hiragana": "がいさん",
+    "english": "approximation, rough estimate",
+    "jlpt": null,
+    "wanikani": 49,
+    "is_common": true
+  },
+  {
+    "id": 17607,
+    "kanji": "概要",
+    "hiragana": "がいよう",
+    "english": "outline, summary, overview, abridgment, synopsis",
+    "jlpt": null,
+    "wanikani": 49,
+    "is_common": true
+  },
+  {
+    "id": 17608,
+    "kanji": "構内",
+    "hiragana": "こうない",
+    "english": "premises, grounds, campus, in-house",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17609,
+    "kanji": "構築",
+    "hiragana": "こうちく",
+    "english": "construction, building, putting up, erecting, creation, formulation, architecture (systems, agreement, etc)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17610,
+    "kanji": "構造物",
+    "hiragana": "こうぞうぶつ",
+    "english": "structure, Architectural structure",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17611,
+    "kanji": "構図",
+    "hiragana": "こうず",
+    "english": "composition",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17612,
+    "kanji": "様になる",
+    "hiragana": "ようになる",
+    "english": "to reach the point that, to come to be that, to turn into",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17613,
+    "kanji": "様に",
+    "hiragana": "ように",
+    "english": "in order to (e.g. meet goal), so that, take care (so as), hoping or wishing for something",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17614,
+    "kanji": "様変わり",
+    "hiragana": "さまがわり",
+    "english": "changing completely",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17615,
+    "kanji": "様にする",
+    "hiragana": "ようにする",
+    "english": "(following a verb) to be sure to, to do (something) so that ..., to make sure to, to try to",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17618,
+    "kanji": "標本",
+    "hiragana": "ひょうほん",
+    "english": "example, specimen, sample",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17619,
+    "kanji": "表示",
+    "hiragana": "ひょうじ",
+    "english": "indication, expression, showing, manifestation, demonstration, display, displaying, representation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17620,
+    "kanji": "標的",
+    "hiragana": "ひょうてき",
+    "english": "target",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17621,
+    "kanji": "標高",
+    "hiragana": "ひょうこう",
+    "english": "elevation, height above sea level",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17622,
+    "kanji": "表題",
+    "hiragana": "ひょうだい",
+    "english": "title, index, heading, headline, caption",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17623,
+    "kanji": "表札",
+    "hiragana": "ひょうさつ",
+    "english": "nameplate, doorplate",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17624,
+    "kanji": "標題",
+    "hiragana": "ひょうだい",
+    "english": "title, heading, headline, caption",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17625,
+    "kanji": "模範",
+    "hiragana": "もはん",
+    "english": "exemplar, exemplification, exemplum, model, example",
+    "jlpt": null,
+    "wanikani": 42,
+    "is_common": true
+  },
+  {
+    "id": 17628,
+    "kanji": "権益",
+    "hiragana": "けんえき",
+    "english": "(one's) interests",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17629,
+    "kanji": "横断歩道",
+    "hiragana": "おうだんほどう",
+    "english": "pedestrian crossing, Pedestrian crossing",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17630,
+    "kanji": "横領",
+    "hiragana": "おうりょう",
+    "english": "embezzlement, misappropriation, usurpation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17631,
+    "kanji": "横転",
+    "hiragana": "おうてん",
+    "english": "toppling sideways, turning sideways, falling over sideways, barrel roll",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17632,
+    "kanji": "横目",
+    "hiragana": "よこめ",
+    "english": "sidelong glance",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17633,
+    "kanji": "横暴",
+    "hiragana": "おうぼう",
+    "english": "violence, oppression, high-handedness, tyranny, despotism",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17634,
+    "kanji": "横行",
+    "hiragana": "おうこう",
+    "english": "walking sideways, staggering, striding, being rampant, being widespread, being prevalent",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17635,
+    "kanji": "横たわる",
+    "hiragana": "よこたわる",
+    "english": "to lie down, to stretch out, to lie ahead (of danger, difficulty, etc.), to lie in wait",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17636,
+    "kanji": "横着",
+    "hiragana": "おうちゃく",
+    "english": "laziness, shirking, impudent, brazenly dishonest",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17637,
+    "kanji": "横顔",
+    "hiragana": "よこがお",
+    "english": "profile, face in profile, face seen from the side, (personal) profile, (biographical) sketch, outline (of someone's life)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17638,
+    "kanji": "横ばい",
+    "hiragana": "よこばい",
+    "english": "sidewise crawl (e.g. of a crab), crawling sideways, leafhopper (insect), jassid, sidewinder (Crotalus cerastes), levelling off (of prices, etc.), stabilizing, Leafhopper",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17639,
+    "kanji": "横断幕",
+    "hiragana": "おうだんまく",
+    "english": "horizontal banner, Banner",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17640,
+    "kanji": "横線",
+    "hiragana": "おうせん",
+    "english": "horizontal line, abscissa",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17641,
+    "kanji": "横手",
+    "hiragana": "よこて",
+    "english": "side, beside, feature of a sword blade",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17642,
+    "kanji": "横書き",
+    "hiragana": "よこがき",
+    "english": "writing horizontally, horizontal writing",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17643,
+    "kanji": "横取り",
+    "hiragana": "よこどり",
+    "english": "usurpation, snatching, seizure",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17644,
+    "kanji": "横道",
+    "hiragana": "よこみち",
+    "english": "byway, side street, cross street, wrong way, digression",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17645,
+    "kanji": "横文字",
+    "hiragana": "よこもじ",
+    "english": "European writing, cross-wise writing, Western language",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17647,
+    "kanji": "樹齢",
+    "hiragana": "じゅれい",
+    "english": "age of a tree",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17648,
+    "kanji": "樹脂",
+    "hiragana": "じゅし",
+    "english": "resin, rosin",
+    "jlpt": null,
+    "wanikani": 51,
+    "is_common": true
+  },
+  {
+    "id": 17649,
+    "kanji": "橋脚",
+    "hiragana": "きょうきゃく",
+    "english": "bridge pier, pontoon bridge, Pier (architecture)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17650,
+    "kanji": "機体",
+    "hiragana": "きたい",
+    "english": "fuselage, airframe, Airframe",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17651,
+    "kanji": "機密",
+    "hiragana": "きみつ",
+    "english": "secrecy, highly classified information, Confidentiality",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17652,
+    "kanji": "機動隊",
+    "hiragana": "きどうたい",
+    "english": "riot police, riot squad, Riot control",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17653,
+    "kanji": "機関銃",
+    "hiragana": "きかんじゅう",
+    "english": "machine gun, Machine gun",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17654,
+    "kanji": "機長",
+    "hiragana": "きちょう",
+    "english": "captain (of an aircraft), Pilot in command",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17656,
+    "kanji": "機種",
+    "hiragana": "きしゅ",
+    "english": "type of equipment, model",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17657,
+    "kanji": "機敏",
+    "hiragana": "きびん",
+    "english": "clever, shrewd, canny, smart, quick, prompt",
+    "jlpt": null,
+    "wanikani": 40,
+    "is_common": true
+  },
+  {
+    "id": 17658,
+    "kanji": "機材",
+    "hiragana": "きざい",
+    "english": "machine parts, machinery, equipment",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17659,
+    "kanji": "機首",
+    "hiragana": "きしゅ",
+    "english": "nose (of plane)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17660,
+    "kanji": "機械化",
+    "hiragana": "きかいか",
+    "english": "mechanization, mechanisation, computerization, Mechanization",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17661,
+    "kanji": "機雷",
+    "hiragana": "きらい",
+    "english": "(sea) mine, Naval mine",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17662,
+    "kanji": "機動",
+    "hiragana": "きどう",
+    "english": "maneuver (usu. of military force), manoeuvre, mobile, nimble, agile, quick to respond",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17663,
+    "kanji": "機関紙",
+    "hiragana": "きかんし",
+    "english": "bulletin, (party) organ",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17664,
+    "kanji": "機運",
+    "hiragana": "きうん",
+    "english": "opportunity, chance, good time (to do), trend, tendency, momentum",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17667,
+    "kanji": "鬱",
+    "hiragana": "うつ",
+    "english": "depression, low spirits",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17668,
+    "kanji": "欠かす",
+    "hiragana": "かかす",
+    "english": "to miss (doing), to fail (to do)",
+    "jlpt": null,
+    "wanikani": 9,
+    "is_common": true
+  },
+  {
+    "id": 17669,
+    "kanji": "欠如",
+    "hiragana": "けつじょ",
+    "english": "lack, absence, shortage, deficiency, privation",
+    "jlpt": null,
+    "wanikani": 47,
+    "is_common": true
+  },
+  {
+    "id": 17670,
+    "kanji": "欠損",
+    "hiragana": "けっそん",
+    "english": "deficit, shortage, loss, damage",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17796,
+    "kanji": "段落",
+    "hiragana": "だんらく",
+    "english": "paragraph, end, stopping place, conclusion, Paragraph",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17671,
+    "kanji": "欠片",
+    "hiragana": "かけら",
+    "english": "fragment, broken piece, chip, splinter, shard, ounce (of truth, conscience, etc.), trace, shred, scrap",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17673,
+    "kanji": "欠場",
+    "hiragana": "けつじょう",
+    "english": "absence, not taking part",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17674,
+    "kanji": "欠員",
+    "hiragana": "けついん",
+    "english": "vacancy, vacant position",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17675,
+    "kanji": "次第に",
+    "hiragana": "しだいに",
+    "english": "gradually (progress into a state), in sequence, in order, in turn",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17676,
+    "kanji": "次回",
+    "hiragana": "じかい",
+    "english": "next time (occasion)",
+    "jlpt": null,
+    "wanikani": 6,
+    "is_common": true
+  },
+  {
+    "id": 17677,
+    "kanji": "次期",
+    "hiragana": "じき",
+    "english": "next term, next period, next version, next release",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17678,
+    "kanji": "次官",
+    "hiragana": "じかん",
+    "english": "vice-minister, undersecretary",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17679,
+    "kanji": "次元",
+    "hiragana": "じげん",
+    "english": "dimension, perspective, point of reference, level (of something), Dimension",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17680,
+    "kanji": "次点",
+    "hiragana": "じてん",
+    "english": "runner-up",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17681,
+    "kanji": "次席",
+    "hiragana": "じせき",
+    "english": "associate, junior, assistant, runner-up",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17682,
+    "kanji": "次代",
+    "hiragana": "じだい",
+    "english": "the next era",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17685,
+    "kanji": "次女",
+    "hiragana": "じじょ",
+    "english": "second daughter",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17687,
+    "kanji": "欧州",
+    "hiragana": "おうしゅう",
+    "english": "Europe, Europe",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17689,
+    "kanji": "欲しがる",
+    "hiragana": "ほしがる",
+    "english": "to desire, to want, to wish for, to covet",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17690,
+    "kanji": "欲する",
+    "hiragana": "ほっする",
+    "english": "to want, to desire",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17691,
+    "kanji": "欲求",
+    "hiragana": "よっきゅう",
+    "english": "desire",
+    "jlpt": null,
+    "wanikani": 32,
+    "is_common": true
+  },
+  {
+    "id": 17692,
+    "kanji": "欲張る",
+    "hiragana": "よくばる",
+    "english": "to covet, to lust for",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17693,
+    "kanji": "欲深",
+    "hiragana": "よくぶか",
+    "english": "avarice, covetousness, greed",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17694,
+    "kanji": "歌舞伎",
+    "hiragana": "かぶき",
+    "english": "kabuki, Japanese classical drama, Kabuki, Kabuki",
+    "jlpt": null,
+    "wanikani": 36,
+    "is_common": true
+  },
+  {
+    "id": 17695,
+    "kanji": "歌詞",
+    "hiragana": "かし",
+    "english": "song lyrics, words of a song, libretto, Lyrics",
+    "jlpt": null,
+    "wanikani": 19,
+    "is_common": true
+  },
+  {
+    "id": 17696,
+    "kanji": "歌唱",
+    "hiragana": "かしょう",
+    "english": "song, singing, Singing",
+    "jlpt": null,
+    "wanikani": 40,
+    "is_common": true
+  },
+  {
+    "id": 17697,
+    "kanji": "歌声",
+    "hiragana": "うたごえ",
+    "english": "singing voice, (sound of) singing",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17698,
+    "kanji": "歌劇",
+    "hiragana": "かげき",
+    "english": "opera",
+    "jlpt": null,
+    "wanikani": 34,
+    "is_common": true
+  },
+  {
+    "id": 17699,
+    "kanji": "歌謡曲",
+    "hiragana": "かようきょく",
+    "english": "popular song, Kayōkyoku",
+    "jlpt": null,
+    "wanikani": 56,
+    "is_common": true
+  },
+  {
+    "id": 17700,
+    "kanji": "歌曲",
+    "hiragana": "かきょく",
+    "english": "melody, tune, song, Lied",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17701,
+    "kanji": "歌合",
+    "hiragana": "うたあわせ",
+    "english": "poetry contest, Utaawase",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17702,
+    "kanji": "歌人",
+    "hiragana": "かじん",
+    "english": "poet (of tanka poems)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17703,
+    "kanji": "歌集",
+    "hiragana": "かしゅう",
+    "english": "anthology, book of poetry",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17708,
+    "kanji": "歓喜",
+    "hiragana": "かんき",
+    "english": "delight, great joy, Kanki",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17709,
+    "kanji": "留め金",
+    "hiragana": "とめがね",
+    "english": "clasp, snap fastener",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17712,
+    "kanji": "正面",
+    "hiragana": "しょうめん",
+    "english": "front, frontage, facade, main",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17713,
+    "kanji": "正当",
+    "hiragana": "せいとう",
+    "english": "just, justifiable, right, due, proper, equitable, reasonable, legitimate, legal, lawful",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17714,
+    "kanji": "正月",
+    "hiragana": "しょうがつ",
+    "english": "New Year (esp. first three days), the first month of the year, January, Japanese New Year",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17715,
+    "kanji": "正当防衛",
+    "hiragana": "せいとうぼうえい",
+    "english": "legitimate self-defence, legitimate self-defense, Right of self-defense",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17716,
+    "kanji": "正装",
+    "hiragana": "せいそう",
+    "english": "full dress, formal dress, uniform, Formal wear",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17717,
+    "kanji": "正体",
+    "hiragana": "しょうたい",
+    "english": "true character, true form, true colors (colours), identity, truth (of a mystery, phenomenon, etc.), origin, consciousness, one's senses",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17718,
+    "kanji": "正反対",
+    "hiragana": "せいはんたい",
+    "english": "exactly opposite (of)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17719,
+    "kanji": "正論",
+    "hiragana": "せいろん",
+    "english": "sound argument, fair argument, just reasoning",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17720,
+    "kanji": "正統",
+    "hiragana": "せいとう",
+    "english": "legitimate, orthodox, traditional",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17721,
+    "kanji": "正す",
+    "hiragana": "ただす",
+    "english": "to correct, to rectify, to reform, to amend, to redress, to straighten (one's posture, collar, etc.), to adjust",
+    "jlpt": null,
+    "wanikani": 2,
+    "is_common": true
+  },
+  {
+    "id": 17722,
+    "kanji": "正座",
+    "hiragana": "せいざ",
+    "english": "seiza, kneeling with the tops of the feet flat on the floor, and sitting on the soles",
+    "jlpt": null,
+    "wanikani": 18,
+    "is_common": true
+  },
+  {
+    "id": 17723,
+    "kanji": "糺す",
+    "hiragana": "ただす",
+    "english": "to ascertain, to confirm, to verify, to make sure of",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17724,
+    "kanji": "正道",
+    "hiragana": "せいどう",
+    "english": "path of righteousness, path of duty, right track, correct path",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17725,
+    "kanji": "正教",
+    "hiragana": "せいきょう",
+    "english": "orthodoxy, (Greek) orthodox church",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17726,
+    "kanji": "正則",
+    "hiragana": "せいそく",
+    "english": "correct, proper, formal, regular, systematic, normal",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17727,
+    "kanji": "正念場",
+    "hiragana": "しょうねんば",
+    "english": "critical moment, do-or-die situation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17728,
+    "kanji": "正常化",
+    "hiragana": "せいじょうか",
+    "english": "normalization, normalisation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17729,
+    "kanji": "正式名称",
+    "hiragana": "せいしきめいしょう",
+    "english": "official name, formal name",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17734,
+    "kanji": "此奴",
+    "hiragana": "こいつ",
+    "english": "he, she, this fellow, this guy, this person, this, this one, this thing, Hey, you!, You bastard!, Damn you!",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17735,
+    "kanji": "この前",
+    "hiragana": "このまえ",
+    "english": "some time ago, recently, lately, last (Sunday, etc.), previous",
+    "jlpt": null,
+    "wanikani": 8,
+    "is_common": true
+  },
+  {
+    "id": 17736,
+    "kanji": "こいつ等",
+    "hiragana": "こいつら",
+    "english": "these guys, these fellows",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17737,
+    "kanji": "武道",
+    "hiragana": "ぶどう",
+    "english": "martial arts, military arts, Bushido, Budō",
+    "jlpt": null,
+    "wanikani": 24,
+    "is_common": true
+  },
+  {
+    "id": 17738,
+    "kanji": "武者",
+    "hiragana": "むしゃ",
+    "english": "warrior",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17739,
+    "kanji": "武将",
+    "hiragana": "ぶしょう",
+    "english": "military commander",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17740,
+    "kanji": "歩行",
+    "hiragana": "ほこう",
+    "english": "walk, Walking",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17741,
+    "kanji": "歩兵",
+    "hiragana": "ほへい",
+    "english": "infantry, infantryman, foot soldier, Infantry",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17742,
+    "kanji": "歩行者",
+    "hiragana": "ほこうしゃ",
+    "english": "pedestrian, walker, Pedestrian",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17743,
+    "kanji": "歩き回る",
+    "hiragana": "あるきまわる",
+    "english": "to walk about, to walk to and fro, to pace around",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17744,
+    "kanji": "歩調",
+    "hiragana": "ほちょう",
+    "english": "pace, step, cadence",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17745,
+    "kanji": "歩み寄る",
+    "hiragana": "あゆみよる",
+    "english": "to compromise, to meet halfway, to step up to, to walk up to, to approach",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17746,
+    "kanji": "歩み寄り",
+    "hiragana": "あゆみより",
+    "english": "compromise, concession",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17747,
+    "kanji": "歩合",
+    "hiragana": "ぶあい",
+    "english": "rate, ratio, percentage, commission, poundage, percentage",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17748,
+    "kanji": "齢",
+    "hiragana": "よわい",
+    "english": "(one's) age",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17749,
+    "kanji": "歯科医",
+    "hiragana": "しかい",
+    "english": "dentist",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17750,
+    "kanji": "歯止め",
+    "hiragana": "はどめ",
+    "english": "brake, drag, skid, pawl, restraint, curtailment, self-imposed limit, check",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17751,
+    "kanji": "歯切れ",
+    "hiragana": "はぎれ",
+    "english": "feel when biting, manner of enunciation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17753,
+    "kanji": "歯科医師",
+    "hiragana": "しかいし",
+    "english": "dentist, Dentist",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17754,
+    "kanji": "歯痒い",
+    "hiragana": "はがゆい",
+    "english": "impatient, tantalized, tantalised, irritated, chagrined, chagrinned, vexed",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17755,
+    "kanji": "歯ごたえ",
+    "hiragana": "はごたえ",
+    "english": "feel (consistency) of food while being chewed",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17757,
+    "kanji": "歳入",
+    "hiragana": "さいにゅう",
+    "english": "annual revenue (government), annual income (government), budget receipts, Government revenue",
+    "jlpt": null,
+    "wanikani": 46,
+    "is_common": true
+  },
+  {
+    "id": 17758,
+    "kanji": "歳月",
+    "hiragana": "さいげつ",
+    "english": "time, years",
+    "jlpt": null,
+    "wanikani": 46,
+    "is_common": true
+  },
+  {
+    "id": 17759,
+    "kanji": "歳出",
+    "hiragana": "さいしゅつ",
+    "english": "annual expenditure, Government spending",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17761,
+    "kanji": "歳暮",
+    "hiragana": "せいぼ",
+    "english": "year-end gift, end of the year, year end",
+    "jlpt": null,
+    "wanikani": 46,
+    "is_common": true
+  },
+  {
+    "id": 17762,
+    "kanji": "歳末",
+    "hiragana": "さいまつ",
+    "english": "year end",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17763,
+    "kanji": "歴史的",
+    "hiragana": "れきしてき",
+    "english": "historic, historical, traditional",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17764,
+    "kanji": "歴然",
+    "hiragana": "れきぜん",
+    "english": "evident, plain, distinct, clear",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17765,
+    "kanji": "歴代",
+    "hiragana": "れきだい",
+    "english": "successive generations, successive emperors",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17767,
+    "kanji": "歴訪",
+    "hiragana": "れきほう",
+    "english": "round of calls, tour of visitation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17769,
+    "kanji": "死亡率",
+    "hiragana": "しぼうりつ",
+    "english": "death rate, mortality, Mortality rate",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17770,
+    "kanji": "死刑囚",
+    "hiragana": "しけいしゅう",
+    "english": "criminal condemned to death, convict on death row, Death row",
+    "jlpt": null,
+    "wanikani": 60,
+    "is_common": true
+  },
+  {
+    "id": 17771,
+    "kanji": "死後",
+    "hiragana": "しご",
+    "english": "after death",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17772,
+    "kanji": "死者",
+    "hiragana": "ししゃ",
+    "english": "casualty, deceased",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17773,
+    "kanji": "死因",
+    "hiragana": "しいん",
+    "english": "cause of death",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17774,
+    "kanji": "死傷者",
+    "hiragana": "ししょうしゃ",
+    "english": "casualties, killed and wounded",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17775,
+    "kanji": "死去",
+    "hiragana": "しきょ",
+    "english": "death",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17776,
+    "kanji": "死人",
+    "hiragana": "しにん",
+    "english": "corpse, dead person",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17777,
+    "kanji": "死活",
+    "hiragana": "しかつ",
+    "english": "life and death, life or death, Life and death",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17778,
+    "kanji": "死球",
+    "hiragana": "しきゅう",
+    "english": "pitch that hits the batter, Hit by pitch",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17779,
+    "kanji": "死に体",
+    "hiragana": "しにたい",
+    "english": "losing posture, falling position from which it is impossible to recover, lame duck, hopeless situation, Shini-tai",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17780,
+    "kanji": "死亡者",
+    "hiragana": "しぼうしゃ",
+    "english": "the deceased, deaths, persons killed",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17781,
+    "kanji": "殊に",
+    "hiragana": "ことに",
+    "english": "especially, particularly, unusually, above all, additionally",
+    "jlpt": null,
+    "wanikani": 54,
+    "is_common": true
+  },
+  {
+    "id": 17782,
+    "kanji": "殊勲",
+    "hiragana": "しゅくん",
+    "english": "meritorious deeds",
+    "jlpt": null,
+    "wanikani": 54,
+    "is_common": true
+  },
+  {
+    "id": 17783,
+    "kanji": "残業",
+    "hiragana": "ざんぎょう",
+    "english": "overtime (work)",
+    "jlpt": null,
+    "wanikani": 14,
+    "is_common": true
+  },
+  {
+    "id": 17785,
+    "kanji": "残塁",
+    "hiragana": "ざんるい",
+    "english": "left on base, remnant fort, Left on base",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17786,
+    "kanji": "残留",
+    "hiragana": "ざんりゅう",
+    "english": "staying behind, remaining, residual",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17787,
+    "kanji": "残った分",
+    "hiragana": "のこったぶん",
+    "english": "amount left over, remaining portion",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17788,
+    "kanji": "残暑",
+    "hiragana": "ざんしょ",
+    "english": "late summer heat, lingering summer heat",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17789,
+    "kanji": "残存",
+    "hiragana": "ざんそん",
+    "english": "remaining, survival, residual",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17795,
+    "kanji": "殴打",
+    "hiragana": "おうだ",
+    "english": "hit, strike, blow",
+    "jlpt": null,
+    "wanikani": 48,
+    "is_common": true
+  },
+  {
+    "id": 17797,
+    "kanji": "段取り",
+    "hiragana": "だんどり",
+    "english": "programme, program, plans, arrangements",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17799,
+    "kanji": "殺菌",
+    "hiragana": "さっきん",
+    "english": "sterilization, sterilisation, disinfection, Sterilization (microbiology)",
+    "jlpt": null,
+    "wanikani": 45,
+    "is_common": true
+  },
+  {
+    "id": 17800,
+    "kanji": "殺し",
+    "hiragana": "ころし",
+    "english": "murder, killing, murderer, La commare secca",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17801,
+    "kanji": "殺害",
+    "hiragana": "さつがい",
+    "english": "killing, murder",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17802,
+    "kanji": "殺意",
+    "hiragana": "さつい",
+    "english": "intent to kill, intent to murder, urge to kill, murderous impulse",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17803,
+    "kanji": "殺到",
+    "hiragana": "さっとう",
+    "english": "rush, flood, deluge",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17804,
+    "kanji": "殺虫剤",
+    "hiragana": "さっちゅうざい",
+    "english": "insecticide, pesticide, Insecticide",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17805,
+    "kanji": "殺傷",
+    "hiragana": "さっしょう",
+    "english": "killing and wounding, casualties, bloodshed",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17806,
+    "kanji": "殺気",
+    "hiragana": "さっき",
+    "english": "thirst for blood, bloodlust, determination to kill",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17807,
+    "kanji": "殿下",
+    "hiragana": "でんか",
+    "english": "your Highness, his Highness, her Highness, Tenga, Imperial Highness",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17808,
+    "kanji": "殿堂",
+    "hiragana": "でんどう",
+    "english": "palace, hall, shrine, temple, sanctuary, hall of fame, Hall of fame",
+    "jlpt": null,
+    "wanikani": 40,
+    "is_common": true
+  },
+  {
+    "id": 17811,
+    "kanji": "母",
+    "hiragana": "はは",
+    "english": "mother",
+    "jlpt": null,
+    "wanikani": 3,
+    "is_common": true
+  },
+  {
+    "id": 17812,
+    "kanji": "母さん",
+    "hiragana": "かあさん",
+    "english": "mother, wife (used when speaking to or about one's own wife)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17813,
+    "kanji": "母乳",
+    "hiragana": "ぼにゅう",
+    "english": "mother's milk",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17814,
+    "kanji": "母国",
+    "hiragana": "ぼこく",
+    "english": "one's homeland",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17815,
+    "kanji": "母子",
+    "hiragana": "ぼし",
+    "english": "mother and child",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17816,
+    "kanji": "母体",
+    "hiragana": "ぼたい",
+    "english": "mother's body (esp. when pregnant or after giving birth), parent body, parent organization, base, basis, nucleus",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17817,
+    "kanji": "母国語",
+    "hiragana": "ぼこくご",
+    "english": "language of one's country, mother tongue, native language",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17818,
+    "kanji": "母性",
+    "hiragana": "ぼせい",
+    "english": "motherhood, maternity",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17819,
+    "kanji": "毎回",
+    "hiragana": "まいかい",
+    "english": "every time, each round",
+    "jlpt": null,
+    "wanikani": 5,
+    "is_common": true
+  },
+  {
+    "id": 17820,
+    "kanji": "毎に",
+    "hiragana": "ごとに",
+    "english": "one by one, each, every, at intervals of",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17821,
+    "kanji": "毒性",
+    "hiragana": "どくせい",
+    "english": "toxicity, virulence, toxic, virulent, poisonous",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17822,
+    "kanji": "毒薬",
+    "hiragana": "どくやく",
+    "english": "poison",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17824,
+    "kanji": "比律賓",
+    "hiragana": "フィリピン",
+    "english": "Philippines",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17825,
+    "kanji": "比べ",
+    "hiragana": "くらべ",
+    "english": "contest, comparison, competition",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17826,
+    "kanji": "比喩",
+    "hiragana": "ひゆ",
+    "english": "simile, metaphor, allegory, parable",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17827,
+    "kanji": "氏族",
+    "hiragana": "しぞく",
+    "english": "clan, family, Clan",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17828,
+    "kanji": "民",
+    "hiragana": "たみ",
+    "english": "people, citizens, subjects, folk",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17829,
+    "kanji": "民間",
+    "hiragana": "みんかん",
+    "english": "private, non-governmental, non-official, civilian, civil, folk, popular",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17830,
+    "kanji": "民宿",
+    "hiragana": "みんしゅく",
+    "english": "pension, guesthouse, bed and breakfast, private home providing lodging for travelers (travellers)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17831,
+    "kanji": "民主主義",
+    "hiragana": "みんしゅしゅぎ",
+    "english": "democracy, Democracy",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17832,
+    "kanji": "民主党",
+    "hiragana": "みんしゅとう",
+    "english": "Democratic Party (esp. DPJ or US Democratic Party), Democratic Party",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17833,
+    "kanji": "民衆",
+    "hiragana": "みんしゅう",
+    "english": "people, populace, masses",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17834,
+    "kanji": "民主的",
+    "hiragana": "みんしゅてき",
+    "english": "democratic",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17835,
+    "kanji": "民族主義",
+    "hiragana": "みんぞくしゅぎ",
+    "english": "nationalism",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17836,
+    "kanji": "民話",
+    "hiragana": "みんわ",
+    "english": "folk tale, folktale, folk story, folklore",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17837,
+    "kanji": "民放",
+    "hiragana": "みんぽう",
+    "english": "commercial broadcast",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17838,
+    "kanji": "民社党",
+    "hiragana": "みんしゃとう",
+    "english": "Democratic Socialist Party, Democratic Socialist Party (Japan)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17839,
+    "kanji": "民家",
+    "hiragana": "みんか",
+    "english": "private house, Minka",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17840,
+    "kanji": "民法",
+    "hiragana": "みんぽう",
+    "english": "civil law, civil code, Civil law (area)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17841,
+    "kanji": "民営化",
+    "hiragana": "みんえいか",
+    "english": "privatization, privatisation, Privatization",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17842,
+    "kanji": "民兵",
+    "hiragana": "みんぺい",
+    "english": "militia, militiaman, Militia",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17843,
+    "kanji": "民間放送",
+    "hiragana": "みんかんほうそう",
+    "english": "commercial broadcasting, Commercial broadcasting",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17844,
+    "kanji": "民族自決",
+    "hiragana": "みんぞくじけつ",
+    "english": "self-determination of peoples, Self-determination",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17845,
+    "kanji": "民政",
+    "hiragana": "みんせい",
+    "english": "civil administration, civil government, politics focused on the promotion of public welfare",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17846,
+    "kanji": "民意",
+    "hiragana": "みんい",
+    "english": "popular will",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17847,
+    "kanji": "民事",
+    "hiragana": "みんじ",
+    "english": "civil affairs, civil case",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17850,
+    "kanji": "民需",
+    "hiragana": "みんじゅ",
+    "english": "private demand",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17851,
+    "kanji": "民営",
+    "hiragana": "みんえい",
+    "english": "private management",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17852,
+    "kanji": "民主国",
+    "hiragana": "みんしゅこく",
+    "english": "democratic state",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17853,
+    "kanji": "気象",
+    "hiragana": "きしょう",
+    "english": "weather, climate, disposition, temperament, Weather",
+    "jlpt": null,
+    "wanikani": 24,
+    "is_common": true
+  },
+  {
+    "id": 17855,
+    "kanji": "気まぐれ",
+    "hiragana": "きまぐれ",
+    "english": "whim, caprice, whimsy, fickle, moody, uneven temper",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17856,
+    "kanji": "気象庁",
+    "hiragana": "きしょうちょう",
+    "english": "(Japanese) Meteorological Agency, JMA, Kishouchou, Japan Meteorological Agency",
+    "jlpt": null,
+    "wanikani": 26,
+    "is_common": true
+  },
+  {
+    "id": 17857,
+    "kanji": "気球",
+    "hiragana": "ききゅう",
+    "english": "balloon, blimp, Balloon (aircraft)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17858,
+    "kanji": "気力",
+    "hiragana": "きりょく",
+    "english": "willpower, energy, vitality",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17859,
+    "kanji": "気迫",
+    "hiragana": "きはく",
+    "english": "spirit, soul, drive, vigor, vigour",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17860,
+    "kanji": "気遣い",
+    "hiragana": "きづかい",
+    "english": "consideration, concern, fear, worry, solicitude",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17861,
+    "kanji": "気合",
+    "hiragana": "きあい",
+    "english": "scream, yell, fighting spirit",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17862,
+    "kanji": "気勢",
+    "hiragana": "きせい",
+    "english": "fervour, fervor, vigour, vigor, ardour, ardor, spirit",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17863,
+    "kanji": "気配り",
+    "hiragana": "きくばり",
+    "english": "care, attentiveness, attention, consideration (for others), solicitude",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17864,
+    "kanji": "気難しい",
+    "hiragana": "きむずかしい",
+    "english": "hard to please, moody, crusty, fastidious",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17865,
+    "kanji": "気前",
+    "hiragana": "きまえ",
+    "english": "generosity",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17866,
+    "kanji": "気取る",
+    "hiragana": "きどる",
+    "english": "to affect, to put on airs",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17867,
+    "kanji": "気がかり",
+    "hiragana": "きがかり",
+    "english": "worry, anxiety, concern",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17868,
+    "kanji": "気絶",
+    "hiragana": "きぜつ",
+    "english": "faint, swoon",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17869,
+    "kanji": "気性",
+    "hiragana": "きしょう",
+    "english": "disposition, temperament",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17871,
+    "kanji": "気分転換",
+    "hiragana": "きぶんてんかん",
+    "english": "change of pace, change of mood, (mental) break (e.g. going for a walk), refreshment",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17872,
+    "kanji": "気のせい",
+    "hiragana": "きのせい",
+    "english": "in one's imagination",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17873,
+    "kanji": "気象台",
+    "hiragana": "きしょうだい",
+    "english": "meteorological observatory, Kishoudai, Weather station",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17875,
+    "kanji": "気概",
+    "hiragana": "きがい",
+    "english": "strong spirit, mettle, backbone, guts, fighting spirit",
+    "jlpt": null,
+    "wanikani": 49,
+    "is_common": true
+  },
+  {
+    "id": 17876,
+    "kanji": "気に入り",
+    "hiragana": "きにいり",
+    "english": "favorite, favourite, pet",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17877,
+    "kanji": "気鋭",
+    "hiragana": "きえい",
+    "english": "spirited, energetic",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17878,
+    "kanji": "気負い",
+    "hiragana": "きおい",
+    "english": "eagerness, enthusiasm, fervor, excitement, fighting spirit, fighting mood",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17879,
+    "kanji": "気管支",
+    "hiragana": "きかんし",
+    "english": "bronchial tube",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17880,
+    "kanji": "気筒",
+    "hiragana": "きとう",
+    "english": "cylinder",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17881,
+    "kanji": "気まま",
+    "hiragana": "きまま",
+    "english": "willful, wilful, selfish, self-centered, egoistic, carefree, do-as-you-please, freewheeling, free spirited",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17882,
+    "kanji": "気心",
+    "hiragana": "きごころ",
+    "english": "temper, disposition",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17883,
+    "kanji": "気づかれ",
+    "hiragana": "きづかれ",
+    "english": "mental fatigue, worry, boredom",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17887,
+    "kanji": "水族館",
+    "hiragana": "すいぞくかん",
+    "english": "aquarium, Suizokukan, Public aquarium",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17888,
+    "kanji": "水着",
+    "hiragana": "みずぎ",
+    "english": "bathing suit, swimsuit, swimmers, Swimsuit",
+    "jlpt": null,
+    "wanikani": 12,
+    "is_common": true
+  },
+  {
+    "id": 17889,
+    "kanji": "水面",
+    "hiragana": "すいめん",
+    "english": "water's surface, Surface water",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17890,
+    "kanji": "水路",
+    "hiragana": "すいろ",
+    "english": "waterway, canal, channel, watercourse, aqueduct, swimming pool lane, Waterway",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17891,
+    "kanji": "水割り",
+    "hiragana": "みずわり",
+    "english": "alcohol (usu. whiskey or shochu) diluted with water, watered, Mizuwari",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17893,
+    "kanji": "水域",
+    "hiragana": "すいいき",
+    "english": "waters, water area, Body of water",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17894,
+    "kanji": "西瓜",
+    "hiragana": "すいか",
+    "english": "watermelon (Citrullus lanatus), Watermelon",
+    "jlpt": null,
+    "wanikani": 53,
+    "is_common": true
+  },
+  {
+    "id": 17895,
+    "kanji": "水色",
+    "hiragana": "みずいろ",
+    "english": "light blue, pale blue, aqua, Aqua (color)",
+    "jlpt": null,
+    "wanikani": 5,
+    "is_common": true
+  },
+  {
+    "id": 17896,
+    "kanji": "水中",
+    "hiragana": "すいちゅう",
+    "english": "underwater",
+    "jlpt": null,
+    "wanikani": 2,
+    "is_common": true
+  },
+  {
+    "id": 17897,
+    "kanji": "水道水",
+    "hiragana": "すいどうすい",
+    "english": "tap-water",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17898,
+    "kanji": "水増し",
+    "hiragana": "みずまし",
+    "english": "dilution, watering down, inflation (of budget, claim, etc.), padding",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17899,
+    "kanji": "水位",
+    "hiragana": "すいい",
+    "english": "water level",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17900,
+    "kanji": "水害",
+    "hiragana": "すいがい",
+    "english": "water damage, flood disaster",
+    "jlpt": null,
+    "wanikani": 20,
+    "is_common": true
+  },
+  {
+    "id": 17901,
+    "kanji": "水深",
+    "hiragana": "すいしん",
+    "english": "depth of water",
+    "jlpt": null,
+    "wanikani": 12,
+    "is_common": true
+  },
+  {
+    "id": 17902,
+    "kanji": "水彩画",
+    "hiragana": "すいさいが",
+    "english": "watercolor painting, watercolour painting",
+    "jlpt": null,
+    "wanikani": 48,
+    "is_common": true
+  },
+  {
+    "id": 17903,
+    "kanji": "水質",
+    "hiragana": "すいしつ",
+    "english": "water quality",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17904,
+    "kanji": "水温",
+    "hiragana": "すいおん",
+    "english": "water temperature",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17905,
+    "kanji": "水辺",
+    "hiragana": "みずべ",
+    "english": "waterside, waterfront",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17906,
+    "kanji": "水槽",
+    "hiragana": "すいそう",
+    "english": "water tank, cistern, fish tank, aquarium",
+    "jlpt": null,
+    "wanikani": 57,
+    "is_common": true
+  },
+  {
+    "id": 17907,
+    "kanji": "水入らず",
+    "hiragana": "みずいらず",
+    "english": "(being) by oneself, with no outsiders present",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17908,
+    "kanji": "水臭い",
+    "hiragana": "みずくさい",
+    "english": "stand-offish, distant, not frank, reserved, watery (alcohol, coffee, etc.)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17909,
+    "kanji": "水鳥",
+    "hiragana": "すいちょう",
+    "english": "waterfowl, water bird, shorebird, Waterfowl",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17910,
+    "kanji": "水気",
+    "hiragana": "みずけ",
+    "english": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17911,
+    "kanji": "水銀",
+    "hiragana": "すいぎん",
+    "english": "mercury (Hg), Mercury (element)",
+    "jlpt": null,
+    "wanikani": 13,
+    "is_common": true
+  },
+  {
+    "id": 17912,
+    "kanji": "水系",
+    "hiragana": "すいけい",
+    "english": "water system, river system, drainage system, Drainage system (geomorphology)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17913,
+    "kanji": "水産業",
+    "hiragana": "すいさんぎょう",
+    "english": "fisheries industry, Fishing industry",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17914,
+    "kanji": "水力",
+    "hiragana": "すいりょく",
+    "english": "hydraulic power, water power, Hydropower",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17915,
+    "kanji": "水俣病",
+    "hiragana": "みなまたびょう",
+    "english": "Minamata disease, Minamata disease",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17916,
+    "kanji": "水揚げ",
+    "hiragana": "みずあげ",
+    "english": "landing, unloading (e.g. a ship), catch (of fish), takings, sales (of a shop), defloration (e.g. of a geisha), preservation (of cut flowers, in ikebana)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17917,
+    "kanji": "水爆",
+    "hiragana": "すいばく",
+    "english": "hydrogen bomb",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17918,
+    "kanji": "水産物",
+    "hiragana": "すいさんぶつ",
+    "english": "marine products",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17921,
+    "kanji": "水量",
+    "hiragana": "すいりょう",
+    "english": "quantity or volume of water",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17922,
+    "kanji": "水利",
+    "hiragana": "すいり",
+    "english": "water supply, irrigation, water transportation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17923,
+    "kanji": "水口",
+    "hiragana": "みずぐち",
+    "english": "spout",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17925,
+    "kanji": "氷山",
+    "hiragana": "ひょうざん",
+    "english": "iceberg, Iceberg",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17926,
+    "kanji": "氷河",
+    "hiragana": "ひょうが",
+    "english": "glacier, Glacier",
+    "jlpt": null,
+    "wanikani": 26,
+    "is_common": true
+  },
+  {
+    "id": 17928,
+    "kanji": "長年",
+    "hiragana": "ながねん",
+    "english": "long time, many years",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17929,
+    "kanji": "永続",
+    "hiragana": "えいぞく",
+    "english": "permanence, continuation",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17930,
+    "kanji": "永住",
+    "hiragana": "えいじゅう",
+    "english": "permanent residence",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17931,
+    "kanji": "長続き",
+    "hiragana": "ながつづき",
+    "english": "lasting long, continuation, keeping at (something), sticking to (something)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17932,
+    "kanji": "長らく",
+    "hiragana": "ながらく",
+    "english": "long, (for a) long time",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17933,
+    "kanji": "永代",
+    "hiragana": "えいたい",
+    "english": "permanence, eternity",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17936,
+    "kanji": "求人",
+    "hiragana": "きゅうじん",
+    "english": "offer of job (situation), Recruitment",
+    "jlpt": null,
+    "wanikani": 14,
+    "is_common": true
+  },
+  {
+    "id": 17937,
+    "kanji": "求職",
+    "hiragana": "きゅうしょく",
+    "english": "job hunting, seeking employment",
+    "jlpt": null,
+    "wanikani": 23,
+    "is_common": true
+  },
+  {
+    "id": 17938,
+    "kanji": "求刑",
+    "hiragana": "きゅうけい",
+    "english": "recommended sentence, prosecution's demand for punishment",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17939,
+    "kanji": "求心力",
+    "hiragana": "きゅうしんりょく",
+    "english": "centripetal force, unifying force, cohesive power",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17940,
+    "kanji": "汎",
+    "hiragana": "はん",
+    "english": "pan-",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17942,
+    "kanji": "汎用",
+    "hiragana": "はんよう",
+    "english": "generic, general purpose, all-purpose",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17943,
+    "kanji": "汚職",
+    "hiragana": "おしょく",
+    "english": "corruption, Political corruption",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17944,
+    "kanji": "汚名",
+    "hiragana": "おめい",
+    "english": "stigma, dishonour, dishonor, infamy, Notorious (1946 film)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17945,
+    "kanji": "汚水",
+    "hiragana": "おすい",
+    "english": "filthy water, sewage",
+    "jlpt": null,
+    "wanikani": 32,
+    "is_common": true
+  },
+  {
+    "id": 17946,
+    "kanji": "汚濁",
+    "hiragana": "おだく",
+    "english": "pollution, contamination, corruption, graft",
+    "jlpt": null,
+    "wanikani": 58,
+    "is_common": true
+  },
+  {
+    "id": 17947,
+    "kanji": "江",
+    "hiragana": "え",
+    "english": "inlet, bay",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17948,
+    "kanji": "江戸",
+    "hiragana": "えど",
+    "english": "old name of Tokyo, Edo",
+    "jlpt": null,
+    "wanikani": 29,
+    "is_common": true
+  },
+  {
+    "id": 17949,
+    "kanji": "江戸っ子",
+    "hiragana": "えどっこ",
+    "english": "true Tokyoite, person born and raised in Edo, Edokko",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17950,
+    "kanji": "江戸川",
+    "hiragana": "えどがわ",
+    "english": "Edo River, Edo River",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17952,
+    "kanji": "汲み取る",
+    "hiragana": "くみとる",
+    "english": "to scoop out, to pump out, to understand, to surmise",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17953,
+    "kanji": "決",
+    "hiragana": "けつ",
+    "english": "decision, vote",
+    "jlpt": null,
+    "wanikani": 8,
+    "is_common": true
+  },
+  {
+    "id": 17955,
+    "kanji": "決定的",
+    "hiragana": "けっていてき",
+    "english": "definite, final, decisive, conclusive",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17958,
+    "kanji": "決する",
+    "hiragana": "けっする",
+    "english": "to decide, to determine",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17959,
+    "kanji": "決裂",
+    "hiragana": "けつれつ",
+    "english": "breakdown, rupture",
+    "jlpt": null,
+    "wanikani": 43,
+    "is_common": true
+  },
+  {
+    "id": 17960,
+    "kanji": "決別",
+    "hiragana": "けつべつ",
+    "english": "separation, farewell, parting",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17962,
+    "kanji": "決戦",
+    "hiragana": "けっせん",
+    "english": "decisive battle, deciding match, play-off",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17963,
+    "kanji": "決勝点",
+    "hiragana": "けっしょうてん",
+    "english": "winning point, winning goal, game point (tennis, etc.), finishing line",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17964,
+    "kanji": "決裁",
+    "hiragana": "けっさい",
+    "english": "sanction, approval",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17965,
+    "kanji": "決選投票",
+    "hiragana": "けっせんとうひょう",
+    "english": "final vote, run-off ballot",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17966,
+    "kanji": "決済",
+    "hiragana": "けっさい",
+    "english": "settlement, payment of account",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17967,
+    "kanji": "決起",
+    "hiragana": "けっき",
+    "english": "rising to action, standing up against, jumping to one's feet",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17968,
+    "kanji": "決め球",
+    "hiragana": "きめだま",
+    "english": "winning pitch",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17969,
+    "kanji": "汽笛",
+    "hiragana": "きてき",
+    "english": "steam whistle",
+    "jlpt": null,
+    "wanikani": 19,
+    "is_common": true
+  },
+  {
+    "id": 17971,
+    "kanji": "沈没",
+    "hiragana": "ちんぼつ",
+    "english": "sinking, foundering, going down, submersion, getting dead drunk, having too much fun (esp. in a red-light district, etc.) and missing work or neglecting one's duties, staying in one place for a long time",
+    "jlpt": null,
+    "wanikani": 52,
+    "is_common": true
+  },
+  {
+    "id": 17972,
+    "kanji": "沈着",
+    "hiragana": "ちんちゃく",
+    "english": "settling or depositing (at the bottom of something), deposition, pigmentation, composure, calmness",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17973,
+    "kanji": "沈下",
+    "hiragana": "ちんか",
+    "english": "sinking, subsidence",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17974,
+    "kanji": "沈菜",
+    "hiragana": "キムチ",
+    "english": "kimchi, kimchee, spicy Korean pickled cabbage, Korea, Korean",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17979,
+    "kanji": "没頭",
+    "hiragana": "ぼっとう",
+    "english": "immersing oneself in, being absorbed in, devoting oneself to, giving oneself up entirely to",
+    "jlpt": null,
+    "wanikani": 52,
+    "is_common": true
+  },
+  {
+    "id": 17980,
+    "kanji": "没後",
+    "hiragana": "ぼつご",
+    "english": "after death, posthumously",
+    "jlpt": null,
+    "wanikani": 52,
+    "is_common": true
+  },
+  {
+    "id": 17981,
+    "kanji": "沢",
+    "hiragana": "さわ",
+    "english": "swamp, marsh, mountain stream, valley, dale",
+    "jlpt": null,
+    "wanikani": 23,
+    "is_common": true
+  },
+  {
+    "id": 18294,
+    "kanji": "演壇",
+    "hiragana": "えんだん",
+    "english": "rostrum, platform",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17991,
+    "kanji": "河川敷",
+    "hiragana": "かせんしき",
+    "english": "flood plain, river terrace, area between river and river bank",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17992,
+    "kanji": "油絵",
+    "hiragana": "あぶらえ",
+    "english": "oil painting",
+    "jlpt": null,
+    "wanikani": 37,
+    "is_common": true
+  },
+  {
+    "id": 17993,
+    "kanji": "油田",
+    "hiragana": "ゆでん",
+    "english": "oil field, Oil field",
+    "jlpt": null,
+    "wanikani": 35,
+    "is_common": true
+  },
+  {
+    "id": 17994,
+    "kanji": "油井",
+    "hiragana": "ゆせい",
+    "english": "oil well, Oil well",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 17995,
+    "kanji": "油彩",
+    "hiragana": "ゆさい",
+    "english": "oil painting, Oil painting",
+    "jlpt": null,
+    "wanikani": 48,
+    "is_common": true
+  },
+  {
+    "id": 17996,
+    "kanji": "治療",
+    "hiragana": "ちりょう",
+    "english": "medical treatment, cure, Therapy",
+    "jlpt": null,
+    "wanikani": 36,
+    "is_common": true
+  },
+  {
+    "id": 17997,
+    "kanji": "治癒",
+    "hiragana": "ちゆ",
+    "english": "healing, cure, recovery, Cure",
+    "jlpt": null,
+    "wanikani": 55,
+    "is_common": true
+  },
+  {
+    "id": 17998,
+    "kanji": "治験",
+    "hiragana": "ちけん",
+    "english": "clinical trial, Clinical trial",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18000,
+    "kanji": "治水",
+    "hiragana": "ちすい",
+    "english": "flood control",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18001,
+    "kanji": "沿道",
+    "hiragana": "えんどう",
+    "english": "roadside, wayside, route",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18002,
+    "kanji": "沿海州",
+    "hiragana": "えんかいしゅう",
+    "english": "(Russian) maritime provinces, Enkaishuu",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18003,
+    "kanji": "沿海",
+    "hiragana": "えんかい",
+    "english": "coast, shore, inshore, coastal waters",
+    "jlpt": null,
+    "wanikani": 34,
+    "is_common": true
+  },
+  {
+    "id": 18004,
+    "kanji": "沿って",
+    "hiragana": "そって",
+    "english": "along, by, parallel to",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18005,
+    "kanji": "泊まり",
+    "hiragana": "とまり",
+    "english": "overnight stay, stopover, inn, hotel, anchorage, night duty",
+    "jlpt": null,
+    "wanikani": 44,
+    "is_common": true
+  },
+  {
+    "id": 18007,
+    "kanji": "法廷",
+    "hiragana": "ほうてい",
+    "english": "courtroom",
+    "jlpt": null,
+    "wanikani": 50,
+    "is_common": true
+  },
+  {
+    "id": 18008,
+    "kanji": "法学部",
+    "hiragana": "ほうがくぶ",
+    "english": "law department, law school, Law school",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18009,
+    "kanji": "法王",
+    "hiragana": "ほうおう",
+    "english": "Pope, Houou",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18010,
+    "kanji": "法規",
+    "hiragana": "ほうき",
+    "english": "the law, laws and regulations",
+    "jlpt": null,
+    "wanikani": 24,
+    "is_common": true
+  },
+  {
+    "id": 18011,
+    "kanji": "法的",
+    "hiragana": "ほうてき",
+    "english": "legal",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18012,
+    "kanji": "法令",
+    "hiragana": "ほうれい",
+    "english": "laws and ordinances, acts (of parliament, congress, etc.)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18013,
+    "kanji": "菠薐草",
+    "hiragana": "ほうれんそう",
+    "english": "spinach",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18014,
+    "kanji": "法外",
+    "hiragana": "ほうがい",
+    "english": "exorbitant, outrageous, ridiculous, absurd, excessive, inordinate, extravagant, immoderate",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18015,
+    "kanji": "法務省",
+    "hiragana": "ほうむしょう",
+    "english": "Ministry of Justice, Ministry of Justice, Ministry of Justice (Japan)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18016,
+    "kanji": "法務",
+    "hiragana": "ほうむ",
+    "english": "judicial affairs, clerical duty (in a temple), Practice of law",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18017,
+    "kanji": "法人",
+    "hiragana": "ほうじん",
+    "english": "corporate body, corporation, (legal) person, (juridical) person, Legal personality",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18018,
+    "kanji": "法医学",
+    "hiragana": "ほういがく",
+    "english": "forensic medicine, forensic pathology, medical jurisprudence, legal medicine, Forensic pathology",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18019,
+    "kanji": "法制",
+    "hiragana": "ほうせい",
+    "english": "legislation, laws",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18020,
+    "kanji": "法相",
+    "hiragana": "ほうしょう",
+    "english": "Minister of Justice",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18021,
+    "kanji": "法治国",
+    "hiragana": "ほうちこく",
+    "english": "constitutional state",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18022,
+    "kanji": "法師",
+    "hiragana": "ほうし",
+    "english": "Buddhist priest, bonze",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18023,
+    "kanji": "法制局",
+    "hiragana": "ほうせいきょく",
+    "english": "Cabinet Legislation Bureau",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18024,
+    "kanji": "法要",
+    "hiragana": "ほうよう",
+    "english": "Buddhist memorial service",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18029,
+    "kanji": "浮き",
+    "hiragana": "うき",
+    "english": "floating, buoyancy, fishing float, bobber, buoy, lifebuoy, life belt, float, rubber ring, Fishing float",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18031,
+    "kanji": "波長",
+    "hiragana": "はちょう",
+    "english": "wavelength, Wavelength",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18032,
+    "kanji": "波紋",
+    "hiragana": "はもん",
+    "english": "ripple, ring on the water, repercussions, Japanese slit drum, instrument made of iron with slits on top; makes a rippling sound",
+    "jlpt": null,
+    "wanikani": 54,
+    "is_common": true
+  },
+  {
+    "id": 18033,
+    "kanji": "波及",
+    "hiragana": "はきゅう",
+    "english": "spread, extension, influence, aftereffect, ripple",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18034,
+    "kanji": "波乱",
+    "hiragana": "はらん",
+    "english": "disturbance, trouble, ups and downs",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18035,
+    "kanji": "泣き",
+    "hiragana": "なき",
+    "english": "weeping, lamenting",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18036,
+    "kanji": "泣き声",
+    "hiragana": "なきごえ",
+    "english": "cry, crying voice",
+    "jlpt": null,
+    "wanikani": 17,
+    "is_common": true
+  },
+  {
+    "id": 18037,
+    "kanji": "泣き顔",
+    "hiragana": "なきがお",
+    "english": "tear-stained face",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18038,
+    "kanji": "泥沼",
+    "hiragana": "どろぬま",
+    "english": "bog, marsh, swamp, quagmire, morass, quandary, dire situation from which one cannot extricate oneself, imbroglio, Doronuma",
+    "jlpt": null,
+    "wanikani": 43,
+    "is_common": true
+  },
+  {
+    "id": 18039,
+    "kanji": "注ぎ込む",
+    "hiragana": "そそぎこむ",
+    "english": "to pour into (liquids), to pump into",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18040,
+    "kanji": "注入",
+    "hiragana": "ちゅうにゅう",
+    "english": "pouring, injection",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18042,
+    "kanji": "注意報",
+    "hiragana": "ちゅういほう",
+    "english": "warning (e.g. for a storm), advisory",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18043,
+    "kanji": "注意深い",
+    "hiragana": "ちゅういぶかい",
+    "english": "careful",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18045,
+    "kanji": "灘",
+    "hiragana": "なだ",
+    "english": "open sea",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18046,
+    "kanji": "洋食",
+    "hiragana": "ようしょく",
+    "english": "Western cooking, Western-style meal, Western-style food, Japanized Western cuisine, Yōshoku",
+    "jlpt": null,
+    "wanikani": 11,
+    "is_common": true
+  },
+  {
+    "id": 18047,
+    "kanji": "洋書",
+    "hiragana": "ようしょ",
+    "english": "Western book",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18048,
+    "kanji": "洋裁",
+    "hiragana": "ようさい",
+    "english": "(Western) dressmaking",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18049,
+    "kanji": "洋式",
+    "hiragana": "ようしき",
+    "english": "Western style, foreign style",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18050,
+    "kanji": "洋酒",
+    "hiragana": "ようしゅ",
+    "english": "Western wine and spirits, Western liquor",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18051,
+    "kanji": "洋楽",
+    "hiragana": "ようがく",
+    "english": "Western music, European music",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18052,
+    "kanji": "洋画",
+    "hiragana": "ようが",
+    "english": "Western painting, Western film, Western movie",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18053,
+    "kanji": "洋上",
+    "hiragana": "ようじょう",
+    "english": "on the sea or ocean",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18054,
+    "kanji": "洋室",
+    "hiragana": "ようしつ",
+    "english": "Western-style room",
+    "jlpt": null,
+    "wanikani": 11,
+    "is_common": true
+  },
+  {
+    "id": 18055,
+    "kanji": "洋間",
+    "hiragana": "ようま",
+    "english": "Western-style room",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18056,
+    "kanji": "洗濯機",
+    "hiragana": "せんたくき",
+    "english": "washing machine (laundry), Washing machine",
+    "jlpt": null,
+    "wanikani": 51,
+    "is_common": true
+  },
+  {
+    "id": 18057,
+    "kanji": "洗礼",
+    "hiragana": "せんれい",
+    "english": "baptism, Baptism",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18058,
+    "kanji": "洗浄",
+    "hiragana": "せんじょう",
+    "english": "washing, cleaning, laundering, Washing",
+    "jlpt": null,
+    "wanikani": 53,
+    "is_common": true
+  },
+  {
+    "id": 18059,
+    "kanji": "洗練",
+    "hiragana": "せんれん",
+    "english": "polish, refinement",
+    "jlpt": null,
+    "wanikani": 18,
+    "is_common": true
+  },
+  {
+    "id": 18060,
+    "kanji": "洗面所",
+    "hiragana": "せんめんじょ",
+    "english": "washroom, bathroom",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18061,
+    "kanji": "洗面器",
+    "hiragana": "せんめんき",
+    "english": "wash basin, wash bowl (incl. portable bowl in a public bath)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18063,
+    "kanji": "銭湯",
+    "hiragana": "せんとう",
+    "english": "bath-house, public bath, Sentō",
+    "jlpt": null,
+    "wanikani": 32,
+    "is_common": true
+  },
+  {
+    "id": 18064,
+    "kanji": "洗面",
+    "hiragana": "せんめん",
+    "english": "washing one's face",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18065,
+    "kanji": "洗浄剤",
+    "hiragana": "せんじょうざい",
+    "english": "detergent, washing material",
+    "jlpt": null,
+    "wanikani": 55,
+    "is_common": true
+  },
+  {
+    "id": 18066,
+    "kanji": "洞察",
+    "hiragana": "どうさつ",
+    "english": "discernment, insight",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18076,
+    "kanji": "活況",
+    "hiragana": "かっきょう",
+    "english": "activity, briskness, prosperity",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18077,
+    "kanji": "生き",
+    "hiragana": "いき",
+    "english": "living, being alive, freshness, liveliness, vitality, situation in which a group of stones cannot be captured because it contains contains two or more gaps (in go), stet, leave as-is (proofreading), damned",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18078,
+    "kanji": "活動家",
+    "hiragana": "かつどうか",
+    "english": "activist",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18079,
+    "kanji": "活性",
+    "hiragana": "かっせい",
+    "english": "activity",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18080,
+    "kanji": "活路",
+    "hiragana": "かつろ",
+    "english": "means of survival, means of escape",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18081,
+    "kanji": "派",
+    "hiragana": "は",
+    "english": "clique, faction, school",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18082,
+    "kanji": "派閥",
+    "hiragana": "はばつ",
+    "english": "clique, faction, Political faction",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18083,
+    "kanji": "派生",
+    "hiragana": "はせい",
+    "english": "derivation, Derivation (linguistics)",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18084,
+    "kanji": "派出所",
+    "hiragana": "はしゅつじょ",
+    "english": "local police station",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18085,
+    "kanji": "派兵",
+    "hiragana": "はへい",
+    "english": "dispatch of troops, despatch of troops",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18086,
+    "kanji": "流動的",
+    "hiragana": "りゅうどうてき",
+    "english": "fluid, unsettled",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18087,
+    "kanji": "流れ込む",
+    "hiragana": "ながれこむ",
+    "english": "to flow into, to pour into, to stream into",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  },
+  {
+    "id": 18088,
+    "kanji": "流出",
+    "hiragana": "りゅうしゅつ",
+    "english": "discharge, outward flow, efflux, effluence, haemorrhage, hemorrhage, bleeding (e.g. ink into paper), leak of (private) information or pictures",
+    "jlpt": null,
+    "wanikani": null,
+    "is_common": true
+  }
+]

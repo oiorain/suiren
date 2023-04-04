@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "words",
+  "info": {
+    "singularName": "word",
+    "pluralName": "words",
+    "displayName": "Word",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "kanji": {
+      "type": "string",
+      "required": true
+    },
+    "hiragana": {
+      "type": "string"
+    },
+    "english": {
+      "type": "text"
+    },
+    "jlpt": {
+      "type": "integer"
+    },
+    "wanikani": {
+      "type": "integer"
+    },
+    "isCommon": {
+      "type": "boolean"
+    },
+    "components": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::component.component",
+      "inversedBy": "words"
+    }
+  }
+}
