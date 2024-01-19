@@ -2,19 +2,11 @@ import Head from 'next/head'
 import Layout from '../components/Layout'
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
-// import styles from '@/styles/Home.module.css'
-
 
 const inter = Inter({ subsets: ['latin'] })
 
-import axios from 'axios';
 
-const Home = ({ words, error }) => {
-
-  if (error) {
-    return <div>An error occured: {error.message}</div>;
-  }
-  console.log(words.data)
+const Home = ({ }) => {
   return (<>
     <Head>
       <title>Suiren - a Kanji Relationship Explorer</title>
@@ -22,27 +14,24 @@ const Home = ({ words, error }) => {
     </Head>
 
     <Layout>
-      <ul>
-        { words.data.map(word => (
-          <li key={word.id}>{word.attributes.kanji} - {word.attributes.english}</li>
-        )) }
-      </ul>
+      <div class="start">
+        <img src="/start-screen-img.svg" />
+        <p>Suiren <a href="/word/睡蓮">睡蓮</a> is a fun way to explore the Japanese language using Kanji to hop from one word to another, creating memorable connections. </p>
+        <p>To start exploring, select a word below or search for one with at least one Kanji in it:</p>
+        <div class="start-link-list">
+          <a href="/word/木" class="start-link">木</a>
+          <a href="/word/大切" class="start-link">大切</a>
+          <a href="/word/休息" class="start-link">休息</a>
+          <a href="/word/満足" class="start-link">満足</a>
+          <a href="/word/睡蓮" class="start-link">睡蓮</a>
+        </div>
+        <p><small>Made by <a href="http://twitter.com/oiorain" target="_blank">Marion Kamoike-Bouguet</a> with <a href="http://aqworks.com" target="_blank">AQ</a>.</small></p>
+      </div>
+    {/* <%= render "partials/graph", hide: true %> */}
+
     </Layout>
-
   </>
-
   );
-};
-
-Home.getInitialProps = async ctx => {
-  try {
-    const res = await axios.get('http://127.0.0.1:1337/api/words');
-
-    const words = res.data;
-    return { words };
-  } catch (error) {
-    return { error };
-  }
 };
 
 export default Home;
