@@ -1,0 +1,13 @@
+.app-header {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: $header-width;
+  height: $header-height;
+  background-color: transparent;
+  z-index: $z-header;
+  @include breakpoint(m, max-width) {
+    width: calc(100% - 70px);
+    height: $header-height-mobile;
+  }
+}

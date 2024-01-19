@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2023-04-07T13:10:06.773Z"
+    "x-generation-date": "2024-01-19T09:23:35.018Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -501,6 +501,9 @@
                                 }
                               }
                             },
+                            "rich": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -976,6 +979,9 @@
                                   }
                                 }
                               }
+                            },
+                            "rich": {
+                              "type": "string"
                             },
                             "createdAt": {
                               "type": "string",
@@ -1486,6 +1492,9 @@
                                 }
                               }
                             },
+                            "rich": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -1962,6 +1971,9 @@
                                 }
                               }
                             },
+                            "rich": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2110,6 +2122,9 @@
                   ],
                   "example": "string or id"
                 }
+              },
+              "rich": {
+                "type": "string"
               }
             }
           }
@@ -2210,6 +2225,9 @@
                                                 }
                                               }
                                             }
+                                          },
+                                          "rich": {
+                                            "type": "string"
                                           },
                                           "createdAt": {
                                             "type": "string",
@@ -2559,6 +2577,9 @@
                     }
                   }
                 }
+              },
+              "rich": {
+                "type": "string"
               },
               "createdAt": {
                 "type": "string",
@@ -2702,6 +2723,9 @@
                                               }
                                             }
                                           },
+                                          "rich": {
+                                            "type": "string"
+                                          },
                                           "createdAt": {
                                             "type": "string",
                                             "format": "date-time"
@@ -3050,6 +3074,9 @@
                     }
                   }
                 }
+              },
+              "rich": {
+                "type": "string"
               },
               "createdAt": {
                 "type": "string",
@@ -3226,6 +3253,9 @@
                                               }
                                             }
                                           },
+                                          "rich": {
+                                            "type": "string"
+                                          },
                                           "createdAt": {
                                             "type": "string",
                                             "format": "date-time"
@@ -3574,6 +3604,9 @@
                     }
                   }
                 }
+              },
+              "rich": {
+                "type": "string"
               },
               "createdAt": {
                 "type": "string",
@@ -3717,6 +3750,9 @@
                                               }
                                             }
                                           },
+                                          "rich": {
+                                            "type": "string"
+                                          },
                                           "createdAt": {
                                             "type": "string",
                                             "format": "date-time"
@@ -4065,6 +4101,9 @@
                     }
                   }
                 }
+              },
+              "rich": {
+                "type": "string"
               },
               "createdAt": {
                 "type": "string",

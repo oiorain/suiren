@@ -1,0 +1,54 @@
+.menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: $menu-width;
+  height: 100%;
+  padding: $spacing-app-outer;
+  background-color: $color-black;
+  color: white;
+  z-index: $z-menu;
+  overflow: auto;
+  transform: translateX(100%);
+  transition: transform 0.50s ease;
+  @include breakpoint(m, max-width) {
+    width: $menu-width-mobile;
+    padding: 2em;
+  }
+  &.is-opened {
+    transform: translateX(0);
+  }
+  &-button {
+    @include breakpoint(m) {
+      @include ui-label("about", top);
+    }
+    position: absolute;
+    top: $spacing-app-outer;
+    right: $spacing-app-outer;
+    flex: 0 0 $header-height;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: $header-height;
+    height: $header-height;
+    z-index: $z-menu-button;
+    @include breakpoint(m, max-width) {
+      height: $header-height-mobile;
+    }
+  }
+  a {
+    color: lighten($color-accent, 10%);
+    &:hover {
+      color: white;
+    }
+  }
+  .level-widget div {
+    float: left;
+    &#level-range {
+      margin-top: .5rem;
+    }
+    &.labels p {
+      margin: 0 0 1.7rem 1rem;
+    }
+  }
+}

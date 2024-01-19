@@ -1,0 +1,59 @@
+.history {
+  position: relative;
+  display: inline-block;
+  padding-top: 5px;
+  width: auto;
+  z-index: $z-history;
+  .app-container-inner & {
+    @include ui-label("history", top);
+    position: absolute;
+    top: calc($spacing-app-outer + $header-height);
+    left: $spacing-app-outer;
+    margin-top: 2rem;
+    background-color: $color-bg-transparent;
+    @include breakpoint(m) {
+      margin-top: 3rem;
+    }
+  }
+  &-list {
+    @include list-reset;
+    margin-bottom: 10px;
+    .app-container-inner & {
+      @include breakpoint(m, max-width) {
+        display: none;
+      }
+    }
+    li:not(:last-of-type) {
+      margin-bottom: 5px;
+    }
+    a {
+      color: $color-text;
+    }
+  }
+  &-full {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: $history-full-width;
+    height: 100%;
+    padding: 1rem 1.5rem;
+    background-color: $color-black;
+    color: white;
+    z-index: $z-menu;
+    transform: translateX(-100%);
+    transition: transform 0.50s ease;
+    overflow: auto;
+    .history {
+      display: block;
+    }
+    &.is-opened {
+      transform: translateX(0);
+    }
+    a {
+      display: block;
+      color: white;
+      padding: 10px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+    }
+  }
+}

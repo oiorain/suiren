@@ -1,0 +1,46 @@
+body {
+  font-family: $font-stack;
+  font-size: 16px;
+  line-height: 1.35;
+  color: $color-black;
+  @include breakpoint(xs, max-width) {
+    font-size: 14px;
+  }
+  @include breakpoint(s, max-width) {
+    font-size: 15px;
+  }
+}
+
+form, input, button {
+  font-family: $font-stack;
+}
+
+a {
+  text-decoration: none;
+  color: $color-accent;
+  &:hover{
+    color: $color-black;
+  }
+}
+
+hr {
+  margin: 2rem 0;
+  border: 0;
+  height: 1px;
+  background-color: $color-transparent-black;
+  &.hr-negative {
+    background-color: $color-transparent-white;
+  }
+}
+
+.app-title {
+  height: $header-height;
+  line-height: $header-height;
+  font-weight: 900;
+  font-size: 2em;
+  margin: 0;
+  .version {
+    font-weight: light;
+    color: $color-transparent-white;
+  }
+}

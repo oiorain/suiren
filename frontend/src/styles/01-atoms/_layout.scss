@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $color-bg;
+}
+
+.app-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  transition: transform 0.50s ease;
+  &.menu-is-opened {
+    transform: translateX(-$menu-width);
+    @include breakpoint(m, max-width) {
+      transform: translateX(-$menu-width-mobile);
+    }
+  }
+  &.history-full-is-opened {
+    transform: translateX($history-full-width);
+  }
+  &-inner {
+    height: 100%;
+    padding: $spacing-app-outer;
+  }
+}

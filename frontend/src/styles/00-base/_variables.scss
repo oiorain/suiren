@@ -1,0 +1,57 @@
+/// FONTS
+$font-stack: "Fira Mono", "游ゴシック", "YuGothic","Hiragino Kaku Gothic ProN","Hiragino Kaku Gothic Pro","ＭＳ ゴシック", monospace;
+
+// COLORS
+$color-bg: #eff1f8;
+$color-bg-transparent: rgba($color-bg, 0.85);
+$color-black: #111111;
+$color-fill: #9da3ae;
+$color-accent: #3a63f3;
+$color-text: $color-black;
+$color-text-quiet: darken($color-fill, 35%);
+$color-transparent-white: rgba(255, 255, 255, 0.50);
+$color-transparent-black: rgba(0, 0, 0, 0.50);
+
+$color-circle-fill: $color-fill;
+$color-lines: $color-circle-fill;
+
+
+// BORDERS
+$border-width-base: 2px;
+
+// SPACING
+$spacing-app-outer: 3vw;
+$spacing-header-inner: 1.25em;
+
+
+// HEADER
+$header-height: 60px;
+$header-height-mobile: 50px;
+$header-width: 320px;
+
+
+// Z INDEXES
+$z-menu: 5;
+$z-menu-button: 4;
+$z-header: 4;
+$z-legend: 3;
+$z-history: 2;
+$z-graph: 1;
+
+
+// MENU
+$menu-width: 50vw;
+$menu-width-mobile: 80vw;
+
+// FULL HISTORY
+$history-full-width: 220px;
+
+// BREAKPOINTS
+$breakpoints: (
+  xxs: 320px,
+  xs: 480px,
+  s: 736px,
+  m: 980px,
+  l: 1280px,
+  xl: 1680px
+);
