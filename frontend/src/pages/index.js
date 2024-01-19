@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Layout from '../components/Layout'
+import Link from 'next/link'
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 
@@ -16,7 +17,7 @@ const Home = ({ }) => {
     <Layout>
       <div class="start">
         <img src="/start-screen-img.svg" />
-        <p>Suiren <a href="/word/睡蓮">睡蓮</a> is a fun way to explore the Japanese language using Kanji to hop from one word to another, creating memorable connections. </p>
+        <p>Suiren <Link href={{ pathname: '/word', query: { word: '睡蓮' }, }}>睡蓮</Link> is a fun way to explore the Japanese language using Kanji to hop from one word to another, creating memorable connections. </p>
         <p>To start exploring, select a word below or search for one with at least one Kanji in it:</p>
         <div class="start-link-list">
           <a href="/word/木" class="start-link">木</a>
