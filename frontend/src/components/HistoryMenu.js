@@ -1,0 +1,21 @@
+const HistoryMenu = ({ onClick, historyActive, allClicks }) => {
+    let classname = 'history-button'
+    if (historyActive)
+      classname += ' is-active'
+  
+    return (
+      <div className="history" id="recent_history">
+        <ul className="history-list">
+        {allClicks.map(d => (<li key={d}><a href="/word/{d}">{d}</a></li>))} 
+        </ul>
+        <button 
+          onClick={onClick} 
+          className={classname}>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    )
+  }
+
+  export default HistoryMenu

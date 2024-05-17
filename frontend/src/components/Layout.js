@@ -1,43 +1,57 @@
 import Nav from './Nav'
+import History from './History'
+import HistoryMenu from './HistoryMenu'
+import { useState } from 'react'
+
+const MenuButton = ({ onClick, menuActive }) => (
+  <button 
+    onClick={onClick} 
+    className={menuActive? 'menu-button is-active':'menu-button'}>
+    <div className="menu-button-lines">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </button>
+)
+
+const Button = ({ onClick, text }) => (
+  <button onClick={onClick}>
+    {text}
+  </button>
+)
 
 export default function Layout({ children }){
-  const onClick = () => {console.log("history")}
+  let [ menuActive, setMenu ] = useState(false)
+  let [ historyActive, setHistory ] = useState(false)
+  const [allClicks, setAll] = useState(['木', '大切', '休息'])
 
   return (<>
-      <Nav/>
-      <div class="history-full">
-        <div class="history" id="full_history">
-          <ul class="history-list"></ul>
-        </div>
-      </div>
-      <div class="app-container">
-        <div class="app-container-inner">
-          <button class="menu-button">
-            <div class="menu-button-lines">
-              <span></span>
-              <span></span>
-              <span></span>
-              <span></span>
-            </div>
-          </button>
-          <header class="app-header">
-            <form class="search" id="search">
-              <span class="search-active"></span>
-              <button class="search-button">
-                <div class="magnifier">
-                  <div class="magnifier-circle"></div>
-                  <div class="magnifier-handle"></div>
+      <Nav menuActive={menuActive}/>
+      <History historyActive={historyActive} allClicks={allClicks} />
+      <div className={`app-container ${menuActive ? "menu-is-opened" : ""} ${historyActive ? "history-full-is-opened" : ""}`}>
+        <div className="app-container-inner">
+          <MenuButton
+            onClick={() => setMenu(!menuActive)} 
+            menuActive={menuActive}>
+          </MenuButton>
+          <header className="app-header">
+            <form className="search" id="search">
+              <span className="search-active"></span>
+              <button className="search-button">
+                <div className="magnifier">
+                  <div className="magnifier-circle"></div>
+                  <div className="magnifier-handle"></div>
                 </div>
               </button>
             </form>
           </header>
-          <div class="history" id="recent_history">
-            <ul class="history-list"></ul>
-            <button class="history-button" onClick={onClick}>
-              <span></span>
-              <span></span>
-            </button>
-          </div>
+          <HistoryMenu 
+            onClick={() => setHistory(!historyActive)} 
+            historyActive={historyActive}
+            allClicks={allClicks} >
+          </HistoryMenu>
         </div>
         {children}
       </div>
