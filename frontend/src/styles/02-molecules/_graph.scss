@@ -1,4 +1,4 @@
-.graph {
+#graph {
   position: absolute;
   top: 0;
   left: 0;
@@ -27,7 +27,7 @@
   }
   text {
     fill: $color-text-quiet;
-    font-size: 22px;
+    font-size: 18px;
     cursor: pointer;
     transform-origin: center;
     @include breakpoint(m, max-width) {
