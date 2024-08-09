@@ -31,10 +31,10 @@ module.exports =  {
     async graphData(ctx) {
       try {
         // Fetch a single word by its ID from the request params
-        const word = await strapi.db.query('api::word.word').findOne({
-          where: { id: ctx.params.id },
-          select: ['id', 'english', 'kanji'],
-        });
+        const word = await strapi.entityService.findOne('api::word.word',
+            ctx.params.id, 
+            { fields: ['id', 'english', 'kanji'] }
+        );
   
         if (!word) {
           return ctx.send({ message: 'Word not found' }, 404);
@@ -54,7 +54,7 @@ module.exports =  {
         console.log(data)
   
         // // Fetch related definitions based on the word ID
-        const words = await strapi.db.query('api::word.word').findMany({
+        const words = await strapi.entityService.findMany('api::word.word', {
             fields: ["id", "kanji"],
             limit: 5,
             filters: { $or: filterOnlyKanji(word.kanji), },
@@ -65,7 +65,7 @@ module.exports =  {
 
             let filters = filterOnlyKanji(words[o].kanji)
             if (filters.length > 0){
-                const morewords = await strapi.db.query('api::word.word').findMany({
+                const morewords = await strapi.entityService.findMany('api::word.word', {
                     fields: ["id", "kanji"],
                     limit: 5,
                     filters: { $or: filterOnlyKanji(words[o].kanji), },
