@@ -31,11 +31,13 @@ module.exports =  {
     async graphData(ctx) {
       try {
         // Fetch a single word by its ID from the request params
-        const word = await strapi.entityService.findOne('api::word.word',
-            ctx.params.id, 
-            { fields: ['id', 'english', 'kanji'] }
-        );
-  
+        const word = await strapi.documents('api::word.word').findFirst({
+          fields: ['id', 'english', 'kanji'],
+          filters: {
+            kanji: ctx.params.word
+          }
+        });
+
         if (!word) {
           return ctx.send({ message: 'Word not found' }, 404);
         }
@@ -52,9 +54,9 @@ module.exports =  {
         }
 
         console.log(data)
-  
+
         // // Fetch related definitions based on the word ID
-        const words = await strapi.entityService.findMany('api::word.word', {
+        const words = await strapi.documents('api::word.word').findMany({
             fields: ["id", "kanji"],
             limit: 5,
             filters: { $or: filterOnlyKanji(word.kanji), },
@@ -65,12 +67,12 @@ module.exports =  {
 
             let filters = filterOnlyKanji(words[o].kanji)
             if (filters.length > 0){
-                const morewords = await strapi.entityService.findMany('api::word.word', {
+                const morewords = await strapi.documents('api::word.word').findMany({
                     fields: ["id", "kanji"],
                     limit: 5,
                     filters: { $or: filterOnlyKanji(words[o].kanji), },
                 });
-    
+
                 let il = i;
                 for (let d = 0; morewords[d]; d++){
                     il++;
@@ -79,13 +81,13 @@ module.exports =  {
                 i = il+1;
             }
         }
-  
+
         // Aggregate data
         const aggregatedData = {
           word: word,
           data: data,
         };
-  
+
         // Send the aggregated data as response
         ctx.send(aggregatedData);
       } catch (err) {

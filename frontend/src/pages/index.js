@@ -21,8 +21,8 @@ const Home = ({ }) => {
         <p>To start exploring, select a word below or search for one with at least one Kanji in it:</p>
         <div class="start-link-list">
           <a href="/word/木" class="start-link">木</a>
-          <Route path="/word/木" component={Word}/>
-v
+
+
           <a href="/word/大切" class="start-link">大切</a>
           <a href="/word/休息" class="start-link">休息</a>
           <a href="/word/満足" class="start-link">満足</a>

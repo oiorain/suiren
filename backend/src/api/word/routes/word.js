@@ -12,7 +12,7 @@ module.exports = {
     routes: [
       {
         method: 'GET',
-        path: '/words/:id/graph-data',
+        path: '/words/:word/graph-data',
         handler: 'word.graphData',
         config: {
           policies: [],

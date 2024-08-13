@@ -21,7 +21,7 @@ const Home = ({ word, data, error }) => {
       <meta name='description' content='Suiren - a kanji relationship Explorer' />
     </Head>
 
-    <Layout>      
+    <Layout>
       <Graph wordData={wordData} data={data}></Graph>
       <Legend word={word}></Legend>
       <button type="button" onClick={() => router.push('/word/27919')}>
@@ -35,7 +35,7 @@ const Home = ({ word, data, error }) => {
 Home.getInitialProps = async ctx => {
   try {
     const res = await axios.get(`http://127.0.0.1:1337/api/words/${ctx.query.id}/graph-data`);
-    
+
     const word = res.data.word;
     const data = res.data.data;
 
