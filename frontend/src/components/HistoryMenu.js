@@ -6,7 +6,13 @@ const HistoryMenu = ({ onClick, historyActive, allClicks }) => {
     return (
       <div className="history" id="recent_history">
         <ul className="history-list">
-        {allClicks.map(d => (<li key={d}><a href="/word/{d}">{d}</a></li>))} 
+        {allClicks.map(d => {
+          return (
+            <li key={d} data-word={d}>
+              <a href={`/word/${d}`}>{d}</a>
+            </li>
+          );
+        })} 
         </ul>
         <button 
           onClick={onClick} 

@@ -113,7 +113,7 @@ const chart = ({width, height}, data) => {
         
         for(let s = 0; v.kanji[s]; s++) {
             let id = 0
-            let text = ""
+            let text = "<a href='/word/"+v.kanji+"'>"
             for(let x = 0; v.kanji[x]; x++){
                 // if (v.meta[x]["id"] == v.kanji[s])
                 //     id = v.meta[x]["id"]
@@ -124,6 +124,7 @@ const chart = ({width, height}, data) => {
                 // }
                 text += ">"+v.kanji[x]+"</tspan>";
             }
+            text += "</a>"
             d3.select("#node"+i+" text").html(text)
         }
     })
