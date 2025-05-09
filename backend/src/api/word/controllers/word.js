@@ -29,6 +29,11 @@ function pushData(data, i, il, item){
     })
 }
 
+// Get list of kanji to exclude from queries
+function getExcludedKanji(data) {
+    return data.nodes.map(node => node.kanji);
+}
+
 module.exports = createCoreController('api::word.word', ({ strapi }) => ({
     async graphData(ctx) {
       try {
@@ -55,13 +60,14 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
             "links": []
         }
 
-        console.log(data)
-
         // // Fetch related definitions based on the word ID
         const words = await strapi.documents('api::word.word').findMany({
             fields: ["id", "kanji"],
             limit: 5,
-            filters: { $or: filterOnlyKanji(word.kanji), },
+            filters: { 
+                $or: filterOnlyKanji(word.kanji),
+                kanji: { $notIn: getExcludedKanji(data) }
+            },
         });
 
         for (let o = 0, i = 1; words[o]; o++){
@@ -72,7 +78,10 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
                 const morewords = await strapi.documents('api::word.word').findMany({
                     fields: ["id", "kanji"],
                     limit: 5,
-                    filters: { $or: filterOnlyKanji(words[o].kanji), },
+                    filters: { 
+                        $or: filterOnlyKanji(words[o].kanji),
+                        kanji: { $notIn: getExcludedKanji(data) }
+                    },
                 });
 
                 let il = i;
