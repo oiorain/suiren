@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2025-05-09T08:16:38.060Z"
+    "x-generation-date": "2025-05-09T10:14:31.615Z"
   },
   "x-strapi-config": {
     "plugins": [
@@ -2109,6 +2109,20 @@
               },
               "locale": {
                 "type": "string"
+              },
+              "localizations": {
+                "type": "array",
+                "items": {
+                  "oneOf": [
+                    {
+                      "type": "integer"
+                    },
+                    {
+                      "type": "string"
+                    }
+                  ],
+                  "example": "string or id"
+                }
               }
             }
           }
@@ -2365,6 +2379,20 @@
                                       },
                                       "locale": {
                                         "type": "string"
+                                      },
+                                      "localizations": {
+                                        "type": "array",
+                                        "items": {
+                                          "type": "object",
+                                          "properties": {
+                                            "id": {
+                                              "type": "number"
+                                            },
+                                            "documentId": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        }
                                       }
                                     }
                                   }
@@ -2405,6 +2433,20 @@
                                 },
                                 "locale": {
                                   "type": "string"
+                                },
+                                "localizations": {
+                                  "type": "array",
+                                  "items": {
+                                    "type": "object",
+                                    "properties": {
+                                      "id": {
+                                        "type": "number"
+                                      },
+                                      "documentId": {
+                                        "type": "string"
+                                      }
+                                    }
+                                  }
                                 }
                               }
                             }
@@ -2451,6 +2493,20 @@
                           },
                           "locale": {
                             "type": "string"
+                          },
+                          "localizations": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "id": {
+                                  "type": "number"
+                                },
+                                "documentId": {
+                                  "type": "string"
+                                }
+                              }
+                            }
                           }
                         }
                       },
@@ -2467,6 +2523,20 @@
                       },
                       "locale": {
                         "type": "string"
+                      },
+                      "localizations": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "id": {
+                              "type": "number"
+                            },
+                            "documentId": {
+                              "type": "string"
+                            }
+                          }
+                        }
                       }
                     }
                   }
@@ -2510,6 +2580,20 @@
                 },
                 "locale": {
                   "type": "string"
+                },
+                "localizations": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": {
+                        "type": "number"
+                      },
+                      "documentId": {
+                        "type": "string"
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -2550,6 +2634,20 @@
           },
           "locale": {
             "type": "string"
+          },
+          "localizations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "number"
+                },
+                "documentId": {
+                  "type": "string"
+                }
+              }
+            }
           }
         }
       },
@@ -2798,6 +2896,20 @@
                                       },
                                       "locale": {
                                         "type": "string"
+                                      },
+                                      "localizations": {
+                                        "type": "array",
+                                        "items": {
+                                          "type": "object",
+                                          "properties": {
+                                            "id": {
+                                              "type": "number"
+                                            },
+                                            "documentId": {
+                                              "type": "string"
+                                            }
+                                          }
+                                        }
                                       }
                                     }
                                   }
@@ -2838,6 +2950,20 @@
                                 },
                                 "locale": {
                                   "type": "string"
+                                },
+                                "localizations": {
+                                  "type": "array",
+                                  "items": {
+                                    "type": "object",
+                                    "properties": {
+                                      "id": {
+                                        "type": "number"
+                                      },
+                                      "documentId": {
+                                        "type": "string"
+                                      }
+                                    }
+                                  }
                                 }
                               }
                             }
@@ -2884,6 +3010,20 @@
                           },
                           "locale": {
                             "type": "string"
+                          },
+                          "localizations": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "id": {
+                                  "type": "number"
+                                },
+                                "documentId": {
+                                  "type": "string"
+                                }
+                              }
+                            }
                           }
                         }
                       },
@@ -2900,6 +3040,20 @@
                       },
                       "locale": {
                         "type": "string"
+                      },
+                      "localizations": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "id": {
+                              "type": "number"
+                            },
+                            "documentId": {
+                              "type": "string"
+                            }
+                          }
+                        }
                       }
                     }
                   }
@@ -2940,6 +3094,20 @@
                 },
                 "locale": {
                   "type": "string"
+                },
+                "localizations": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": {
+                        "type": "number"
+                      },
+                      "documentId": {
+                        "type": "string"
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -2983,6 +3151,20 @@
           },
           "locale": {
             "type": "string"
+          },
+          "localizations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "number"
+                },
+                "documentId": {
+                  "type": "string"
+                }
+              }
+            }
           }
         }
       },

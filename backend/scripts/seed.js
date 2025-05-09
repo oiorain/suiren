@@ -1,4 +1,4 @@
-const strapi = require("@strapi/strapi")()
+const { createStrapi } = require("@strapi/strapi");
 
 async function seed() {
   for (let num = 1; num <= 36; num++){
@@ -10,13 +10,13 @@ async function seed() {
     for(const item of json){
       try {
         const entry = await strapi.entityService.findMany('api::word.word', {
-          filters: {kanji: item.kanji},
+          filters: { kanji: item.kanji },
           limit: 1
         });
 
         if (entry.length == 0){
           const {id, ...data } = item;
-          let entry = await strapi.service('api::word.word').create({
+          let entry = await strapi.entityService.create('api::word.word', {
               data: data
             })
             created++;
@@ -32,4 +32,9 @@ async function seed() {
   process.exit(0)
 }
 
-strapi.load().then(seed)
+(async () => {
+  const strapi = await createStrapi();
+  await strapi.start();
+  await seed();
+  process.exit(0);
+})();
