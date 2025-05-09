@@ -4,20 +4,32 @@
  * word router
  */
 
-// const { createCoreRouter } = require('@strapi/strapi').factories;
+const { createCoreRouter } = require('@strapi/strapi').factories;
 
-// module.exports = createCoreRouter('api::word.word');
+const defaultRouter = createCoreRouter('api::word.word');
 
-module.exports = {
-    routes: [
-      {
-        method: 'GET',
-        path: '/words/:word/graph-data',
-        handler: 'word.graphData',
-        config: {
-          policies: [],
-          middlewares: [],
+// Customize the default router
+const customRouter = (innerRouter, extraRoutes = []) => {
+  let routes;
+  return {
+    get prefix() {
+      return innerRouter.prefix;
+    },
+    get routes() {
+      if (!routes) routes = innerRouter.routes.concat([
+        {
+          method: 'GET',
+          path: '/words/:word/graph-data',
+          handler: 'word.graphData',
+          config: {
+            policies: [],
+            middlewares: [],
+          },
         },
-      },
-    ],
+      ]);
+      return routes;
+    },
   };
+};
+
+module.exports = customRouter(defaultRouter);

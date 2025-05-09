@@ -4,6 +4,8 @@
  * word controller
  */
 
+const { createCoreController } = require('@strapi/strapi').factories;
+
 // push all kanji to filters
 function filterOnlyKanji(kanji){
     let filters = []
@@ -27,7 +29,7 @@ function pushData(data, i, il, item){
     })
 }
 
-module.exports =  {
+module.exports = createCoreController('api::word.word', ({ strapi }) => ({
     async graphData(ctx) {
       try {
         // Fetch a single word by its ID from the request params
@@ -94,4 +96,4 @@ module.exports =  {
         ctx.send({ error: 'An error occurred', details: err });
       }
     },
-  };
+}));
