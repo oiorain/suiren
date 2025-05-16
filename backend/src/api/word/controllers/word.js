@@ -36,7 +36,7 @@ async function buildGraphData(word, data){
         let filters = filterOnlyKanji(words[o].kanji)
         if (filters.length > 0){
             const morewords = await strapi.documents('api::word.word').findMany({
-                fields: ["id", "kanji", "hiragana"],
+                fields: ["id", "kanji", "hiragana", "english"],
                 limit: 5,
                 filters: { 
                     $or: filterOnlyKanji(words[o].kanji),
@@ -59,7 +59,9 @@ function pushData(data, i, il, item){
         "id":il.toString(),
         "dbid": item.id.toString(),
         "kanji": item.kanji,
-        "hiragana": item.hiragana
+        "hiragana": item.hiragana,
+        "romaji": wanakana.toRomaji(item.hiragana),
+        "english": item.english
     })
     data.links.push({
         "source": i.toString(),
@@ -77,7 +79,7 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
       try {
         // Fetch a single word by its ID from the request params
         const word = await strapi.documents('api::word.word').findFirst({
-          fields: ['id', 'english', 'kanji', 'hiragana'],
+          fields: ['id', 'english', 'kanji', 'hiragana', 'english'],
           filters: {
             kanji: ctx.params.word
           }
@@ -96,7 +98,9 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
                     "id":"0",
                     "dbid": word.id.toString(),
                     "kanji": word.kanji,
-                    "hiragana": word.hiragana
+                    "hiragana": word.hiragana,
+                    "romaji": wanakana.toRomaji(word.hiragana),
+                    "english": word.english
                 }
             ],
             "links": []
