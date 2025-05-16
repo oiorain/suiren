@@ -4,7 +4,7 @@ const NotFound = ({searchTerm}) => {
     return (
       <div class="start">
       <img src="/start-screen-img.svg" />
-      <p>We couldn't find the page you were looking for: {searchTerm}</p>
+      <p>We couldn&apos;t find the page you were looking for: {searchTerm}</p>
       <p>Try searching for a word or check out these examples:</p>
       <div className="start-link-list">
         <Link href="/word/木" className="start-link">木</Link>
