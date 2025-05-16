@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useRouter } from 'next/router'
 
 import * as d3 from 'd3'
@@ -10,7 +10,7 @@ function getWindowDimensions() {
     };
 }
 
-const chart = ({width, height}, data, router) => {
+const chart = ({width, height}, data, router, onNodeHover) => {
     // Use more of the available space
     const graphWidth = width * 0.95;
     const graphHeight = height * 0.95;
@@ -91,10 +91,20 @@ const chart = ({width, height}, data, router) => {
 
     // Add hover events to all tspan elements
     setTimeout(() => {
+        let currentHoveredNode = null;
+        
         document.querySelectorAll('#graph tspan').forEach(tspan => {
             const charClass = tspan.getAttribute('class');
+            const nodeElement = tspan.closest('.node');
+            const nodeId = nodeElement?.id?.replace('node', '');
+            const nodeData = data.nodes.find(n => n.id === nodeId);
             
-            tspan.addEventListener('mouseenter', () => {
+            const handleMouseEnter = () => {
+                if (nodeData && nodeData !== currentHoveredNode) {
+                    currentHoveredNode = nodeData;
+                    onNodeHover(nodeData);
+                }
+
                 document.querySelectorAll('.' + charClass).forEach(el => {
                     const nodeElement = el.closest('.node');
                     if (nodeElement) {
@@ -102,9 +112,14 @@ const chart = ({width, height}, data, router) => {
                     }
                     el.classList.add('highlight_character');
                 });
-            });
+            };
             
-            tspan.addEventListener('mouseleave', () => {
+            const handleMouseLeave = () => {
+                if (currentHoveredNode) {
+                    currentHoveredNode = null;
+                    onNodeHover(null);
+                }
+
                 document.querySelectorAll('.' + charClass).forEach(el => {
                     const nodeElement = el.closest('.node');
                     if (nodeElement) {
@@ -112,7 +127,15 @@ const chart = ({width, height}, data, router) => {
                     }
                     el.classList.remove('highlight_character');
                 });
-            });
+            };
+
+            // Remove any existing listeners to prevent duplicates
+            tspan.removeEventListener('mouseenter', handleMouseEnter);
+            tspan.removeEventListener('mouseleave', handleMouseLeave);
+            
+            // Add the event listeners
+            tspan.addEventListener('mouseenter', handleMouseEnter);
+            tspan.addEventListener('mouseleave', handleMouseLeave);
         });
     }, 500);
 
@@ -158,7 +181,7 @@ function dragended(event) {
 return svg.node();
 }
 
-export default function Graph({ data }){
+export default function Graph({ data, onNodeHover }){
     const router = useRouter();
 
     useEffect(() => {
@@ -167,7 +190,7 @@ export default function Graph({ data }){
         div.innerHTML = '';
         
         // Create new graph
-        const graph = chart(getWindowDimensions(), data, router);
+        const graph = chart(getWindowDimensions(), data, router, onNodeHover);
         div.appendChild(graph);
         
         // Add additional heating every few seconds to maintain repulsion
@@ -181,12 +204,16 @@ export default function Graph({ data }){
                     }
                 }, 3000);
             }
-        }, 10000); // Reheat every 10 seconds
+        }, 10000);
         
         return () => {
-            clearInterval(reheatInterval); // Clean up on unmount
+            clearInterval(reheatInterval);
+            // Clean up event listeners
+            document.querySelectorAll('#graph tspan').forEach(tspan => {
+                tspan.replaceWith(tspan.cloneNode(true));
+            });
         };
-    }, [data, router]); // router is already in dependencies
+    }, [data, router]); // Remove onNodeHover from dependencies
     
     return (
         <div id="graph"></div>

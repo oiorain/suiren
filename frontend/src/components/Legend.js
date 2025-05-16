@@ -1,5 +1,4 @@
 export default function Legend({ word }) {
-    console.log(word)
     return (
         <div className="legend" id="legend">
             <div className="legend-inner">
