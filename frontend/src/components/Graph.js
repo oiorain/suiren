@@ -1,4 +1,5 @@
 import { useEffect } from 'react'
+import { useRouter } from 'next/router'
 
 import * as d3 from 'd3'
 function getWindowDimensions() {
@@ -9,7 +10,7 @@ function getWindowDimensions() {
     };
 }
 
-const chart = ({width, height}, data) => {
+const chart = ({width, height}, data, router) => {
     // Use more of the available space
     const graphWidth = width * 0.95;
     const graphHeight = height * 0.95;
@@ -39,7 +40,10 @@ const chart = ({width, height}, data) => {
     // Store simulation reference to allow external access
     svg.node().__simulation = simulation;
 
-    // Add a line for each link, and a circle for each node.
+    // Clear any existing elements
+    svg.selectAll("*").remove();
+
+    // Add a line for each link
     const link = svg.append("g")
         .attr("stroke-width", 2)
         .attr("stroke", "#9da3ae")
@@ -47,52 +51,51 @@ const chart = ({width, height}, data) => {
         .style("stroke-dasharray", ("3, 3"))
         .selectAll("line")
         .data(links)
-        .join("line")
+        .join("line");
 
-    const node = svg.append("g").attr("class", "nodes")
+    // Create node groups with proper data binding
+    const node = svg.append("g")
+        .attr("class", "nodes")
         .selectAll(".node")
-        .data(nodes)
-        .enter()
-        .append('g')
-        .attr("id", function(d){ return "node"+d.id;})
-        .attr("class", "node")
+        .data(nodes, d => d.id) // Use d.id as the key for proper data binding
+        .join("g")
+        .attr("id", d => "node" + d.id)
+        .attr("class", "node");
 
         node.append("circle")
         .attr("r", 7)
 
-        // Create a group for the text and link
-        const textGroup = node.append("g")
-            .attr("transform", "translate(12,-12)")
+    // Create text groups for each node
+    node.each(function(d) {
+        const textGroup = d3.select(this)
+            .append("g")
+            .attr("transform", "translate(12,-12)");
 
-        // Generate character-specific classes and apply hover handlers
-        data.nodes.forEach(function (v, i) {
-            // Create a link element using D3
-            const link = d3.select("#node"+i+" g:last-child")
-                .append("a")
-                .attr("href", `/word/${v.kanji}`)
-                .attr("class", "node-link");
-            
-            // Create a text element inside the link
-            const text = link.append("text");
-            
-            // Add each character as a tspan
-            for(let x = 0; v.kanji[x]; x++){
-                const charClass = "char_" + v.kanji[x].charCodeAt(0);
-                text.append("tspan")
-                    .attr("class", charClass)
-                    .text(v.kanji[x]);
-            }
-        });
-    
+        // Create text element with click handler
+        const text = textGroup.append("text")
+            .style("cursor", "pointer")
+            .style("user-select", "none")
+            .style("font-size", "20px")
+            .on("click", () => {
+                router.push(`/word/${d.kanji}`);
+            });
+
+        // Add each character as a tspan
+        for(let x = 0; d.kanji[x]; x++) {
+            const charClass = "char_" + d.kanji[x].charCodeAt(0);
+            text.append("tspan")
+                .attr("class", charClass)
+                .text(d.kanji[x]);
+        }
+    });
+
     // Add hover events to all tspan elements
     setTimeout(() => {
         document.querySelectorAll('#graph tspan').forEach(tspan => {
             const charClass = tspan.getAttribute('class');
             
             tspan.addEventListener('mouseenter', () => {
-                // Find all tspans with the same class and add highlight
                 document.querySelectorAll('.' + charClass).forEach(el => {
-                    // Find the parent .node element and add highlight class to it
                     const nodeElement = el.closest('.node');
                     if (nodeElement) {
                         nodeElement.classList.add('highlight');
@@ -102,9 +105,7 @@ const chart = ({width, height}, data) => {
             });
             
             tspan.addEventListener('mouseleave', () => {
-                // Remove highlights when mouse leaves
                 document.querySelectorAll('.' + charClass).forEach(el => {
-                    // Find the parent .node element and remove highlight class
                     const nodeElement = el.closest('.node');
                     if (nodeElement) {
                         nodeElement.classList.remove('highlight');
@@ -115,11 +116,11 @@ const chart = ({width, height}, data) => {
         });
     }, 500);
 
-    // Add a drag behavior.
+    // Add drag behavior
     node.call(d3.drag()
-            .on("start", dragstarted)
-            .on("drag", dragged)
-            .on("end", dragended));
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended));
 
     // Set the position attributes of links and nodes each time the simulation ticks.
     simulation.on("tick", () => {
@@ -160,18 +161,15 @@ return svg.node();
 export default function Graph({ data }){
     const router = useRouter();
 
-    // Handler for node clicks
-    const handleNodeClick = (kanji) => {
-        router.push(`/word/${kanji}`);
-    };
-
-    // this is used to affect the document after it was generated and insert the graph
     useEffect(() => {
-        const graph = chart(getWindowDimensions(), data, handleNodeClick);
-        const div = document.getElementById("graph")
-        if (div.innerHTML == '')
-            div.appendChild(graph)
-            
+        // Clear existing graph
+        const div = document.getElementById("graph");
+        div.innerHTML = '';
+        
+        // Create new graph
+        const graph = chart(getWindowDimensions(), data, router);
+        div.appendChild(graph);
+        
         // Add additional heating every few seconds to maintain repulsion
         const reheatInterval = setInterval(() => {
             const svgNode = document.querySelector('#graph svg');
@@ -188,10 +186,10 @@ export default function Graph({ data }){
         return () => {
             clearInterval(reheatInterval); // Clean up on unmount
         };
-    }, [data, router]); // Added router to dependencies
+    }, [data, router]); // router is already in dependencies
     
     return (
         <div id="graph"></div>
-    )
+    );
 }
   
