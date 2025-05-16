@@ -21,7 +21,8 @@ function pushData(data, i, il, item){
     data.nodes.push({
         "id":il.toString(),
         "dbid": item.id.toString(),
-        "kanji": item.kanji
+        "kanji": item.kanji,
+        "hiragana": item.hiragana
     })
     data.links.push({
         "source": i.toString(),
@@ -39,7 +40,7 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
       try {
         // Fetch a single word by its ID from the request params
         const word = await strapi.documents('api::word.word').findFirst({
-          fields: ['id', 'english', 'kanji'],
+          fields: ['id', 'english', 'kanji', 'hiragana'],
           filters: {
             kanji: ctx.params.word
           }
@@ -54,7 +55,8 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
                 {
                     "id":"0",
                     "dbid": word.id.toString(),
-                    "kanji": word.kanji
+                    "kanji": word.kanji,
+                    "hiragana": word.hiragana
                 }
             ],
             "links": []
@@ -62,7 +64,7 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
 
         // // Fetch related definitions based on the word ID
         const words = await strapi.documents('api::word.word').findMany({
-            fields: ["id", "kanji"],
+            fields: ["id", "kanji", "hiragana"],
             limit: 5,
             filters: { 
                 $or: filterOnlyKanji(word.kanji),
@@ -76,7 +78,7 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
             let filters = filterOnlyKanji(words[o].kanji)
             if (filters.length > 0){
                 const morewords = await strapi.documents('api::word.word').findMany({
-                    fields: ["id", "kanji"],
+                    fields: ["id", "kanji", "hiragana"],
                     limit: 5,
                     filters: { 
                         $or: filterOnlyKanji(words[o].kanji),
