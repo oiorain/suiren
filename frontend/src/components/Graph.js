@@ -7,61 +7,13 @@ function getWindowDimensions() {
       width,
       height
     };
-  }
-// sample data
-//   const data = {
-//     "nodes": [
-//         {
-//             "id":"0",
-//             "kanji": "木",
-//         },
-//         {
-//             "id":"1",
-//             "kanji": "木曜日",
-//         },
-//         {
-//             "id":"2",
-//             "kanji": "木村"
-//         },
-//         {
-//             "id": "3",
-//             "kanji": "木綿"
-//         },
-//         {
-//             "id": "4",
-//             "kanji": "木星"
-//         },
-//         {
-//             "id":"5",
-//             "kanji": "村"
-//         },
-//     ],
-//     "links": [
-//         {
-//             "source": "0",
-//             "target": "1",
-//         },
-//         {
-//             "source": "0",
-//             "target": "2",
-//         },
-//         {
-//             "source": "0",
-//             "target": "3",
-//         },
-//         {
-//             "source": "0",
-//             "target": "4",
-//         },
-//         {
-//             "source": "2",
-//             "target": "5",
-//         },
-//     ]
-// }
+}
 
 const chart = ({width, height}, data) => {
-
+    // Use more of the available space
+    const graphWidth = width * 0.95;
+    const graphHeight = height * 0.95;
+    
     // The force simulation mutates links and nodes, so create a copy
     // so that re-evaluating this cell produces the same result.
     const links = data.links.map(d => ({...d}));
@@ -69,17 +21,23 @@ const chart = ({width, height}, data) => {
 
     // Create a simulation with several forces.
     const simulation = d3.forceSimulation(nodes)
-        .force("link", d3.forceLink(links).id(d => d.id))
-        .force("charge", d3.forceManyBody().strength(-500))
-        .force("x", d3.forceX())
-        .force("y", d3.forceY());
+        .force("link", d3.forceLink(links).id(d => d.id).distance(130)) // Increased distance between nodes
+        .force("charge", d3.forceManyBody().strength(-1000)) // Increased repulsion strength
+        .force("center", d3.forceCenter(0, 0)) // Add a centering force
+        .force("x", d3.forceX().strength(0.1)) // Reduced x-force to allow more spread
+        .force("y", d3.forceY().strength(0.1)) // Reduced y-force to allow more spread
+        .force("collision", d3.forceCollide().radius(50)) // Add collision detection to prevent overlap
+        .alphaDecay(0.01); // Slow down the simulation cooling for better layout
 
     // Create the SVG container.
     const svg = d3.create("svg")
-        .attr("width", width)
-        .attr("height", height)
-        .attr("viewBox", [-width / 2, -height / 2, width, height])
-        .attr("style", "max-width: 100%; height: auto;");
+        .attr("width", graphWidth)
+        .attr("height", graphHeight)
+        .attr("viewBox", [-graphWidth / 2, -graphHeight / 2, graphWidth, graphHeight])
+        .attr("style", "width: 100%; height: 100%;"); // Changed for better responsiveness
+
+    // Store simulation reference to allow external access
+    svg.node().__simulation = simulation;
 
     // Add a line for each link, and a circle for each node.
     const link = svg.append("g")
@@ -107,27 +65,54 @@ const chart = ({width, height}, data) => {
         .attr("dy", -12)
         .text(function(d) { return d.kanji });
 
-    // console.log("====")
+    // Generate character-specific classes and apply hover handlers
     data.nodes.forEach(function (v, i) {
-        // console.log(v, i)
-        
         for(let s = 0; v.kanji[s]; s++) {
-            let id = 0
+            // Generate HTML for each character
             let text = "<a href='/word/"+v.kanji+"'>"
+            
             for(let x = 0; v.kanji[x]; x++){
-                // if (v.meta[x]["id"] == v.kanji[s])
-                //     id = v.meta[x]["id"]
-                // }
-                text += "<tspan ";
-                // if (id){ // Todo : change for highlight
-                text += "class='"+id+"'"
-                // }
-                text += ">"+v.kanji[x]+"</tspan>";
+                // Create class name based on the character
+                const charClass = "char_" + v.kanji[x].charCodeAt(0);
+                
+                text += "<tspan class='" + charClass + "'>" + v.kanji[x] + "</tspan>";
             }
             text += "</a>"
             d3.select("#node"+i+" text").html(text)
         }
-    })
+    });
+    
+    // Add hover events to all tspan elements
+    setTimeout(() => {
+        document.querySelectorAll('#graph tspan').forEach(tspan => {
+            const charClass = tspan.getAttribute('class');
+            
+            tspan.addEventListener('mouseenter', () => {
+                console.log("enter")
+                // Find all tspans with the same class and add highlight
+                document.querySelectorAll('.' + charClass).forEach(el => {
+                    // Find the parent .node element and add highlight class to it
+                    const nodeElement = el.closest('.node');
+                    if (nodeElement) {
+                        nodeElement.classList.add('highlight');
+                    }
+                    el.classList.add('highlight_character');
+                });
+            });
+            
+            tspan.addEventListener('mouseleave', () => {
+                // Remove highlights when mouse leaves
+                document.querySelectorAll('.' + charClass).forEach(el => {
+                    // Find the parent .node element and remove highlight class
+                    const nodeElement = el.closest('.node');
+                    if (nodeElement) {
+                        nodeElement.classList.remove('highlight');
+                    }
+                    el.classList.remove('highlight_character');
+                });
+            });
+        });
+    }, 500); // Small delay to ensure elements are rendered
 
     // Add a drag behavior.
     node.call(d3.drag()
@@ -161,17 +146,12 @@ function dragged(event) {
 }
 
 // Restore the target alpha so the simulation cools after dragging ends.
-// Unfix the subject position now that it’s no longer being dragged.
+// Unfix the subject position now that it's no longer being dragged.
 function dragended(event) {
     if (!event.active) simulation.alphaTarget(0);
     event.subject.fx = null;
     event.subject.fy = null;
 }
-
-// When this cell is re-run, stop the previous simulation. (This doesn’t
-// really matter since the target alpha is zero and the simulation will
-// stop naturally, but it’s a good practice.)
-// invalidation.then(() => simulation.stop());
 
 return svg.node();
 }
@@ -184,7 +164,24 @@ export default function Graph({ data }){
         const div = document.getElementById("graph")
         if (div.innerHTML == '')
             div.appendChild(graph)
-    })
+            
+        // Add additional heating every few seconds to maintain repulsion
+        const reheatInterval = setInterval(() => {
+            const svgNode = document.querySelector('#graph svg');
+            if (svgNode && svgNode.__simulation) {
+                svgNode.__simulation.alphaTarget(0.1).restart();
+                setTimeout(() => {
+                    if (svgNode.__simulation) {
+                        svgNode.__simulation.alphaTarget(0);
+                    }
+                }, 3000);
+            }
+        }, 10000); // Reheat every 10 seconds
+        
+        return () => {
+            clearInterval(reheatInterval); // Clean up on unmount
+        };
+    }, [data]); // Added data dependency to refresh when data changes
     
     return (
         <div id="graph"></div>

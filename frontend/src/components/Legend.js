@@ -8,8 +8,9 @@ export default function Legend({ word }) {
                     <span className="hide">HIDE</span>
                 </div>
                 <h1>{word.kanji}</h1>
-                <p className="hiragana">{word.hiragana} / {word.romaji}</p>
-                <div className="english"> {word.english}</div>
+                <p className="hiragana"><strong>{word.hiragana} / {word.romaji}</strong></p>
+
+                <p className="english"> {word.english}</p>
             </div>
         </div>
     )

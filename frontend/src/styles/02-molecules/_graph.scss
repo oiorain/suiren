@@ -27,7 +27,7 @@
   }
   text {
     fill: $color-text-quiet;
-    font-size: 18px;
+    font-size: 20px;
     cursor: pointer;
     transform-origin: center;
     @include breakpoint(m, max-width) {
