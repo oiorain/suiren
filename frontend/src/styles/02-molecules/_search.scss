@@ -14,7 +14,9 @@
     height: 100%;
     padding: 0 $spacing-header-inner;
     border: none;
+    color: $color-text;
     transition: border 0.25s ease;
+    background-color: transparent;
     @include breakpoint(xs, max-width) {
       padding: 0 $spacing-header-inner/1.50;
     }

@@ -2,6 +2,7 @@ import Nav from './Nav'
 import History from './History'
 import HistoryMenu from './HistoryMenu'
 import { useState } from 'react'
+import { useRouter } from 'next/router'
 
 const MenuButton = ({ onClick, menuActive }) => (
   <button 
@@ -26,6 +27,7 @@ export default function Layout({ children }){
   let [ menuActive, setMenu ] = useState(false)
   let [ historyActive, setHistory ] = useState(false)
   const [allClicks, setAll] = useState(['木', '大切', '休息'])
+  const router = useRouter()
 
   return (<>
       <Nav menuActive={menuActive}/>
@@ -37,9 +39,20 @@ export default function Layout({ children }){
             menuActive={menuActive}>
           </MenuButton>
           <header className="app-header">
-            <form className="search" id="search">
+            <form className="search" id="search" onSubmit={(e) => {
+              e.preventDefault();
+              const input = e.target.querySelector('input');
+              if (input.value) {
+                router.push(`/word/${input.value}`);
+              }
+            }}>
+              <input 
+                type="text" 
+                placeholder="Search for a word"
+                aria-label="Search for a word"
+              />
               <span className="search-active"></span>
-              <button className="search-button">
+              <button type="submit" className="search-button">
                 <div className="magnifier">
                   <div className="magnifier-circle"></div>
                   <div className="magnifier-handle"></div>
