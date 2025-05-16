@@ -1,4 +1,6 @@
 'use strict';
+const wanakana = require('wanakana');
+
 
 /**
  * word controller
@@ -15,6 +17,41 @@ function filterOnlyKanji(kanji){
             filters.push({ kanji: { $contains: kanji[i]}})
     }
     return filters
+}
+
+async function buildGraphData(word, data){
+    // Fetch related definitions based on the word ID
+    const words = await strapi.documents('api::word.word').findMany({
+        fields: ["id", "kanji", "hiragana"],
+        limit: 5,
+        filters: { 
+            $or: filterOnlyKanji(word.kanji),
+            kanji: { $notIn: getExcludedKanji(data) }
+        },
+    });
+
+    for (let o = 0, i = 1; words[o]; o++){
+        pushData(data, 0, i, words[o])
+
+        let filters = filterOnlyKanji(words[o].kanji)
+        if (filters.length > 0){
+            const morewords = await strapi.documents('api::word.word').findMany({
+                fields: ["id", "kanji", "hiragana"],
+                limit: 5,
+                filters: { 
+                    $or: filterOnlyKanji(words[o].kanji),
+                    kanji: { $notIn: getExcludedKanji(data) }
+                },
+            });
+
+            let il = i;
+            for (let d = 0; morewords[d]; d++){
+                il++;
+                pushData(data, i, il, morewords[d])
+            }
+            i = il+1;
+        }
+    }
 }
 
 function pushData(data, i, il, item){
@@ -44,11 +81,14 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
           filters: {
             kanji: ctx.params.word
           }
-        });
+        }); 
+
 
         if (!word) {
           return ctx.send({ message: 'Word not found' }, 404);
         }
+
+        word.romaji = wanakana.toRomaji(word.hiragana)
 
         let data = {
             "nodes": [
@@ -62,47 +102,13 @@ module.exports = createCoreController('api::word.word', ({ strapi }) => ({
             "links": []
         }
 
-        // // Fetch related definitions based on the word ID
-        const words = await strapi.documents('api::word.word').findMany({
-            fields: ["id", "kanji", "hiragana"],
-            limit: 5,
-            filters: { 
-                $or: filterOnlyKanji(word.kanji),
-                kanji: { $notIn: getExcludedKanji(data) }
-            },
-        });
-
-        for (let o = 0, i = 1; words[o]; o++){
-            pushData(data, 0, i, words[o])
-
-            let filters = filterOnlyKanji(words[o].kanji)
-            if (filters.length > 0){
-                const morewords = await strapi.documents('api::word.word').findMany({
-                    fields: ["id", "kanji", "hiragana"],
-                    limit: 5,
-                    filters: { 
-                        $or: filterOnlyKanji(words[o].kanji),
-                        kanji: { $notIn: getExcludedKanji(data) }
-                    },
-                });
-
-                let il = i;
-                for (let d = 0; morewords[d]; d++){
-                    il++;
-                    pushData(data, i, il, morewords[d])
-                }
-                i = il+1;
-            }
-        }
-
-        // Aggregate data
-        const aggregatedData = {
-          word: word,
-          data: data,
-        };
+        await buildGraphData(word, data)
 
         // Send the aggregated data as response
-        ctx.send(aggregatedData);
+        ctx.send({
+            word: word,
+            data: data,
+          });
       } catch (err) {
         ctx.send({ error: 'An error occurred', details: err });
       }
