@@ -88,7 +88,6 @@ const chart = ({width, height}, data) => {
             const charClass = tspan.getAttribute('class');
             
             tspan.addEventListener('mouseenter', () => {
-                console.log("enter")
                 // Find all tspans with the same class and add highlight
                 document.querySelectorAll('.' + charClass).forEach(el => {
                     // Find the parent .node element and add highlight class to it
@@ -157,7 +156,6 @@ return svg.node();
 }
 
 export default function Graph({ data }){
-    console.log(data)
     // this is used to affect the document after it was generated and insert the graph
     useEffect(() => {
         const graph = chart(getWindowDimensions(), data);

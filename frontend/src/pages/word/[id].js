@@ -34,7 +34,8 @@ const Home = ({ word, data, error }) => {
 
 Home.getInitialProps = async ctx => {
   try {
-    const res = await axios.get(`http://127.0.0.1:1337/api/words/${ctx.query.id}/graph-data`);
+    const apiUrl = process.env.API_URL || 'http://127.0.0.1:1337';
+    const res = await axios.get(`${apiUrl}/api/words/${ctx.query.id}/graph-data`);
 
     const word = res.data.word;
     const data = res.data.data;
