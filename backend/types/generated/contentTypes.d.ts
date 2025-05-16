@@ -373,37 +373,6 @@ export interface AdminUser extends Struct.CollectionTypeSchema {
   };
 }
 
-export interface ApiComponentComponent extends Struct.CollectionTypeSchema {
-  collectionName: 'components';
-  info: {
-    displayName: 'Component';
-    pluralName: 'components';
-    singularName: 'component';
-  };
-  options: {
-    draftAndPublish: false;
-  };
-  attributes: {
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    kanji: Schema.Attribute.String &
-      Schema.Attribute.Required &
-      Schema.Attribute.Unique;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<
-      'oneToMany',
-      'api::component.component'
-    > &
-      Schema.Attribute.Private;
-    publishedAt: Schema.Attribute.DateTime;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    words: Schema.Attribute.Relation<'manyToMany', 'api::word.word'>;
-  };
-}
-
 export interface ApiWordWord extends Struct.CollectionTypeSchema {
   collectionName: 'words';
   info: {
@@ -416,10 +385,6 @@ export interface ApiWordWord extends Struct.CollectionTypeSchema {
     draftAndPublish: false;
   };
   attributes: {
-    components: Schema.Attribute.Relation<
-      'manyToMany',
-      'api::component.component'
-    >;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -949,7 +914,6 @@ declare module '@strapi/strapi' {
       'admin::transfer-token': AdminTransferToken;
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
-      'api::component.component': ApiComponentComponent;
       'api::word.word': ApiWordWord;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;

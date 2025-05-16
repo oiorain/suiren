@@ -26,7 +26,8 @@ const Home = ({ }) => {
           <a href="/word/満足" class="start-link">満足</a>
           <a href="/word/睡蓮" class="start-link">睡蓮</a>
         </div>
-        <p><small>Made by <a href="http://twitter.com/oiorain" target="_blank">Marion Kamoike-Bouguet</a> with <a href="http://aqworks.com" target="_blank">AQ</a>.</small></p>
+        <p><small>Made by <a href="http://twitter.com/oiorain" target="_blank">Marion Kamoike-Bouguet</a> with <a href="http://aqworks.com" target="_blank">AQ</a>.<br/>
+        Running on <a href='http://strapi.io' target='_blank'>Strapi.io</a>, Hosted on <a href='https://strapi.io/cloud' target='_blank'>StrapiCloud</a>.</small></p>
       </div>
     {/* <%= render "partials/graph", hide: true %> */}
 

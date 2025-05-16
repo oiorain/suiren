@@ -31,12 +31,6 @@
     "isCommon": {
       "type": "boolean"
     },
-    "components": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::component.component",
-      "inversedBy": "words"
-    },
     "rich": {
       "type": "richtext"
     }
