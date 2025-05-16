@@ -1,4 +1,4 @@
-const HistoryMenu = ({ onClick, historyActive, allClicks }) => {
+const HistoryMenu = ({ onClick, historyActive, allClicks, onWordClick }) => {
     let classname = 'history-button'
     if (historyActive)
       classname += ' is-active'
@@ -9,7 +9,10 @@ const HistoryMenu = ({ onClick, historyActive, allClicks }) => {
         {allClicks.map(d => {
           return (
             <li key={d} data-word={d}>
-              <a href={`/word/${d}`}>{d}</a>
+              <a href={`/word/${d}`} onClick={(e) => {
+                e.preventDefault();
+                onWordClick(d);
+              }}>{d}</a>
             </li>
           );
         })} 

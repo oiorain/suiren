@@ -1,8 +1,9 @@
 import Nav from './Nav'
 import History from './History'
 import HistoryMenu from './HistoryMenu'
-import { useState } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { useRouter } from 'next/router'
+import { useHistory } from './HistoryProvider'
 
 const MenuButton = ({ onClick, menuActive }) => (
   <button 
@@ -26,12 +27,28 @@ const Button = ({ onClick, text }) => (
 export default function Layout({ children }){
   let [ menuActive, setMenu ] = useState(false)
   let [ historyActive, setHistory ] = useState(false)
-  const [allClicks, setAll] = useState(['木', '大切', '休息'])
   const router = useRouter()
+  const isFromHistory = useRef(false)
+  const { history, addToHistory } = useHistory()
+
+  // Update history when route changes
+  useEffect(() => {
+    if (router.query.id && !isFromHistory.current) {
+      addToHistory(router.query.id);
+    }
+    // Reset the flag after navigation
+    isFromHistory.current = false;
+  }, [router.query.id, addToHistory]);
+
+  // Handle history clicks
+  const handleHistoryClick = (word) => {
+    isFromHistory.current = true;
+    router.push(`/word/${word}`);
+  };
 
   return (<>
       <Nav menuActive={menuActive}/>
-      <History historyActive={historyActive} allClicks={allClicks} />
+      <History historyActive={historyActive} allClicks={history} onWordClick={handleHistoryClick} />
       <div className={`app-container ${menuActive ? "menu-is-opened" : ""} ${historyActive ? "history-full-is-opened" : ""}`}>
         <div className="app-container-inner">
           <MenuButton
@@ -42,8 +59,11 @@ export default function Layout({ children }){
             <form className="search" id="search" onSubmit={(e) => {
               e.preventDefault();
               const input = e.target.querySelector('input');
-              if (input.value) {
-                router.push(`/word/${input.value}`);
+              const searchWord = input.value.trim();
+              if (searchWord) {
+                addToHistory(searchWord);
+                router.push(`/word/${searchWord}`);
+                input.value = ''; // Clear input after search
               }
             }}>
               <input 
@@ -63,7 +83,8 @@ export default function Layout({ children }){
           <HistoryMenu 
             onClick={() => setHistory(!historyActive)} 
             historyActive={historyActive}
-            allClicks={allClicks} >
+            allClicks={history}
+            onWordClick={handleHistoryClick} >
           </HistoryMenu>
         </div>
         {children}
