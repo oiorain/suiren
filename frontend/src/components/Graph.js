@@ -60,27 +60,29 @@ const chart = ({width, height}, data) => {
         node.append("circle")
         .attr("r", 7)
 
-        node.append("text")
-        .attr("dx", 12)
-        .attr("dy", -12)
-        .text(function(d) { return d.kanji });
+        // Create a group for the text and link
+        const textGroup = node.append("g")
+            .attr("transform", "translate(12,-12)")
 
-    // Generate character-specific classes and apply hover handlers
-    data.nodes.forEach(function (v, i) {
-        for(let s = 0; v.kanji[s]; s++) {
-            // Generate HTML for each character
-            let text = "<a href='/word/"+v.kanji+"'>"
+        // Generate character-specific classes and apply hover handlers
+        data.nodes.forEach(function (v, i) {
+            // Create a link element using D3
+            const link = d3.select("#node"+i+" g:last-child")
+                .append("a")
+                .attr("href", `/word/${v.kanji}`)
+                .attr("class", "node-link");
             
+            // Create a text element inside the link
+            const text = link.append("text");
+            
+            // Add each character as a tspan
             for(let x = 0; v.kanji[x]; x++){
-                // Create class name based on the character
                 const charClass = "char_" + v.kanji[x].charCodeAt(0);
-                
-                text += "<tspan class='" + charClass + "'>" + v.kanji[x] + "</tspan>";
+                text.append("tspan")
+                    .attr("class", charClass)
+                    .text(v.kanji[x]);
             }
-            text += "</a>"
-            d3.select("#node"+i+" text").html(text)
-        }
-    });
+        });
     
     // Add hover events to all tspan elements
     setTimeout(() => {
@@ -111,7 +113,7 @@ const chart = ({width, height}, data) => {
                 });
             });
         });
-    }, 500); // Small delay to ensure elements are rendered
+    }, 500);
 
     // Add a drag behavior.
     node.call(d3.drag()
@@ -156,9 +158,16 @@ return svg.node();
 }
 
 export default function Graph({ data }){
+    const router = useRouter();
+
+    // Handler for node clicks
+    const handleNodeClick = (kanji) => {
+        router.push(`/word/${kanji}`);
+    };
+
     // this is used to affect the document after it was generated and insert the graph
     useEffect(() => {
-        const graph = chart(getWindowDimensions(), data);
+        const graph = chart(getWindowDimensions(), data, handleNodeClick);
         const div = document.getElementById("graph")
         if (div.innerHTML == '')
             div.appendChild(graph)
@@ -179,10 +188,10 @@ export default function Graph({ data }){
         return () => {
             clearInterval(reheatInterval); // Clean up on unmount
         };
-    }, [data]); // Added data dependency to refresh when data changes
+    }, [data, router]); // Added router to dependencies
     
     return (
         <div id="graph"></div>
     )
-  }
+}
   

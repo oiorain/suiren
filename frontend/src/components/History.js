@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 const History = ({historyActive, allClicks}) => {
     return (
         <div className={`history-full ${historyActive? "is-opened":""}`}>
@@ -5,9 +7,9 @@ const History = ({historyActive, allClicks}) => {
           <ul className="history-list">
             {allClicks.map(d => (
               <li key={d} data-word={d}>
-                <a href={`/word/${d}`}>
+                <Link href={`/word/${d}`}>
                   {d}
-                </a>
+                </Link>
               </li>)
             )} 
           </ul>
